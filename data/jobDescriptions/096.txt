@@ -1,0 +1,41 @@
+What you’ll be doing...
+
+You will be responsible for software application development for new and ongoing telecommunications and data communications products. Your efforts will be aimed at customer retention and revenue expansion.
+
+Design, develop, and test custom software systems for telecommunications and data communications applications.
+Analyze customer requirements and develop concepts for new applications.
+Effectively work in an inter-disciplinary team environment.
+Coordinate with project management, software architects, and other engineering teams in determining overall system solutions.
+Support the scoping and implementation of technical solutions: estimate, prioritize, and coordinate development activities.
+Apply both procedural and object oriented techniques and Agile methodologies.
+Author technical documentation as needed.
+Support QA team in developing test plans.
+What we’re looking for...
+
+You'll need to have:
+
+Bachelor's degree or four or more years of work experience.
+Six or more years of relevant work experience.
+Software development experience with a focus on involving network and IP protocol technologies and Deep Packet Inspection using C/C++ languages.
+High performance multi-threaded and multi-process software development experience in a LINUX environment.
+Experience with scripting languages such as Python or Perl.
+Must be able to pass an extensive background investigation as a condition of employment.
+Even better if you have:
+
+Bachelor’s degree in Computer Science or relevant engineering field.
+Ten or more years of professional experience developing software systems.
+Experience with PCAP and packet analysis tools like WireShark and tcpdump.
+Written and verbal communication skills.
+Skills in working with other engineering and analytical teams to arrive at optimal solutions to technical challenges.
+Knowledge of information security development practices.
+Experience developing with Java programming languages and libraries.
+Experience implementing DevOps and CI/CD tools for automated build, packaging, deployment, and testing.
+Experience with git for source version control as well as the Atlassian suite of project tools – Jira, Confluence, etc.
+Knowledge of performance and/or security testing best practices.
+When you join Verizon...
+
+You’ll have the power to go beyond – doing the work that’s transforming how people, businesses and things connect with each other. Not only do we provide the fastest and most reliable network for our customers, but we were first to 5G - a quantum leap in connectivity. Our connected solutions are making communities stronger and enabling energy efficiency. Here, you’ll have the ability to make an impact and create positive change. Whether you think in code, words, pictures or numbers, join our team of the best and brightest. We offer great pay, amazing benefits and opportunity to learn and grow in every role. Together we’ll go far.
+
+Equal Employment Opportunity
+
+We're proud to be an equal opportunity employer - and celebrate our employees' differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better.

@@ -1,0 +1,123 @@
+No Visa Sponsorship is available for this position.
+
+Applicants are required to read, write, and speak the following languages: English
+
+Preferred Qualifications
+
+At Oracle Cloud Infrastructure (OCI), we build the future of the cloud for Enterprises as a diverse team of fellow creators and inventors. We act with the speed and attitude of a start-up, with the scale and customer-focus of the leading enterprise software company in the world.
+
+
+
+Values are OCI’s foundation and how we deliver excellence. We strive for equity, inclusion, and respect for all. We are committed to the greater good in our products and our actions. We are constantly learning and taking opportunities to grow our careers and ourselves. We challenge each other to stretch beyond our past to build our future.
+
+
+
+You are the builder here. You will be part of a team of really smart, motivated, and diverse people and given the autonomy and support to do your best work. It is a dynamic and flexible workplace where you’ll belong and be encouraged.
+
+
+
+
+
+Senior Site Reliability Engineer
+
+Oracle Cloud Infrastructure (OCI) - Network Automation
+
+Reston, VA and Seattle, WA
+
+
+
+https://www.oracle.com/cloud/
+
+
+
+Are you interested in building large-scale distributed networking solutions for the cloud? Do you love the idea of working in an environment with the excitement of a start-up, but the financial backing of a Fortune 500 company?  You’ll be joining a fast-growing venture that offers lot of autonomy and a lot of variety. This role offers huge upside potential, high visibility, and fast career growth without the risk of a typical start-up.  This is a unique opportunity to work with smart people who are solving complex problems in distributed systems, networking, multi-tenant Infrastructure-as-a-Service (IaaS), and Software Defined Networking (SDN) operating at massive scale.
+
+
+
+Our customers always want higher availability, more bandwidth, greater network security, less network latency, and lower overall cost.  We are reimagining the traditional planning, provisioning, and life cycle by creating SDN services that allow customers to easily migrate their business to OCI or connect their on-premises networks, data center networks, and/or other networks via enterprise-grade links to Oracle’s cloud.  At its core, our SDN services provide customers with rapid configuration, pay-as-you go pricing, and seamless scalability.
+
+
+
+OCI Network Automation team is looking for a Senior Site Reliability Engineer. As a Site Reliability Engineer, you will solve interesting technical challenges by defining, designing, deploying, and troubleshooting key Network Automation services focusing on scalability, security, and performance. The role involves software engineering, systems engineering, automation, network operations, and DevOps. You should be comfortable at building complex distributed systems. You will incorporate the ethos of software engineering and apply it to large-scale operational problems. Your primary goals are to create highly reliable and services, platforms, and infrastructure, always thinking about reliability, security, and ultra-scalable software systems to manage operations. When not working on operations, you will be working on software engineering tasks such as design and development of systems that increase reliability, scalability, and reduce operational overhead through automation. You should value simplicity and scale, work comfortably in a collaborative, agile environment, and be excited to learn.
+
+A great software engineer will make all the difference for delivering quality solutions to our customers. Are you passionate about designing, developing, testing and delivering cloud services?  Do you thrive in a fast-paced environment, and want to be an integral part of a truly great team?
+
+
+Come join us!
+
+
+
+
+
+
+
+
+
+
+
+
+We are looking for a Senior Site Reliability Engineer to be part of a team of engineers that will support a wide range of network automation and control plane services that are critical to managing and scaling our network infrastructure.
+
+
+
+As a Senior Site Reliability Engineer, you will be responsible for:
+
+Developing automation services to increase network automation deployment velocity.
+Deep dive analytics into system uptime, service metrics, performance, deployment automation
+Develop meaningful service metrics and dashboards
+Managing reliability and manageability of network automation and control plane services
+Develop service debugging tools, developing deployment automation solutions, build and manage test environments for services
+Mandatory Qualifications:
+
+
+
+·          US Government Top Secret Clearance
+
+·          U.S. Citizenship or U.S. Lawful Permanent Resident Status Required – Federal Government customer
+
+·          Bachelor’s or Master’s degree in CS or related engineer field
+
+·          5+ years of experience in software development/operations
+
+·          2+ years of experience in developing/operating large scale distributed services
+
+·          Experience with scripting and compiled languages Java and Python, bash and RESTful API experience
+
+·          Experience managing a linux environment, docker, managing distributed systems
+
+·          Knowledge of Linux internals, TCP/IP, DNS, Load balancing technologies and socket programming
+
+·          Knowledge of cloud compute technologies, network monitoring, data processing and analytics
+
+·          Aptitude to be a good team player and the willingness to learn and implement new Cloud technologies as needed
+
+·          Excellent organizational, verbal, and written communication skills
+
+·          Experience with participating in an on-call rotation and driving live site incidents to resolution
+
+·          Experience with SQL or noSQL technologies
+
+
+
+Position is located in Reston, VA and Seattle, WA
+
+
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veteran status or any other characteristic protected by law.
+
+
+Detailed Description and Job Requirements
+
+Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.
+
+As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.
+
+Duties and tasks are varied and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 4 years of software engineering or related experience.
+
+Oracle is an Affirmative Action-Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, protected veterans status, age, or any other characteristic protected by law.
+
+
+Job: Product Development
+Location: US-VA,Virginia-Reston
+Job Type: Regular Employee Hire
+Organization: Oracle

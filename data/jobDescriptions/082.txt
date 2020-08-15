@@ -1,0 +1,46 @@
+Job Description
+The CCB Dashboard Team partners closely with finance leadership, senior management, and subject matter experts across CCB to ensure successful implementation of tactical and strategic change efforts. This associate position will report to a product owner within the team responsible for supporting dashboard development across a line of business or functional area. The remit will encompass all end to end project management, prioritization, planning and execution of work inclusive of infrastructure design, test execution, and implementation. The successful candidate must possess strong analytical& problem-solving skills, have the ability to prioritize and manage time, and be able to build relationships with key stakeholders.
+
+
+
+In this role you will be required to:
+
+Work with key stakeholders (including business leaders, CFOs, and F&BM leadership) to determine requirements for new dashboards
+Have and leverage a strong foundational knowledge of financials and financial metrics to build effective solutions that simplify, automate, and add value
+Express creativity and ingenuity to transform how we see and understand data
+Develop dashboards in Tableau to summarize and analyze key business drivers
+Work with Technology, MIS, Analytics Teams, and Finance Teams to develop an infrastructure to support dashboards that works efficiently and has strong controls
+Understand the variety of sources for information and how to strategically source data
+Tracking development and deployment timelines
+User Acceptance Testing and Validation of new dashboards
+Support the production of newly developed dashboards and transition of production activities to Technology
+Partner effectively across CCB finance, risk, marketing, and technology
+Analyze customer behaviors and business results to develop insights for the CCB Leadership Team
+Develop and utilize technical expertise in Alteryx and Tableau to obtain and analyze information effectively and efficiently
+Qualifications
+
+Bachelor’s degree required
+2+ years of experience in finance, data & analytics, and/or project management within the Financial Services industry
+Tableau and data wrangling (e.g. Alteryx) experience, is a plus
+Experience with data warehouse systems, and user access, mining, and reporting applications/tools, is a plus
+Flexible individual who can easily and efficiently transition across topics and disciplines
+Adept at multi-tasking and meeting deadlines in high-pressure environment
+Strong communication skills and the ability to synthesize work products into executive summaries and/or briefs and reports
+A proven ability to take the initiative while building partnerships
+Ability to define and track project deliveries through to implementation
+Proactive/self-starter with the ability to deliver value-added support to business partners in a dependable, timely and accurate manner
+Controls/Risk management focus - Ensure we remain adaptable and responsive to the changing regulatory landscape
+Adept at data organization and maintenance – must be detail oriented
+Able to work both independently and as part of a team
+Excellent time management skills and highly results oriented
+About Us
+Chase is a leading financial services firm, helping nearly half of America’s households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as any mental health or physical disability needs.
+
+Equal Opportunity Employer/Disability/Veterans
+
+About the Team
+Our Consumer & Community Banking division serves our Chase customers through a range of financial services, including personal banking, credit cards, mortgages, auto financing, investment advice, small business loans and payment processing. We’re proud to lead the U.S. in credit card sales and deposit growth and have the most-used digital solutions – all while ranking first in customer satisfaction.
+
+Global Finance & Business Management works to strategically manage capital, drive growth and efficiencies, maintain financial reporting and proactively manage risk. By providing information, analysis and recommendations to improve results and drive decisions, teams ensure the company can navigate all types of market conditions while protecting our fortress balance sheet.

@@ -1,0 +1,46 @@
+MA - Boston - 470 Atlantic Avenue; MA - Springfield - 1295 State St; NY - New York - 60 Madison Ave
+R7232
+At MassMutual, we’re passionate about helping millions of people find financial freedom and this passion has driven our approach to developing highly interactive digital experiences for our customers. The Digital Experience team, part of MassMutual’s Enterprise Technology Experience organization, is comprised of collaborative, cross-functional, product centric groups who like to have fun, challenge each other, and are energized to create innovative solutions that exceed the changing needs of our customers.  We design, build, and support all of MassMutual’s customer-facing digital assets.
+
+To help us achieve our mission, we are hiring Full Stack Technical Leads  to join our team.
+
+What great looks like in this role
+Our ideal engineer is team-oriented, possesses excellent communication skills, and is skilled in all levels of web architecture and application development. You’ve developed multiple tiered web applications in the past, and are intimately familiar with web technologies. You know how to integrate 3rd party tools and agents to monitor performance and defects, and you deliver your products by following best practices in continuous delivery. You can take a collaborative approach to working with others.
+
+With a flat leadership structure, the opportunity for flexibility within  role, and development into other areas is a core reason most people desire to work in Digital Experience at MassMutual.
+
+Objectives of this role
+To drive toward the effective utilization of the latest technologies, partnering with business stakeholders across the team, as well as experts in other areas to achieve these goals
+Own all aspects of a product’s technical implementation, and can advise, mentor, and coach other developers and/or consumers of the product
+Daily and monthly responsibilities
+Writing production-ready code with fluency in modern front-end JavaScript frameworks
+Engineering responsive web applications in NodeJS, React.js, deployed in Docker containers on the Amazon Cloud
+Building web services with NodeJS, Go, Spring boot
+Writing RESTful API’s
+Architecting applications leveraging virtualization, elastic computing, dynamic configuration, and logging
+Advocating and evangelizing for your product to internal and external customers
+Learning new emerging technologies and take initiative to offer technical direction and creative solutions
+Basic Qualifications
+5+ years of software engineering/development
+Experience building and deploying cloud-based platforms, such as Amazon Web Services, Azure, or Google Cloud Platform
+Experience building and deploying modular, scalable APIs that support either mobile, browser, or batch processes
+Experience with 1 or more JavaScript framework (e.g. Angular, ReactJS, Vue)
+Awareness of quality practice, TDD, BDD and unit test strategy
+Authorized to work in the United States with or without sponsorship
+Bachelor’s degree
+Preferred qualifications
+7+ years in software engineering/development
+2+ years working in a mature agile environment
+Ability to coach/mentor junior developers
+Expertise in one or more software programming languages, ideally experience with Node
+Working knowledge of CI/CD engineering practices
+Entrepreneurial mindset with the ability to work in a rapid and iterative development environment
+Experience with at least one RDBMS, writing SQL queries, etc
+Experience securing applications and data with industry best practices
+Experience optimizing and tuning deployed applications at scale
+Experience with CSS processors and frameworks (e.g. Sass, Less, Bootstrap)
+Experience with unit test frameworks (e.g. mocha, chai,)
+Experience collaborating with a team of programmers with varying skill sets
+Superior communication skills with the ability to work directly with business partners
+Experience in RESTful API Design, API scaling, monitoring, logging, and optimization
+Working knowledge of web technologies and security practices, such as: cross origin resource sharing (CORS), cross site request forgery (CSRF) protection, page load optimization, code splitting, and progressive loading

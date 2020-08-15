@@ -1,0 +1,31 @@
+Business Summary
+At VMware, we're building new possibilities for our customers by accelerating digital business transformation. We're modernizing data centers for greater agility and productivity, integrating public clouds for faster time to market, empowering digital workspaces to improve mobile experiences, and transforming cyber security. You can be a part of this amazing transformation that will impact our customers and businesses around the world. How? By joining VMware's University Launch Program.
+University Launchis an immersive R&D new graduate program specifically designed for recent college graduates at theBachelor’slevel. University Launch new graduates will experience in-depth exposure to VMware’s products and business, best-in-class technical training opportunities, and career-boosting mentorships. This program will bring new graduates together and kickstart an impactful journey in VMware’s Product organization.
+Job Role & Responsibilities
+Do you have a passion to continue learning, buildingrelationshipsand enhancing your knowledge while making an impact directly within a team? Do you desire business exposure,networkingand training for the first year of your career? Then you may want to consider joining us here at VMware. ​University Launch will set you up for success! ​You will immediately make contributions and impact your team through personalized career and technical tracks, cutting edge trainings, VMware Power of Difference engagement, and career-boosting mentorships​
+We are hiring for the following teams:
+End User Computing, Storage Applications, Networking Security, Cloud Platform, Cloud Native, Cloud Management Business Unit
+Required Skills (vary depending on role in R&D):
+Completing a Bachelor's in Computer Science, Computer Engineering, or equivalent
+Passionate about technology and how it is changing the world for the better, especially within the cloud computing technologies space
+Coursework in progress or completed in (some) of the following: operating systems, distributed systems, cloud computing, networking, story, data mining, web development, user interface design
+Knowledge in one or more of the following: C, Java, C++, Python, Go, HTML, CSS, Angular JS   
+Preferred Skills:
+Previous internship experience     
+Experience developing client-server or distributed, multithreaded applications
+School or industry projects involving significant design and development
+Strong communication skills with the ability to articulate ideas in a precise and concise manner
+This job requisition is not eligible for employment-based immigration sponsored by VMware.
+
+Category : Engineering and Technology
+Subcategory: Software Engineering
+Experience: Entry Level
+Full Time/ Part Time: Full Time
+Posted Date: 2020-07-14
+
+
+
+VMware Company Overview: At VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what’s possible today at http://careers.vmware.com.
+
+Equal Employment Opportunity Statement: VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.
+Job ID: R2009349

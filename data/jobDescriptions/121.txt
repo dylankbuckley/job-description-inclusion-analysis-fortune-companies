@@ -1,0 +1,37 @@
+Job Description:
+
+Candidate will lead the planning and execution of data analysis and reporting in support of Enterprise Data Management Testing efforts. Individual will be responsible for multiple, simultaneous efforts and utilize analytical and technical skills to execute assigned responsibilities. Exercises judgment, deep technical expertise and critical thinking to influence partners, drive efficiency and improve quality/stability. Works closely with partners to establish tools and standard reports to support testing activities and establishes proactive check and balance activities to avoid delivery issues. Additional focus on establishing future state processes while ensuring ongoing sustainability/ stability of current state.
+
+Required Job Skills:
+
+4-5 years Business Analyst
+7-8 years of SQL experience
+Strong analytical skills
+Strong process improvement focus
+Strong project management skills
+
+Strong verbal and written communication ability
+
+Strong excel skills (vlookup, pivot and other excel analytics features)
+
+Ability to develop and convey a point of view
+
+Desired Job Skills:
+
+Ability to quickly navigate a complex organization
+Collaborative and takes ownership to ensure the quality of the product
+
+Test Automation Understanding and Experience
+
+Technical: ETL, DB development, SQL, Teradata, Quality Center, Macros, Excel/Access, PowerPoint, Perforce, Jira, Python
+
+Enterprise Role Overview:
+
+Understands and works across teams on all downstream provisioning requirements for the domain. Assists with an inventory of all applications in the data flow for the domain. Supports data domain adherence to EDM Standards, including implementation and monitoring of all required transport controls and maintenance of all required metadata. Assists in remediation of data incidents.
+
+Shift:
+
+1st shift (United States of America)
+Hours Per Week:
+
+40

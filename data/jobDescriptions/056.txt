@@ -1,0 +1,16 @@
+Job description:
+
+Software Engineering Specialist (Hadoop Technical Anchor) positions offered by Ford Motor Company (Dearborn, MI). Supports the Ford Marketing and Sales Consumer Data Refinery application developing Hadoop business intelligence capabilities. This project work includes working with a variety of Hadoop based tools and new technologies, including Horton works Hadoop 2.6/3.1.4, Java, Spark, HDFS, YARN, Hive, HBase, Oozie, Hue, Ambari, Hortonworks, Sqoop, Scala and Kafka. Develop data services to enable access on demand to consumer’s consent regardless of their geographic location.  Implement a Business Rules Engine/process over the consent data repository to summarize consent for each consumer based off legal language agreement and legal requirements for managing, monitoring and updating consumer consent data.
+
+Minimum Requirements:
+
+Requires a bachelor's or foreign equivalent degree in computer science, management information systems, or a related field
+5 years of experience in the position offered or 5 years of application development experience
+5 years of Hadoop design and development experience
+5 years of experience performing data analysis
+Experience may be, but need not be, acquired concurrently
+Join our team as we create tomorrow!  We believe in putting people first, working together, and facing challenges head-on, because we’re Built Ford Tough. We’re one team striving to make people’s lives better while creating value, delivering excellence and ultimately going for the win.
+
+Ford Motor Company is an equal opportunity employer committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status.
+
+Visa sponsorship may be available for this position.

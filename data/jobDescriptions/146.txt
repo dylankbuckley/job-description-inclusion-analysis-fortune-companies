@@ -1,0 +1,26 @@
+Job Description
+At Wells Fargo, we want to satisfy our customers’ financial needs and help them succeed financially. We’re looking for talented people who will put our customers at the center of everything we do. Join our diverse and inclusive team where you’ll feel valued and inspired to contribute your unique skills and experience.
+
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.
+
+Wells Fargo Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure footprint; provides information security; and enables continuous banking access through in-store, online, ATM, and other channels to Wells Fargo’s more than 70 million global customers.
+
+Wells Fargo Bank N.A. seeks an Application Systems Engineer 5 in Charlotte, NC.
+
+Job Role and Responsibility:
+
+Member of our Capital Markets and Investment Banking Technology line of business, which is responsible for the FX Customer Management and Reporting application and system-of-record (SOR). Design, develop, and implement Customer Management and Reporting FX application. Act as a lead in providing application design guidance and consultation, utilizing a thorough understanding of applicable technology, tools and existing designs. Analyze highly complex business requirements and collaborate with business users for Requirement Gathering and Functional Design phases. Work with Development, Architecture, QA, Engineering, and App Support to build and deliver the functional and technical design. Design and write technical specifications, including developing the application code to accomplish the tasks required by the Functional System Design. Manage the development environment, including the creation of development release notes for code deployment. Work with the technical analyst, business and QA teams during all testing cycles in the lower environments, supporting any requirements/functionality clarifications. Manage and coordinate safety and soundness compliance activities including security reviews and vulnerability remediation. Test and validate infrastructure/software changes for updates and patches. Provide problem diagnosis and resolution when production issues are encountered; work with partner teams to help resolve issues. Conceptualize, propose, and document best practices implemented in the group ensuring smooth execution of projects and workflows.
+
+Required Qualifications:
+
+Bachelor’s degree in Computer Engineering, Computer Science, or a related field of study. Foreign degree equivalent accepted.
+5 years of experience in job offered or as a Systems Engineer, Java Developer, or related position.
+Requires three (3) years of experience in the financial industry.
+Requires experience in designing and developing multi-tier web applications in Java and related technologies.
+Experience working with application engineering principles like object-oriented analysis and design, data structures and model-view-controller (MVC) design patterns.
+Experience in maintaining and supporting client server, publisher/subscriber model based applications.
+Experience with JAVA, J2EE, EJB, ORACLE, SQL, typescript, JavaScript, Angular JS, JBOSS, UNIX, Maven, Spring framework, and Hibernate.
+Experience working with AppDynamics or Dynatrace or Visual VM. Experience implementing test driven development methodologies with all deliverables with specified Quality Assurance Standards.
+Experience compiling, building, and deploying applications to non-prod environments using Jenkins, uDeploy, Anthill, Maven.
+Experience in the Foreign Exchange domain of the financial industry.
+Knowledge of regulatory rules, like FATCA and EMIR.

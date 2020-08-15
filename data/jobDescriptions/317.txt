@@ -1,0 +1,62 @@
+The primary focus of this role will be support within Vaccines Production Operations at Pfizer Sanford, NC for Instrument/Equipment System Administrative duties for the Manufacturing Execution System (MES/AMPS), and on the floor instrumentation. The role will include facilitation of troubleshooting of connectivity type instrument/equipment issues, creating/reviewing/executing/approving activates for Good Manufacturing Practices (GMP) tasks/activities associated with maintaining compliant electronic systems and equipment within Production Operation, supporting investigations, acting as a change agent and driving continuous improvement/Operational Excellence/innovative implementations, representing Production Operations on cross functional teams as needed; and leads projects and/or teams providing guidance/training/coaching to junior colleagues as needed.
+
+In addition, this role will provide support to the manufacturing organization by creating and maintaining electronic batch records within the current system, PMX and implementation of the new system, AMPS, as well as assist with troubleshooting activities. Responsible for change control authoring and task execution, and other Production Operations support functions such as authoring paper batch and compound records and Standard Operating Procedures (SOPs), as needed.
+
+The individual should be able to demonstrate the following:
+
+Capable of supporting audits and investigations, reviewing/approving technical content to ensure compliance to regulations and Pfizer policy and standards
+Perform regular internal audits of key production systems to ensure security and compliance
+Effective written and verbal communication and interpersonal skills; ability to establish relationships within business lines
+Ability to identify issues, presents complex problems with possible solutions, and actively takes leadership role to resolve issues
+Applies discipline’s principles, appropriate procedures, and leadership skills to action plan and contribute to executing toward team/project goals
+Solving highly complex problems/technical issues and situation-dependent problems using convoluted information
+Good judgment and correct decision making based on Pfizer procedures, policy and standards; quality systems knowledge; technical experience; and industry guidance/regulatory authority regulations; decision impact awareness on future quality and compliance as well as impact on own work group, department, and network
+Represents Production Operations on site and network teams/forums that support sustaining or improving site or network operations; influences and negotiates with business lines and shares information obtained with team; acts as change agent for improvements
+Proactively identifies, takes remedial action, and/or seeks advice when a personal, project, or team goal/deliverable is off schedule
+Delivery on high business impact projects/activities/changes
+Able to create, review and/or assist with equipment qualification/computer validation, create electronic batch records, oversee system administration
+Able to identify and seek out external resources to build or enhance understanding of Data Integrity; supports training of staff; mentoring and coaching junior colleagues
+Displays strong investigative or technological orientation and able to make significant independent contributions to the implementation of new systems.
+ROLE RESPONSIBILITIES
+
+Act as system administration for MES/AMPS and instrumentation on the shop floor (spectrophotometers, filter integrity testers, etc.)
+Support additional system administration related activities within Production Operations such as data archival activities, equipment and electronic system implementation and troubleshooting, maintenance of end user accounts, equipment considerations relating to data integrity, etc.
+Creating and maintaining electronic batch records
+Change control authoring and execution
+Paper batch/compound record and SOP revisions
+BASIC QUALIFICATIONS
+
+Bachelor’s degree in a scientific or computer science discipline or other similar field
+3+ years of relevant work experience within a GMP environment
+Excellent communication skills
+Comfortable working in a team environment as well as independently
+PREFERRED QUALIFICATIONS
+
+Strong knowledge of implementing and effectively developing operations best practices, including knowledge of security, storage, data protection, and disaster recovery protocols is a plus
+Experience in MES, AMPS, LIMS, or SAP or other applicable electronic system is desirable
+Experience with system administration and instrumentation management is desirable
+Understanding of relational and non-relational databases would be a plus
+Understanding of programming, and proficiency in at least one language would be preferred
+Knowledge of manufacturing process is a plus​
+PHYSICAL/MENTAL REQUIREMENTS
+
+Ability to gown into cGMP Manufacturing areas and adhere to governing gowning procedures as appropriate.
+
+NON-STANDARD WORK SCHEDULE, TRAVEL OR ENVIRONMENT REQUIREMENTS
+
+This role is standard day shift; some off-shift support may be necessary as issues arise and/or to support projects and business needs.
+
+Other Job Details:
+
+Last Date to Apply for Job: 13 AUGUST 2020
+Eligible for Employee Referral Bonus
+#LI-PFE
+Sunshine Act
+
+Pfizer reports payments and other transfers of value to health care providers as required by federal and state transparency laws and implementing regulations.  These laws and regulations require Pfizer to provide government agencies with information such as a health care provider’s name, address and the type of payments or other value received, generally for public disclosure.  Subject to further legal review and statutory or regulatory clarification, which Pfizer intends to pursue, reimbursement of recruiting expenses for licensed physicians may constitute a reportable transfer of value under the federal transparency law commonly known as the Sunshine Act.  Therefore, if you are a licensed physician who incurs recruiting expenses as a result of interviewing with Pfizer that we pay or reimburse, your name, address and the amount of payments made currently will be reported to the government.  If you have questions regarding this matter, please do not hesitate to contact your Talent Acquisition representative.
+
+EEO & Employment Eligibility
+
+Pfizer is committed to equal opportunity in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, disability or veteran status.  Pfizer also complies with all applicable national, state and local laws governing nondiscrimination in employment as well as work authorization and employment eligibility verification requirements of the Immigration and Nationality Act and IRCA.  Pfizer is an E-Verify employer.
+
+Engineering

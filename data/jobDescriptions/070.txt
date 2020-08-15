@@ -1,0 +1,48 @@
+Costco IT is responsible for the technical future of Costco Wholesale, the second largest retailer in the world with wholesale operations in twelve countries. Despite our size and explosive international expansion, we continue to provide a family, employee centric atmosphere in which our employees thrive and succeed. As proof, Costco consistently ranks in the top five of Forbes “America’s Best Employers”.
+
+The BPM Application Admin Analyst will be responsible for the Support, Configuration, Maintenance and coordination with IBM for IBM Business Process Management Systems (BPMS). This is not a Developer position.
+
+If you want to be a part of one of the BEST “to work for” companies in the world, simply apply and let your career be reimagined.
+
+ROLE
+
+Supports and maintains IBM BPM Environments.
+Delivers project based work to agreed target dates. Notifies project manager and engineer of any roadblocks.
+Works with vendors, business and application development teams, and other technical teams to meet the needs of the project.
+Installs, configures, and monitors all application and web servers.
+Works with Engineers to implement and support BPMS infrastructure design.
+Monitors load tests, performs deploys, reviews logs, and various other tasks maintaining the BPMS environment.
+Seeks opportunities to learn, automate, document, share, educate, and improve processes.
+Follows corporate security standards and best practices.
+Troubleshoots IBM BPM/Websphere infrastructure issues.
+Participates in rotating on-call support 24x7 and is available to work weekends and/or holidays, as necessary.
+REQUIRED
+
+Minimum 2-3 years’ IBM BPM experience.
+Familiar with UNIX/Linux RHEL 6.X or 7.X operating system utilities.
+Any Cloud experience, preferably IBM.
+BPM Monitoring tools/dashboards/scripts/IBM BPM Product Database knowledge.
+Knowledge of at least one Web Server like Apache or IBM http server and it’s integration with IBM BPM.
+Strong knowledge of  IBM BPM 8.5.X/BAW Administration and WebSphere Administration.
+Shell Scripting and knowledge of Linux.
+Team player – friendly, communicative, open, cooperative, honest, thoughtful, and committed.
+Excellent verbal and written communication skills.
+Works with and coordinates resources from multiple teams and support vendors.
+Proven track record for “getting things done”.
+Strong organizational and time management skills with ability to multitask and prioritize work effectively in a fast-paced working environment.
+Recommended
+
+Fundamental IT knowledge (Computer Science degree etc.)
+Familiarity with Java/Javascript/XML/SQL Query.
+Cloud Infrastructure knowledge.
+Networking skills.
+LDAP experience.
+Splunk/Log 4j Log handling experience.
+Database Administration experience.
+AIX and Linux knowledge.
+Experience supporting production application server environments.
+Required Documents
+
+Cover Letter
+Resume
+Apart from any religious or disability considerations, open availability is needed to meet the needs of the business.  If hired, you will be required to provide proof of authorization to work in the United States. Applicants and employees for this position will not be sponsored for work authorization, including, but not limited to H1-B visas.

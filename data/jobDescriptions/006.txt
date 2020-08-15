@@ -1,0 +1,28 @@
+DESCRIPTION
+At AWS AI, we want to make it easy for our customers to deploy machine learning models on any endpoint in the cloud or at the edge. Just as SageMaker provides a complete set of services to simplify the task of building and training a model, Neo provides an inference engine that is designed to run any machine learning model on any hardware.
+
+Neo optimizes machine learning models to perform at up to twice the speed of the original framework with no loss in accuracy. Upload a pre-trained model built with MXNet, TensorFlow, PyTorch, or XGBoost to your S3 bucket, choose your target hardware platform from Intel, NVIDIA, or ARM, and with a single API call, SageMaker Neo optimizes the model, converts it into an executable module, and returns it to your S3 bucket. The free open source Neo runtime uses less than 100th of the space of the framework to run the model on the target hardware.
+
+The SageMaker Neo team is growing rapidly to keep up with growth in customers and their requests. We are hiring well-rounded applied scientists and software developers with backgrounds in machine learning, compilers, systems, and AI accelerators. If have worked on HPC and performance tuning, you will enjoy working on the breadth of ML applications that we optimize.
+
+As a deep learning platform developer, you will create systematic approaches to improve the performance of deep learning inference. You will help develop the compilation service and runtime for machine learning. The work offers an extremely broad set of opportunities to work as a full stack SDE with exposure to multiple AI applications, ML frameworks, models, compilers, systems SW, and various AI hardware including ARM, Intel, AWS Inferentia, and NVidia.
+
+
+Join the Amazon SageMaker Neo team to help AWS customers deploy machine learning models in the cloud and on edge devices at scale in production. Work on an open source industry-standard compiler and runtime for machine learning that is already deployed on over 20 million devices.
+
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation / Age
+
+
+BASIC QUALIFICATIONS
+· Master's Degree in Computer Science or Engineering
+
+· 1+ years of software development experience in high performance computing, machine learning, big data analytics, or related areas
+
+· 1+ years of software development experience in system security -- encryption, access control, auditing, trusted execution, selinux, container security, or related technologies
+
+PREFERRED QUALIFICATIONS
+· Proven ability to develop and deliver an optimizing compiler for high level / domain specific programming language
+
+· 1+ years technical leadership role in machine learning, HPC, system security, or related areas
+
+· PhD in Computer Science

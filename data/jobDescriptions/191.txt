@@ -1,0 +1,85 @@
+Overview
+What does it take to make the world a safer place? It takes delivering innovative technology and collaborating with some of the finest talent in the engineering field. Whether you’re a software engineer or a mechanical engineer, at Raytheon Technologies you’ll grow a varied and rewarding career. And you’ll be supported with a comprehensive and competitive benefits package that promotes work/life. If you’re ready to take on today’s big challenges, discover a world of opportunity at Raytheon Technologies.
+
+America’s Best Large Employers by Forbes
+Career & Development Opportunities
+Full-time
+Entry, Mid, Senior level
+Back to Job Navigation (Overview)
+
+Responsibilities
+The DT Systems Engineer is responsible for developing information system solutions, standards and best practices that evolve business and information architectures.
+
+This individual will collaborate and partner with a diverse cross-section of DT and Engineering stakeholders supporting RMD Engineering Laboratories designing solutions that help deliver critical DT capabilities to our customers worldwide. Working with Solutions Architects, you will be expected to design and deploy DT solutions for new or existing complex computer systems. You will work with Solutions Architects to determine system requirement, specifications, input/output processes, Cyber security compliance and working parameters for hardware/software compatibility and maintenance of Information System. You will be responsible for the design of subsystems and integration of total systems and you be required to assist in identifying, analyzing, and resolving program DT support deficiencies developing and recommending corrective actions where needed. You will assign projects and activities to team members, manage team performance, provide the team with technical guidance, and review and provide feedback on team developed design related products.
+
+This role requires strong communication and collaboration skills, extensive industry and technical experience, as is the ability to develop and leverage a broad network of technologists within and outside of the RMD Community (including Enterprise Services), and the supplier community.
+
+
+Additional responsibilities include:
+
+Provide technical leadership to team members
+Prepare and submit periodic progress reports and accomplishments to the next level of leadership
+Design, implement, test, document, and integrates system solutions into existing or new RMD Information Systems
+Establish functional and technical specifications, solve hardware/software interface problems, define input/output parameters, and ensure integration of an entire system or subsystem
+Responsible for the design and deployment of complex heterogeneous server, test equipment, virtualization, and Hyper converged infrastructures within Engineering Laboratory Information Systems
+Support the development of and adherence to DT standards and processes
+Support Solutions Architecture in conducting Analysis of Alternatives, Courses of Actions, Trade Studies, and Engineering Assessments on DT products and services
+Design and deploy beneficial DT technology to improve execution, efficiency, and capability within existing Information Systems.
+Ensure the technical integrity of existing and future design solutions
+Collaborate across technical disciplines to resolve top priority program issues
+Leverage Corporate DT Secure design solutions for collaborative networks both domestically and internationally, including Import / Export and ITAR/EAR solutions
+
+Please note that this position will need a U.S. Dept. of Defense Secret Security Clearance. If the selected applicant does not have an active clearance, they will be required to apply for and obtain on within one year of start date. This role will be located in Tucson, AZ.
+
+Minimum Required Experience:
+
+
+Bachelor’s degree in a Science, Technology, Engineering or Mathematics (STEM), Information Systems, or related technical field and 8+ years of directly related professional technology experience
+Experience successfully managing and leading technical teams in operationally demanding environments
+Experience with the systems engineering lifecycle
+Experience in system design development and engaging project stakeholders to design system solutions for multi-level classified and unclassified Information Systems
+Experience with technical skills across multiple IT disciplines such as: cloud enabling technologies (Hyperconverged systems, virtualization, automation, scripting), compute, storage, encryption, cyber security, etc
+Experience of fundamental networking/distributed computing environment and TCP/IP concepts
+Experience in the development of system design products and artifacts related to the designing and deploying of IT solutions
+Experience with best practices in system security as it pertains to IT solutions
+Experience providing guidance, coaching and training to team members
+Highly Desired Experience:
+
+
+IT solution design development and integration experience across full system/service lifecycle, to include infrastructure (compute, storage and network), platforms and enterprise software applications
+Proven success working within a large multi-disciplined teams to achieve a common technical solution
+Working knowledge of thin/zero client virtual desktop infrastructure technologies
+IT Security compliance process based on the Risk Management Framework
+Security+ certification or willingness to obtain it
+Superior written and oral communication skills, with demonstrated experience working with and presenting to senior business leadership
+Innovative and strategic approach to problem solving
+Proficiency in Microsoft Office
+165228
+
+
+Business Unit Profile
+Raytheon Missiles & Defense produces a broad portfolio of advanced technologies, including air and missile defense systems, precision weapons, radars, and command and control systems – delivering end-to-end solutions to detect, track and engage threats. Headquartered in Tucson, Arizona, the business generated $16 billion in pro forma annual revenue in 2019 and has 30,000 employees globally. Raytheon Missiles & Defense is one of four businesses that form Raytheon Technologies Corporation.
+
+Relocation Eligible
+Yes
+
+Clearance Type
+Secret
+
+Expertise
+Computer Engineering
+Computer Science
+Computer/Management Information Systems
+Configuration Management
+Cyber Jobs
+Engineering Technology
+General Engineering
+Information and Knowledge Systems
+
+Type Of Job
+Full Time
+
+Work Location
+AZ - Tucson
+
+Raytheon Technologies is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.

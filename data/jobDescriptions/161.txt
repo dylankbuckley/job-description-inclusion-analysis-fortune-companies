@@ -1,0 +1,53 @@
+Role Summary:
+Responsible for managing business critical data engineering processes and data architecture solutions in order to enable analytical and reporting solutions. Responsible for analyzing and preparing the data needed for harmonization of ERP (Enterprise Resource Planning) sources within data lake. Also responsible for managing and maintaining metadata data structures besides providing necessary support for post-deployment related activities. Accountable to deliver results in a timely manner.
+Essential Responsibilities:
+Analyze and harmonize SAP data sources with the standard data models
+Design & build technical data dictionaries and support business glossaries to analyze the datasets
+Perform data profiling and data analysis for source systems, manually maintained data, machine or sensor generated data and target data repositories
+Design & build both logical and physical data models for both Online Transaction Processing (OLTP) and Online Analytical Processing (OLAP) solutions
+Develop and maintain data mapping specifications based on the results of data analysis and functional requirements
+Build a variety of data loading & data transformation methods using multiple tools and technologies.
+Design & build automated Extract, Transform & Load (ETL) jobs based on data mapping specifications
+Manage metadata structures needed for building reusable Extract, Transform & Load (ETL) components.
+Analyze reference datasets and familiarize with Master Data Management (MDM) tools.
+Analyze the impact of changes to downstream systems/products and recommend alternatives to minimize the impact.
+Derive solutions and make recommendations from deep dive data analysis proactively.
+Design and build Data Quality (DQ) rules as needed.
+
+
+Qualifications/Requirements:
+Bachelor's Degree in Computer Science, Information Technology or equivalent (STEM) with minimum 5 years of experience as data engineer.
+A minimum of 2 year of experience using big data platforms and solutions
+A minimum of 2 year of experience with scripting (Javascript, Perl, etc) and programming (Java/Scala/Python) is required
+A minimum of 3 year of experience working on Database(s), SQL/PLSQL is required
+
+
+Desired Characteristics:
+Technical Expertise:
+Exposure to industry standard data modeling tools (e.g., ERWin, ER Studio, etc.).
+Exposure to Extract, Transform & Load (ETL) tools like Informatica or Talend
+Exposure to industry standard data catalog, automated data discovery and data lineage tools (e.g., Alation, Collibra, TAMR etc., )
+Hands-on experience in programming languages like Java, Python or Scala
+Hands-on experience in writing SQL scripts for Oracle, MySQL, PostgreSQL or HiveQL
+Experience with Big Data / Hadoop / Spark / Hive / NoSQL database engines (i.e. Cassandra or HBase)
+Exposure to unstructured datasets and ability to handle XML, JSON file formats
+Conduct exploratory data analysis and generate visual summaries of data. Identify data quality issues proactively.
+Domain Expertise:
+Strong SAP ERP systems/functional knowledge
+Expertise in ERP and finance modules including AP, AR, GL, Cash, Accounting etc;
+Knowledge of for industrial applications in a commercial/finance/industrial/manufacturing setting.
+Exposure to finance and accounting data domains
+Leadership Skills:
+A good team player with self-driven execution capabilities.
+Ability to communicate ideas clearly with cross teams.
+Ability to showcase teamwork skills to achieve common goals, provide resolutions and share ideas.
+Demonstrate the presentation and influencing skills
+
+
+About Us:
+GE (NYSE:GE) drives the world forward by tackling its biggest challenges. By combining world-class engineering with software and analytics, GE helps the world work more efficiently, reliably, and safely. GE people are global, diverse and dedicated, operating with the highest integrity and passion to fulfill GE’s mission and deliver for our customers. www.ge.com
+GE offers a great work environment, professional development, challenging careers, and competitive compensation. GE is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, gender (including pregnancy), sexual orientation, gender identity or expression, age, disability, veteran status or any other characteristics protected by law.
+Additional Eligibility Qualifications:
+GE will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).
+Additional Locations:
+United States;Georgia, Ohio;Cincinnati, Atlanta;

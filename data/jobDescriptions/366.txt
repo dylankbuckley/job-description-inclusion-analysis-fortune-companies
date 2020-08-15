@@ -1,0 +1,61 @@
+Job Description
+If you’re passionate about innovation and love working in an environment where you can constantly improve and adopt new technologies to drive business results, then Nationwide’s Information Technology team could be the place for you!
+
+Nationwide Pet is looking for an Application Developer with good development skills (see below), agile experience, a good team player, and the desire to help Pet support its growing market share.
+
+Look forward to fun and challenging projects like creating a data lake, converting data from legacy systems and working along like minded app/dev team mates.
+
+Technical skills:
+
+.NET Framework, ASP.NET, ADO.NET, C#, VB.NET, ASP.NET MVC, AJAX, JQuery, JavaScript, VBScript, HTML, CSS, XML, XSLT, Web Services, REST API, WCF, Bootstrap, Microsoft SQL Server, MS Window Server, IIS 6.0+, React, Android Development, Angular, Salesforce (Apex), Apigee, Git, DevOps, AWS
+
+Job Description Summary
+
+JOB SUMMARY: With full competency, devises or modifies procedures to solve complex problems considering computer equipment capacity and limitations, operating time, and form of desired results. Designs, codes, tests, debugs, and documents those programs. Competent to work at the highest technical level of all phases of applications programming activities.
+Job Description
+
+
+RELATIONSHIP: Manager/Director
+
+JOB RESPONSIBILITIES:
+
+1. Develops cost-effective information technology solutions by creating new and modifying existing software applications that are more complex with full competency.
+
+2. Analyzes and validates complex system requirements and existing business processes and information systems.  Designs, develops and implements new programs and/or modifications of existing applications.  Responsible for the more complex designs, prototypes and other methodologies for new and/or existing systems including the development and implementation of test plans and program specifications with various interfaces.
+
+3. Designs, codes, tests, debugs, and documents and implements complex software applications according to standards.
+
+4. Defines and develops specifications and programs complex technical modules, applications, prototypes and computer programs.
+
+5. Assists in leading all aspects of applications programming and development including file design, update, storage and retrieval.
+
+6. Evaluates and provides technical solutions to complex application development problems.
+
+7. May coordinate activities of a project team and assist in monitoring project schedules and costs.
+
+8. May act as a technical programming consultant for small-scale projects that include multiple product lines and various interfaces.Performs other duties as assigned.
+
+
+CORE JOB DUTIES & REQUIREMENTS:
+
+Education: Undergraduate studies in computer science, management information systems, mathematics or related field is preferred.
+
+Experience: Six years of experience in programming and systems analysis.  Project management experience is preferred.
+
+Knowledge: Must have proven knowledge in computer programming language.  Must have a thorough understanding in systems and data processing policies, practices and procedures.  Must have a thorough understanding in systems analysis and design techniques.  Must have extensive knowledge of the systems development life cycle.  Understanding of project management concepts and techniques required.
+
+Skills/Competencies: Must have the ability to analyze complex applications and systems.  Must be able to program complex systems requiring minimal interfaces.  Must possess problem-solving skills to determine the programming effects on existing systems.  Must have strong decision-making skills for problem identification and solution recommendation.  Must have written and oral communication skills to prepare and communicate programming plans and procedures as well as to interact with all levels within the company.
+
+Values:  Regularly and consistently demonstrates the Nationwide Values and Guiding Behaviors.
+
+Staffing Exceptions to the above minimum job requirements must be approved by the: Director and HR Officer
+
+JOB CONDITIONS:
+
+Overtime Eligibility: Eligible (Non-exempt)
+
+Working Conditions: Normal office environment.  Associates may have on-call responsibility after normal working hours and/or on weekends.
+
+ADA:  The above statements cover what are generally believed to be principal and essential functions of this job.  Specific circumstances may allow or require some people assigned to the job to perform a somewhat different combination of duties.
+
+Job Evaluation Activity:  Created VPI Integration 12/2012 KLG

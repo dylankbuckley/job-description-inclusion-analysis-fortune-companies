@@ -1,0 +1,37 @@
+Purpose of Role:
+The primary purpose of this role is to translate business requirements and functional specifications into logical program designs, code modules, stable application systems, and software solutions. This includes responsibility for developing, configuring, or modifying integrated business and/or enterprise application solutions within various computing environments. The Software Engineer facilitates the implementation and maintenance of business and enterprise software solutions to ensure successful deployment of released applications.
+
+Responsibility Statements:
+• Translates business requirements and functional specifications into logical program designs, code modules, stable application systems, and software solutions with guidance from senior colleagues as appropriate by partnering with Business Analysts to understand business needs and functional specifications.
+• Develops, configures, or modifies integrated business and/or enterprise application solutions within various computing environments by designing and coding component-based applications using various programming languages.
+• Facilitates the implementation and maintenance of business and enterprise software solutions to ensure successful deployment of released applications by packaging solutions for deployment.
+• Supports systems integration testing (SIT) and user acceptance testing (UAT) by providing insight to testing teams in order to ensure the appropriate depth of test coverage.
+• Participates and coaches others in all software development lifecycle phases by applying and sharing an in-depth understanding of company and industry methodologies, policies, standards, and controls.
+• Collaborates with IT teams (e.g., Operations, Infrastructure, Architecture, Quality Assurance, Business Analysts) and key business partners to troubleshoot applications.
+
+Technical Knowledge (3-5 years’ experience minimum)
+Basic knowledge of Windows \\ AIX \\ Linux
+How to navigate directories and view files
+Programming \\ Scripting
+MOCA, Batch, ksh, csh, etc…
+Perl, VB, c languages
+SQL knowledge
+Intermediate to Advanced competency
+Understanding of typical integration layers \\ technologies
+Ability to dig and complete root cause analysis
+Business Knowledge (3-5 years’ experience minimum)
+Basic understanding of supply chain concepts
+Intermediate understanding of distribution concepts
+Intimate working knowledge of warehouse management processes
+Inbound Processing
+Outbound Processing
+Inventory Management
+About Lowe’s:
+Lowe’s Companies, Inc. (NYSE: LOW) is a FORTUNE® 50 home improvement company serving approximately 18 million customers a week in the United States and Canada. With fiscal year 2019 sales of $72.1 billion, Lowe’s and its related businesses operate or service more than 2,200 home improvement and hardware stores and employ approximately 300,000 associates. Based in Mooresville, N.C., Lowe’s supports its hometown Charlotte region and all communities it serves through programs focused on creating safe, affordable housing and helping to develop the next generation of skilled trade experts. For more information, visit Lowes.com.
+
+About Lowe’s in the Community:
+As a FORTUNE® 50 home improvement company, Lowe’s is committed to creating safe, affordable housing and helping to develop the next generation of skilled trade experts through nonprofit partnerships. Across every community we serve, Lowe’s associates donate their time and expertise through the Lowe’s Heroes volunteer program. For the latest news, visit Newsroom.Lowes.com or follow @LowesMedia on Twitter.
+
+#LI-81PERN
+
+Lowe’s is an equal opportunity affirmative action employer and administers all personnel practices without regard to race, color, religion, sex, age, national origin, disability, sexual orientation, gender identity or expression, marital status, veteran status, genetics or any other category protected under applicable law.

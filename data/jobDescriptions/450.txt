@@ -1,0 +1,22 @@
+It's rewarding to work at a company where YOU make a difference!
+If you're passionate about the ever-changing IT industry and enjoy working in a fast-paced, collaborative progressive environment, you'll thrive at Tech Data!
+Join our team to connect the world with the power of technology!
+Job Purpose:
+You will mold and shape the direction of BPA initiatives, leverage development tools to replace redundant business processes, analyze the performance of RPA architecture, and refactor for scalability and performance.
+
+Through all this process, you also will have to work with various business stakeholders, analysts and IT teams to develop sustainable solutions.
+
+Responsibilities:
+Develop and deploy Robotics Process Automation (RPA) solutions using different tools based on solutions defined by Solution Architect or BPA Developer senior
+Problem-solve issues that arise in day-to-day running of automation processes and provide timely responses and solutions as required
+Support business teams in testing activities: internal testing, end-to-end business process testing and UAT
+Create and maintain solution documentation
+Monitor and report on the status of automation efforts.
+Knowledge, Skills and Experience:
+Bachelor’s degree (Engineering / Business) or equivalent work experience
+Experience with UiPath or related robotic process automation software is valuable
+Knowledge in Microsoft Office program (Excel)
+Any scripting knowledge or experience (Python, Perl, VB Script, etc.)
+SAP-knowledge (SAP R/3 and Business Warehouse) is a plus
+Strong problem solving and troubleshooting skills
+Able to converse and write effectively in English and Spanish.

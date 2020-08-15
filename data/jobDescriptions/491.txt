@@ -1,0 +1,45 @@
+Job Description
+About AbbVie
+AbbVie’s mission is to discover and deliver innovative medicines that solve serious health issues today and address the medical challenges of tomorrow. We strive to have a remarkable impact on people’s lives across several key therapeutic areas: immunology, oncology, neuroscience, eye care, virology, women’s health and gastroenterology, in addition to products and services across its Allergan Aesthetics portfolio. For more information about AbbVie, please visit us at www.abbvie.com. Follow @abbvie on Twitter, Facebook, Instagram, YouTube and LinkedIn.
+
+Conceive, design, engineer, and implement data, software, and technology solutions that solve significant scientific or business problems. Investigate, identify, and implement state-of-the-art technology platforms that drive productivity and efficiency gains in own function and throughout multiple business areas. Act as a lead engineer in his/her area of expertise and critically evaluate relevant technological advances and integrate this knowledge into new business technology solutions. . Technology Engineers will be aligned to a specific area: Information, Software, Data, or Infrastructure.
+
+
+
+Key Responsibilities Include:
+Conceive, design, engineer, and implement software and technology solutions by studying information needs; conferring with users; studying systems flow, data usage, and work processes; investigating problem areas; Demonstrate the ability to resolve project hurdles and assumptions by effectively utilizing information and expertise.
+Demonstrate proficiency across a range of technologies and platforms related to software design and development, programming languages, data integration, data warehousing, data analysis and visualization tools, data storage, network connectivity, and virtualization/cloud environments.
+Demonstrate knowledge of the pharmaceutical and healthcare business, and utilize this knowledge in the rapid advancement of agile, impactful, and cost-effective solutions
+Highly autonomous and productive in performing activities, requiring only minimal direction from or interaction with the supervisor. Keeps key partners informed through effective verbal and written communication.
+Matures and uses relationships with affiliates, subsidiaries, vendors, and industry peers in accordance with Abbvie Values, Vendor Management Office, and Purchasing to further the mission, vision, and goals of the organization.
+May mentor/supervise a team of one or more and guide and evaluate the performance of those individuals; is accountable for the effective performance of the team/individuals.
+Understand and enforce corporate standards regarding applicable Corporate and Divisional Policies, including code of conduct, safety, GxP compliance, data security, and the software development lifecycle.
+
+Qualifications
+Bachelor’s Degree or equivalent education and typically 12 years of experience, Master’s Degree or equivalent education and typically 10 years of experience. Work experience in the pharmaceutical industry preferred.
+Possess a thorough theoretical and practical understanding of own scientific discipline.
+Proven implementation of creative technology solutions that advanced the business.
+Excellent written and oral English communication skills.
+Must have at least 4 years experience with .NET/C#, JavaScript, Angular, SQL Server or Oracle, in addition to other technologies.
+
+Experience working in the Life Sciences field or Pharmaceutical Industry strongly preferred but not required
+
+Experience working on Agile/DevOps teams and associated tools such as Jira, Jenkins, AWS, Azure, Xebia, Selenium are a bonus.
+
+Must have a strong willingness to learn new and emerging technologies and how to apply them.
+
+
+Significant Work Activities
+Continuous sitting for prolonged periods (more than 2 consecutive hours in an 8 hour day)
+Travel
+Yes, 5 % of the Time
+Job Type
+Experienced
+Schedule
+Full-time
+Job Level Code
+M
+Equal Employment Opportunity
+At AbbVie, we value bringing together individuals from diverse backgrounds to develop new and innovative solutions for patients. As an equal opportunity employer we do not discriminate on the basis of race, color, religion, national origin, age, sex (including pregnancy), physical or mental disability, medical condition, genetic information gender identity or expression, sexual orientation, marital status, protected veteran status, or any other legally protected characteristic.
+Apply
+Share Job

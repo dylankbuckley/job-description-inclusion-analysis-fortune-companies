@@ -1,0 +1,44 @@
+Job Description
+
+Job Summary
+
+Data Warehousing Manager, in this role, manages the daily activities of the team responsible for the design, implementation, maintenance, and support of data warehouse systems and related data marts. Oversees data design and the creation of database & data flow architecture and data repositories. Effectively collaborates with other members of the team, customers and/or stakeholders to align work efforts, develop/execute strategic and tactical plans that enable successful business operations.  Actively collaborates across IT and business areas within area of specified responsibility to ensure successful results of designated initiatives are achieved.  Ensures accurate accounting of and appropriate deployment of resources. Effectively manages multiple initiatives by prioritizing, organizing and tracking to meet the deadlines.
+
+Job Responsibilities
+Manages the daily operational activities that develop and implement tactical plans for multiple components/processes for a specified area within IT. Develops protocols to support established standards. Oversees team(s) assigned to projects and may manage implementations. Ensures resources are accurately allocated in line with tactical plans and appropriately accounted for at all times.
+Performs as subject matter advisor and may serve as point of escalation and become actively involved, as required, to meet schedules and resolve problems highly complex in nature. Manages issues proactively, including timely resolution and the identification of remediation opportunities. Identifies and resolve systemic issues to prevent them from repeating.
+Ensures delivery against agreed upon SLAs and overall service delivery of operational activities. Understands short and long-term goals and objectives and recommend technical solutions and services. Maintains organization's effectiveness and efficiency by defining, delivering, and supporting strategic plans for implementing information technologies.
+Develops and proposes options with pros/cons and risk, and works with stakeholders to finalize the best solution that meets business needs.
+Establishes credibility with partners while managing expectations. Ensures frequent, continuous and effective communications with team members, within IT, and with stakeholders to set expectations and negotiate priorities appropriately, via both formal and informal channels / mechanisms.
+May develop budget for functional area. Manages budget to plan. May be accountable for area budget and delivering against business goals/objectives.
+Participates in and contributes to the development of technical/business approaches and/or the recommendation of current system enhancements.
+Understand the underlying technologies and applications utilized within specified area of responsibility to direct how to design, develop, test, and implement priority technology requirements.
+Shares information cross-functionally to improve workflow processes.  Interacts with direct reports and peers in management / customers / vendors to share information and improve cross-departmental processes.
+Stays abreast of industry leading best practices and brings them to the attention of the leadership team for innovative application. May develop partnerships (and relationships) with internal and external stakeholders to meet business needs.
+Allocates available resources to meet operating objectives. Develops and mentors staff through on-boarding, open communication, training and development opportunities and performance management processes; builds and maintains employee morale and motivation; ensures the team is appropriately staffed with required competencies; fosters a diverse and inclusive workplace.
+
+
+
+Walgreens (walgreens.com), one of the nation's largest drugstore chains, is included in the Retail Pharmacy USA Division of Walgreens Boots Alliance, Inc. (Nasdaq: WBA), a global leader in retail and wholesale pharmacy. Walgreens is proud to be a neighborhood health, beauty and retail destination supporting communities across the country, and was named to FORTUNE magazine’s 2019 Companies that Change the World list. Approximately 8 million customers interact with Walgreens in stores and online each day. As of August 31, 2019, Walgreens operates 9,277 drugstores with a presence in all 50 states, the District of Columbia, Puerto Rico and the U.S. Virgin Islands, along with its omnichannel business, Walgreens.com. Walgreens also provides specialty pharmacy and mail services and offers in-store clinics and other health care services throughout the United States, most of which are operated by our health care strategic partners.
+
+
+External Basic Qualifications
+
+Bachelor's degree and at least 4 years of experience in IT, Accounting, Finance, Consulting, Strategy and/or Analytics OR a High School diploma/GED and at least 7 years of experience in IT, Accounting, Finance, Consulting, Strategy and/or Analytics.
+Experience establishing & maintaining relationships with individuals at all levels of the organization.
+Experience with vendor and vendor contract management, including SLA review.
+Experience using time management skills such as prioritizing/organizing and tracking details and meeting deadlines of multiple projects with varying completion dates.
+Experience analyzing and reporting data in order to identify issues, trends, or exceptions to drive improvement of results and find solutions.
+Experience identifying operational issues and recommending and implementing strategies to
+At least 2 years of experience in indirect management of team members, including assisting in the development, training and assignment of work/projects to other team members.
+Willing to travel up to 10% of the time for business purposes (within state and out of state).
+
+Preferred Qualifications
+
+Bachelor's degree in IT, IS, Mathematics
+Master's degree OR MBA
+Data Warehousing and ETL experience strongly preferred
+Cloud knowledge preferred
+Experience in vendor relationship management
+At least 1 years of experience planning, developing, and managing departmental expense and capital budgets.
+At least 1 years of experience directly managing people, including hiring, developing, motivating, and directing people as they work 

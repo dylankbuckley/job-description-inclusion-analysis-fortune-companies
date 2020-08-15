@@ -1,0 +1,45 @@
+Chevron is accepting online applications for the position of Software Engineer located in Buenos Aires, Argentina.
+
+Dynamic team that develops, implements and supports innovative software solutions that integrate, automate or simplify business processes and workflows.
+The position requires experience in all phases of Software Development Lifecycle (plan, design, develop, test, release, maintain and support, decommission), data engineering/data management practices and tools, and strong technical background in one or more
+development platforms.
+
+Responsibilities for this position may include but are not limited to:
+Participate in all phases of SDLC (Software Development Lifecycle).
+Develop software solution leveraging established Chevron technology standards and collaborate with internal partners to develop new technology standards as needs arise.
+Design and develop data engineering, data integration and data management practices and tools.
+Maintain working knowledge of the latest software engineering tools and practices for continuous integration, unit tests, static and dynamic profiling, code coverage, code analysis, and automated tests.
+Collaborate with other product teams to develop and share reusable software components and services, implement consistent automated builds and integrated builds, including managing build servers, build schedules, and build qualities.
+
+Required Qualifications:
+2+ years of IT experience working with software development teams providing application development and/or support.
+Familiar with software development methodologies (e.g. DevOps, Prototyping, AGILE/Scrum, JIRA, etc).
+Ability to work with multiple teams and influence/drive to deliver results.
+Strong written and interpersonal communications skills.
+Ability to complete high quality work on schedule.
+
+Preferred Qualifications:
+B.S. in Computer Science, Computer Engineering, Electrical Engineering, Mechanical Engineering, or related technical field.
+Cloud technologies experience (Microsoft Azure, VSTS, Hybrid Solutions, etc.).
+
+Selection Criteria
+Technical Depth and Breadth
+Experience with at least 1 programming language/delivery platform. E.g.: C#, TSQL or PLSQL,
+SSIS/SSRS, .NET or Java frameworks, JavaScript, HTML5, Visual Studio Suite, TFS, Git,
+Jenkins.
+Experience in IT development, deployment and support best practices along with an understanding of application support environments.
+Critical Thinking and Problem Solving
+Strong problem solving and analytical skills.
+Critical thinking and ability to handle urgent and multiple competing priorities.
+Acts with sense of urgency.
+Teamwork
+Ability to work effectively on teams, respecting other opinions, valuing diversity, building
+consensus and assisting others to accomplish team goals and objectives.
+Able to foster collaboration and teamwork between individuals or groups across organizational
+and geographic boundaries gaining commitment and following through to results.
+Strong customer facing approach. Seeks to understand, educate and build collaborative
+relationships with business partners.
+Resolves business partner issues and escalates issues when necessary.
+
+This is a position only for Buenos Aires, Argentina
+Chevron participates in E-Verify in certain locations as required by law.

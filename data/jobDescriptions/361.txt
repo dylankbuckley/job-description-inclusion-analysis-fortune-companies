@@ -1,0 +1,75 @@
+A career at New York Life offers many opportunities. To be part of a growing and successful business. To reach your full potential, whatever your specialty. Above all, to make a difference in the world by helping people achieve financial security. It’s a career journey you can be proud of, and you’ll find plenty of support along the way. Our development programs range from skill-building to management training, and we value our diverse and inclusive workplace where all voices can be heard. Recognized as one of Fortune’s World’s Most Admired Companies, New York Life is committed to improving local communities through a culture of employee giving and service, supported by our Foundation. It all adds up to a rewarding career at a company where doing right by our customers is part of who we are, as a mutual company without outside shareholders. We invite you to bring your talents to New York Life, so we can continue to help families and businesses “Be Good At Life.” To learn more, please visit LinkedIn, our Newsroom and the Careers page of www.NewYorkLife.com.
+
+
+
+Responsibilities include:
+
+Collaborate with cross-functional teams to design, develop and deliver enterprise quality applications.
+Conduct proofs-of-concept and develop prototypes.
+Act as key technical trusted advisor, understanding and contributing to the development of a product vision, solution feasibility and development of an architectural approach.
+Envisions new technical capabilities and common application components.
+Demonstrate an ability to constantly look for ongoing technological improvements.
+
+
+Technical Skills:
+
+Strong knowledge of Microsoft .NET or Java Technology Stack, WebApi, NodeJS
+Strong knowledge of Web Development using some of the following: Angular, React, Microsoft ASP.NET MVC 3.5/4.0, CSS, JQuery & AJAX.
+Knowledge of scripting tools on multiple platforms would be a plus
+Strong knowledge and extensive development experience with data tools (SQL, Python and so on), and database systems (MSSqlServer, Oracle, PostgreSQL or equivalent). Exposure to, or knowledge of modern big data tools will be a plus. Good working knowledge with Reporting.
+Good working knowledge with Team Foundation server, Git, JIRA.
+Extensive hands on development experience with Cloud development and Storage services will be a plus.
+Understanding of existing and emerging web standards such as HTML5 and Mobile
+Extensive experience in developing solutions using Service Oriented Architecture (SOA) tenets.
+Extremely Passionate about Technology.
+Demonstrated ability to stay current with Application Architecture best practices, existing and emerging technology platforms, architectural and systems engineering industry trends.
+
+
+Skills include:
+
+Desirable Business Skills:
+Basic understanding of securities industry, financial instruments (stocks, bonds, mortgages, derivatives instruments, real estate)
+Client Reporting using standard reporting tools such as Business Objects, Crystal reporting and close interaction with business users managing the monthly reporting.
+
+
+General Skills:
+
+Willingness to be extremely flexible on the technology platforms used or projects assigned
+Strong ability to acquire new business and technology knowledge in a fast and timely manner and apply it to solve the problems at hand.
+Strong verbal and written communication skills.
+Strong analytical and problem-solving skills.
+Strong people management skills to engage in projects of various sizes.
+Detail oriented with strong organizational skills.
+Ability to be self-directed and work independently and as part of a team.
+Ability to handle multiple tasks and meet strict deadlines.
+
+
+
+
+Education Level:
+
+BS with 5+ years of technology experience in Engineering, Math or related domain
+MS preferred
+
+
+Industry / Business Experience:
+
+ 5+ years of technology experience
+
+
+Additional desirable technical Competencies:
+
+NoSQL implementation experience is desirable
+Development experience with Python, Powershell scripting.
+Cloud development experience is desirable.
+Ability to incorporate vendor components in the application build-out - Aspose, Kendo UI, Telerik.
+Ability to integrate APIs, write unit test cases, perform System Integration testing (SIT)
+SF: LI-CC1
+
+SF: LI-PC1
+
+EOE M/F/D/V
+
+
+
+If you have difficulty using or interacting with any portions of this Web site due to incompatibility with an Assistive Technology, if you need the information in an alternative format, or if you have suggestions on how we can make this site more accessible, please contact us at: (212) 576-5811.

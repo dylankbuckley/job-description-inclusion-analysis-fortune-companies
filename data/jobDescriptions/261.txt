@@ -1,0 +1,34 @@
+This posting is for a  job with PGDS (US ONE) LLC, a subsidiary of Jackson National Life Insurance Company.
+
+Job Purpose
+
+Prudential plc’s Group-wide Information Cloud Security Engineer is part of the Group Cloud Security department, which focuses on Cloud Security at a global level for all business units to drive global direction on how cloud technologies are adopted and integrated in a secure fashion for business enablement.  Group Cloud Security works in conjunction with Cloud Architects, Regional Technology, Infrastructure Support, Security Architecture, and business owners across four continents.  This position will primarily focus on the North American businesses (while supporting other Prudential plc entities) on cloud services, working within Group-wide Information Security & Privacy’s Group Cloud Security department to define and develop the security framework for cloud implementations in alignment with the Global Security Architecture function.
+
+Essential Job Duties & Responsibilities
+Reviews, assesses, and applies risk adverse assessment on Cloud Technologies from an Information Security perspective.
+Evaluates native Cloud Service Provider solutions and third-party solutions, working with other department members and business stakeholders.
+Develops and maintains Cloud Security Configuration Baselines for Cloud Services.
+Codifies security configuration requirements to help implement Security-as-Code as part of the DevSecOps processes implemented into deployment automation tools.
+Provides advisory and consultation to business units, business owners, and project teams regarding Cloud Security.
+Works cross functionally within Group-wide Information Security & Privacy (GwISP) and security group-wide business partners.
+Helps define and maintain the Azure Cloud Security Reference Architecture.
+Some travel may be required.
+
+Other duties
+Other duties as assigned.
+
+Knowledge, Skills & Abilities
+Solid understanding of security protocols, cryptography, authentication, and authorization.
+Knowledge of TCP/IP, FTP, HTTP, TLS, and other current network protocols.
+Working knowledge of Cloud Service Providers and hybrid environments.
+Experience with Cloud Provisioning and Automation Tools such as Terraform or Ansible.
+Experience with scripting with Powershell, Bash, or Python
+Excellent analytical and problem-solving skills.
+Ability to effectively communicate technical and non-technical issues both verbally and in writing.
+
+Education and Experience
+Bachelor’s degree or equivalent work experience.
+5 + years of Information Security or IT experience required.
+CISSP certification required.
+CCSP or equivalent certification preferred.
+We don't just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Jackson is proud to be an equal opportunity workplace. The Company subscribes to and endorses federal and state laws and regulations relating to equal employment opportunity for all persons without regard to race, color, religion, gender, age, national origin, legally-recognized disability, marital status, legally-protected medical condition, citizenship, ancestry, height, weight, sexual orientation, veteran status, or any other factor not related to the needs of the job. The Company is committed to a policy of equal opportunity. Company facilities and campuses are tobacco-free environments.

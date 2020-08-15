@@ -1,0 +1,44 @@
+Job Description
+Position Purpose: Seeking a Full-Stack Developer to help support our Global Payments Division.
+
+Primary Accountabilities/Responsibilities:
+
+Developing and maintaining high-quality software products supporting the organization’s standards and infrastructure, using Microsoft .NET Framework, SQL and integrated system components
+Supporting and complying with documented software process and procedure requirements spanning all phases of software product life cycle
+Participating in meetings with other team members to design and develop high-quality, object-oriented business objects; and conducting research and evaluation of software-related technologies and products
+Collaborating with other team members
+Managing your own work time and priorities in accordance with aggressive development deadlines, best practices and a quality/delivery methodology, such as Agile Development, that includes development standards
+Job Requirements:
+
+Bachelor’s degree in Computer Science or related field
+12+ years of experience with .NET Framework development, C# and SQL Server
+A deep understanding and working knowledge in the following areas of development:
+Developing applications on the .NET Framework using C#. This includes a deep understanding of the various components and features of the .NET framework and related technologies
+Building multi-tier, data-driven applications for the web. This includes knowledge of web frameworks, client-server architecture, web protocols and familiarity with client-side languages such as HTML and JavaScript. Developing with ASP.NET Web-Forms and MVC.
+Object-Oriented Design & Development
+Agile Development Techniques
+SQL Server, writing complex queries, stored procedures and UDFs.
+HTML, JavaScript, Ajax, CSS
+Software Versioning system such as SVN and Git
+Common class libraries
+Web Services and service-oriented applications
+LINQ
+ADO.NET
+Unit Testing
+Exposure and working knowledge of Microsoft Azure
+Docker Containers with Kubernetes
+Python Programming fundamentals
+Exposure to ORM’s like Entity Framework or Dapper.NET
+Knowledge of CI/CD pipeline process and applications
+Exposure to messaging protocol systems
+Conceptual knowledge of Design Patterns
+Development experience in Financial Services is nice to have. In financial services, exposure to internet banking platform, FIX protocol, SWIFT, ISO20022, bulk file processing are some of the areas we work on. Knowledge / experience in those would be good to have.
+Physical requirements/Working conditions:
+
+Climate controlled office environment
+Minimal physical requirements other than occasional light lifting of boxed materials
+Dynamic, time-sensitive environment
+Some travel as needed
+
+
+We encourage applicants of all ages and experience, as we do not discriminate on the basis of the applicant's age.

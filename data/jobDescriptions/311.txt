@@ -1,0 +1,60 @@
+Cisco is offering an extraordinary opportunity to drive transformation in security products through a low process, high throughput culture. We are looking for an SRE Architect who can devise, own and improve key availability, reliability and efficiency goals for our highly distributed, and broadly deployed family of SaaS security products.
+
+Cisco Cloud Security Group is at the forefront of developing cloud-delivered security needs and challenges of our customers. With an annual revenue exceeding $200M, it is one of the fastest growing businesses at Cisco. As Cisco is transforming its business model aggressively to a software and recurring revenue model, our cloud security business is leading this journey with 100%+ YoY growth in software recurring revenue.
+
+Working at Cisco Cloud Security means being surrounded by passionate, intelligent and creative people that are determined to disrupt the Internet security industry with creative ideas, world-class research and unrivalled products and services. It’s a place where the best ideas are quickly transformed into products, features, campaigns and company-wide practices, so it won’t be long before you witness the results of your hard work.
+
+
+Who you are:
+
+●      At least 3+ yrs of experience in system architecture and site reliability in a high-volume SaaS platform.
+
+●       Expert level knowledge of a PaaS platform, preferably AWS.
+
+●       Experienced with containerization systems, such as Kubernetes and ECS.
+
+●       Have background in deriving application monitoring requirements and defining telemetry collection.
+
+●       Have a track record in defining rollout and backout strategies, and risk mitigation plans for software deployment.
+
+●       Expert level Linux engineering skills.
+
+●       Can drive a culture of continuous improvement and drive comprehensive retrospectives.
+
+●       (desirable) Exposure to networking applications doing deep packet inspection. Reasonable knowledge of most common Layer 4-7 protocols.
+
+●       (desirable) Background in the IT Security industry.
+
+
+What you will do:
+
+●       Define and monitor key Service Level Objectives and Indicators to ensure efficiency and reliability across all systems.
+
+●       Drive processes for our DevSecOps teams around the globe with a model of continuous improvement.
+
+●       Facilitate and conduct retrospectives, and drive their implementation
+
+●       Partner with software engineers and technology leadership to establish operational strategy and then deliver against those expectations.
+
+●       Provide expertise in zero downtime deployments, best incident management practices, and operational excellence
+
+●       Implement and optimize tooling for the Development and Ops teams to improve efficiency, velocity, and stability.
+
+●       Establish yourself as a subject matter expert, providing hands on support and escalation for our DevSecOps team members
+
+Why Cisco
+
+We connect everything: people, processes, data, and things. We innovate everywhere, taking bold risks to shape the technologies that give us smart cities, connected cars, and handheld hospitals. And we do it in style with unique personalities who aren't afraid to change the way the world works, lives, plays, and learns.
+
+Why Cisco Cloud Security
+
+
+Cisco Cloud Security enables you to securely adopt the cloud and better manage security for the way the world works today. It protects users against threats anywhere they access the internet and secures your data and applications in the cloud. You can also leverage the cloud to enhance security through simplified policy management and dynamic threat intelligence. With Cisco Cloud Security, you gain complete visibility into internet activity across cloud applications, all office locations, and roaming devices, plus faster threat detection and response. Cisco Cloud Security provides an effective security platform that is open, automated, and simple to use. And it’s backed by industry-leading threat information delivered by the Cisco Talos security intelligence and research group.
+
+
+
+We Are Cisco!
+
+Please note this posting is to advertise potential job opportunities. This exact role may not be open today, but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.
+
+*LI-JE1

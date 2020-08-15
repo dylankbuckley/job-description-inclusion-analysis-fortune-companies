@@ -1,0 +1,54 @@
+Are you looking to make a difference in a patient’s life?  At AmerisourceBergen, you will find an innovative culture that is patient focused and dedicated to making a difference.  As an organization, we are united in our responsibility to create healthier futures.
+
+
+What you will be doing
+Under general direction of project engagement leads, the candidate will provide clinical and statistical programming expertise to health economics and outcomes research studies in support of pharmaceutical, biotech, and device technologies. The candidate will serve as the content developer for the implementation and reporting of burden of illness, comparative effectiveness, health resource utilization and cost studies and other database analyses within Real World Evidence. Primary focus is on retrospective database analyses and data analytics. Analysis of prospective observational studies within Real World Evidence and analytics support of projects within other Xcenda Service Lines is expected..
+
+
+A typical day as a Programmer on Xcenda's Real World Evidence Team may include:
+Serving as the programmer/analyst/researcher for health economics and outcomes research studies - from study initiation to final reporting - under the direction of the project engagement lead.
+Developing and managing the data validation and analytic file creation utilizing SAS.
+Conducting statistical analyses utilizing SAS, Stata, and other relevant software, and production of data tables and graphs using MS Excel, SAS, and Stata.
+Contributing to the development of SAS macros and other SAS and Stata programming standards and conventions to ensure consistency and efficiency across the department and to maintain the highest quality output consistent with Xcenda’s mission and vision.
+Conducting statistical analyses ranging from simple univariate statistical tests to complex modeling approaches.
+Conducting sample size and power analyses in support of proposal and protocol development.
+Conducting data queries and analyses for other Xcenda service lines (e.g., GHEOR, Reimbursement Strategy and Tactics, Strategic Market Insights)
+Ensuring timeliness, accuracy, and completeness of all services
+
+What your background should look like (minimum qualifications)
+Master or post-graduate degree (eg, PhD, DrPH, PharmD) in Health Economics, Biostatistics, Health Services Research, Epidemiology, Pharmacy Administration, or other relevant discipline, with experience in coding and developing analytical datasets and conducting statistical analysis.
+Practical experience in database management and statistical analysis using SAS-BASE and SAS-STAT; Stata experience a plus.
+Demonstrated familiarity with the analysis of healthcare claims databases and/or electronic medical records.
+Broad technical knowledge of outcomes research and health economics
+Excellent writing and verbal skills with the ability to communicate complex material during presentations and discussions in a straightforward manner
+Function as a team player
+
+Nice to have
+
+
+What AmerisourceBergen offers
+We offer competitive total rewards compensation. Our commitment to our associates includes benefit programs that are comprehensive, diverse and designed to meet the various needs across our associate population.
+
+Healthcare for associates and eligible dependents, same-sex and domestic partners
+Paid time off, including vacations and holidays
+Paid volunteer time off
+Life insurance and disability protection
+Pet insurance
+Employee Stock Purchase Program
+Retirement benefits and more…
+Throughout our global footprint and various business units, we take a balanced approach to the benefits we offer. Many benefits are company-paid, while others are available through associate contributions. Specific benefit offerings may vary by location, position and/or business unit.
+
+
+About AmerisourceBergen
+AmerisourceBergen is a publicly traded Fortune 12 global healthcare solutions company and is one of the world's largest pharmaceutical services companies. Powered by our associates around the world, we provide pharmaceutical products and business solutions that improve access to care.  We operate the backbone of the healthcare supply chain. We drive the future of local care delivery.  We guide medical innovations to market.  We create healthier futures.
+
+
+Primary LocationUnited States
+
+OrganizationXcenda
+
+JobConsulting Jobs
+
+ScheduleFull-time
+
+Equal Opportunity Employer/Minority/Female/Disability/Veteran

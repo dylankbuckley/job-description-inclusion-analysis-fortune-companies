@@ -1,0 +1,61 @@
+At Freddie Mac, you will do important work to build a better housing finance system and you’ll be part of a team helping to make homeownership and rental housing more accessible and affordable across the nation.
+
+Position Overview:
+Are you someone who thrives in a results-oriented and collaborative work environment? Do you enjoy solving business problems with data? Are you passionate about data modeling, XML and JSON? Are you proficient in “MISMO,” the Mortgage Industry Standards Maintenance Organization’s lingua franca? Can you translate between the business and technical sides of the mortgage finance business?
+
+
+If so, apply to join Freddie Mac’s Single-Family Industry Data Standards Team as our Loan Delivery Data Standards Manager!
+
+This role will lead technical projects of diverse scope where analysis of desired technical and business goals is translated into MISMO compliant specifications supporting business intent. The individual will work with business project teams to provide a complete and detailed impact assessment of proposed changes to specification needs and then produce customer facing technical specifications to end users.
+
+Your Work Falls into Three Primary Categories:
+Standards Development
+
+Partner with Business subject matter authorities and project teams, to analyze data needs, map to existing standards and identify gaps.
+Recommend industry data standards and frameworks to satisfy unmet needs.
+Provide resolutions to an extensive range of complicated problems.
+Develop MISMO XML and/or JSON compliant and business oriented technical specifications for end users.
+Work with business partners, customers, and technical partners.
+Ensure alignment of business/customer understanding of technical solution.
+Lead and/or participate in user requirements elicitation to support specification development or updates.
+Strategic Leadership
+
+Advise and coordinate with management on standards related strategy and issues.
+Work under limited direction and independently determine and develop solutions.
+Represent the organization in external standards setting organizations and perform project leadership role at an industry level.
+Provide leadership and mentoring to junior Industry Standards colleagues assisting them with project support, standard methodologies and industry knowledge.
+Engage with external partners including the Federal Housing Finance Agency (FHFA), MISMO, and Fannie Mae to efficiently convey ideas and represent Freddie Mac’s interests.
+Communication
+
+Ability to translate technical capabilities into communications results articulating end user value.
+Ability to optimally convey requirements in both business and technical terms.
+Ensure alignment of business/customer understanding of technical solution through effective communication and adoption monitoring.
+Qualifications:
+8 - 10 years related experience
+College Degree or equivalent experience; sophisticated studies/degree preferred
+Performing data analysis in a project environment. Mapping of data requirements to existing MISMO data and structures as well as development of proposed new additions
+Excellent written and verbal presentation skills, including ability to develop communications for external clients utilizing a variety of tactics including the Freddie Mac Single-Family Seller/Servicer Guide, web page content, emails, and articles
+Work closely across teams and with key internal partners to understand business users’ needs and resolve issues
+Work with external partners including Fannie Mae to build consensus on data needs, usage and definitions; and with lenders and vendors to address their concerns
+Ability to efficiently translate business requirements into technical specifications to deliver against business intent
+Experience with developing MISMO compliant specifications for external audiences
+Familiarity with the Mortgage Business Process
+Ability to multitask and support multiple assignments
+Strong interpersonal and problem-solving skills
+Strong facilitator and consensus building skills
+Attention to detail is a MUST
+Technical understanding of XML, JSON and supporting constructs as well as an editor such as Altova XML Spy
+Microsoft Suite (Word, Excel, PowerPoint)
+Keys to Success in this Role:
+Committed to work with business partners and team mates to tackle business problems using standardized data solutions to reduce confusion and risks and improve quality in decision making
+Current Freddie Mac employees please apply through the internal career site.
+
+Today, Freddie Mac makes home possible for one in four home borrowers and is one of the largest sources of financing for multifamily housing. Join our smart, creative and dedicated team and you’ll do important work for the housing finance system and make a difference in the lives of others.
+
+We are an equal opportunity employer and value diversity and inclusion at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by applicable law. We will ensure that individuals with differing abilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+Notice to External Search Firms: Freddie Mac partners with BountyJobs for contingency search business through outside firms. Resumes received outside the BountyJobs system will be considered unsolicited and Freddie Mac will not be obligated to pay a placement fee. If interested in learning more, please visit www.BountyJobs.com and register with our referral code: MAC.
+
+Time-type:Full time
+Job Category:Administration
+FLSA Status:Exempt

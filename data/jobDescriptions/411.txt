@@ -1,0 +1,76 @@
+RESPONSIBILITIES FOR THIS POSITION
+Location: USA VA Chantilly
+Full Part/Time: Full time
+Job Req: RQ53583
+
+
+Type of Requisition:
+Regular
+
+Clearance Level Must Currently Possess:
+Other
+
+Clearance Level Must Be Able to Obtain:
+Top Secret SCI + Polygraph
+
+Suitability:
+No Suitability Required
+
+Public Trust/Other Required:
+
+Job Family:
+Software Development
+
+Job Description:
+
+The Software Application Programmer will design, develop, code, test, and debug complex software products, or make enhancements to existing software. The ideal candidate is experienced in developing scalable data platforms, with experience in business intelligence, analytics, data science and data products. They must have strong, firsthand technical expertise in a variety of configuration management and big data technologies and the proven ability to fashion robust scalable solutions that can manage large data sets. They must be at ease working in a team environment with little supervision. This person should embody a passion for continuous improvement and innovation.
+
+Requirements:
+
+Must be applicable to recieve a Government clearance.
+
+BA/BS Degree
+
+Minimum of three (3) years of programming and software development experience in programming web and client/server applications such as Java, JavaScript, Python, PHP, C++, C#, HTML, etc.
+
+Hands-on experience with clustered machines with technologies like Hadoop, Cloudera, or Greenplum.
+
+Experience with Elastic Search and familiarity with database technologies (e.g. Postgres, SQL Server, Oracle)
+
+Familiarity with various software development methodologies (e.g. Agile)
+
+Experience with applications development in cloud environments such as Amazon AWS and S3.
+
+Experience integrating and developing code for visualization of data, such as developing Tableau dashboards or utilizing D3.js libraries.
+
+Experience with Linux-based systems and shell scripting a plus
+
+Work with a team to analyze existing software applications and tools, and recommend new technologies and methodologies to improve system performance and usability.
+
+Designs, develops, tests, debugs, and deploys new software tools that extend or replace existing capabilities.
+
+Troubleshoots problems and provides customer support for software operating systems and application issues.
+
+Designs and implements cloud-native data processing capabilities using distributed computing technologies such as Spark, Hive, Hadoop, and NiFi.
+
+Advises hardware engineers on machine characteristics that affect software systems, such as storage capacity, processing speed, and input/output requirements and works with them to resolve incompatibilities.
+
+Writes and updates technical documentation such as user manuals, system documentation, training materials, processes and procedures.
+
+Collaborate cross-functionally with data scientists, analyst, project managers and other engineers and analysts.
+
+Scheduled Weekly Hours:
+40
+
+Travel Required:
+None
+
+T elecommuting Options:
+Telecommuting Not Allowed
+
+Work Location:
+USA VA Chantilly
+
+Additional Work Locations:
+
+We are GDIT. The people supporting some of the most complex government, defense, and intelligence projects across the country. We deliver. Bringing the expertise needed to understand and advance critical missions. We transform. Shifting the ways clients invest in, integrate, and innovate technology solutions. We ensure today is safe and tomorrow is smarter. We are there. On the ground, beside our clients, in the lab, and everywhere in between. Offering the technology transformations, strategy, and mission services needed to get the job done. \n\nGDIT is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status, or any other protected class.

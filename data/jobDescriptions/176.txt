@@ -1,0 +1,101 @@
+One Company…Many Careers!
+
+
+
+State Farm is seeking a bright, diligent, experienced full stack Software Developers to join our Enterprise Technology department.
+
+
+
+ WE NEED YOU!
+
+
+
+A Day In The Life Of A Software Developer (Experienced Full Stack) - req12653
+
+We are seeking experienced full stack software developers (3-5 years) to join our small cross-functional product teams that are creating and/or modernizing solutions using the latest design patterns and technologies.  A fast-paced and outcome-focused approach allows product teams the autonomy to own the work and deliver business and technical capabilities.
+
+
+
+The work of a Software Developer for this position can include the following:
+
+Designs, develops and tests new and/or existing web applications running on the server side and/or client side.
+Develops scripting and components to support continuous integration and delivery pipelines.
+Analyzes technical and business requirements to develop a systems solution that aligns with enterprise best practices including user experience and accessibility.
+Provides system software support for State Farm web applications, components and testing software.
+Utilizes agile software development practices, secure coding practices, code reviews, and software architecture.
+Experience working with multiple platforms.
+Uses knowledge of distributed computing techniques to design, develop and test scalable applications that operate on large volume datasets.
+Familiar with handling datasets containing mixes of structured and unstructured data.
+Transforms unstructured data into suitable forms for analysis and modeling.
+Performs extract, transform and load (ETL) integrations with variety of data sources.
+Provides system software support for State Farm applications, components and testing software (testware).
+Writes ad-hoc scripts and queries, schedules batch jobs and develops real-time streaming applications and monitors.
+Utilizes agile software development practices, secure coding practices, code reviews, and software architecture.
+
+
+Office Locations are Atlanta, GA and Bloomington, IL…where we work hard AND play hard!
+
+
+
+About Atlanta, GA:
+
+Our campus is conveniently located adjacent to the Dunwoody Marta station.
+
+
+
+About Bloomington, IL:
+
+Bloomington is the location of State Farm's Corporate Headquarters and is 2 1/2 hours from Chicago, Indianapolis, and St. Louis. Bloomington is a mid-size community; an average 15 minute rush hour commute is a welcome change for those who have fought rush hour traffic in the city.
+
+
+
+We Are Looking for Candidates With
+
+Experience with Java, Python and Scala is strongly preferred.
+Experience using Big Data based applications/tooling/languages such as Hadoop, Spark, Flume, Kafka, Pig, Hive, HBase, Impala.
+Experience with Amazon Web Services (AWS) cloud services experience, such as Kinesis, Athena, Glue, EMR, Quicksight, Redshift, as well as Terraform.
+Amazon Web Services (AWS) Certifications a plus.
+Data virtualization skills, such as Denodo, or experience with feature stores.
+GIT, Version One, and Microsoft Teams collaboration tools.
+Experience participating in agile sprint and program increment planning.
+Ability to quickly adapt to a changing and fast-paced agile development environment.
+A proven willingness to learn and use new technologies.
+Experience with API web services development is desired, but not required.
+In addition to the core Big Data Developer languages listed above, preference will be given to the following (listed in alphabetical order):
+
+Puppet
+R
+SQL
+What You Can Expect
+
+Applicants are required to be eligible to lawfully work in the U.S. immediately; employer will not sponsor applicants for U.S. work authorization (e.g. H-1B visa) for this opportunity.
+Next Steps:  Competitive candidates may be invited to participate in the interview process.  This is where the excitement begins!
+What’s In It For You
+
+Competitive Benefits, Pay and Bonus Potential: Who doesn’t want money, right?
+Volunteer opportunities: Get involved and give back to the community!
+Tuition Reimbursement: We support opportunities for you to learn and grow!
+A Learning Culture: Mentoring, Professional Designations, Employee Development, and more!
+401k Plan and FULLY FUNDED PENSION: Yes, both. This is kind of a BIG deal!
+Dress Code: We trust our employees to dress for their day.  That's right, we trust you...
+We embrace Diversity and Inclusion: We are one team and it is simply the right thing to do!
+Learn more about our benefits at State Farm Careers!
+
+
+
+We are not just offering a job but a meaningful career! We’re here to help life go right®
+
+Come join our passionate team!
+
+
+
+_____________________________________________________________
+
+Employment Type:
+Regular Full-Time
+
+Shift:
+First
+
+Weekends:
+Periodic

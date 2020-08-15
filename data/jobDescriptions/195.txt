@@ -1,0 +1,50 @@
+Businesses Raytheon Missiles & Defense
+Clearance type Secret
+Relocation eligible Yes
+Job ID 165840BR
+Date posted 07/30/2020
+City Tucson
+State AZ
+Country United States
+Are you an early career GNC Engineer looking to mentor and collaborate with the best in the industry?
+Did you graduate with a STEM degree at least 18 months ago?
+Would you like an opportunity with a global business dedicated to the mission of making the world a safer place?
+If your answers are yes, the Algorithm and Simulation team at Raytheon Missiles and Defense (RMD) may have an ideal job for you! Raytheon Missiles & Defense (RMD) is a technology and innovation leader in defense, civil government and cybersecurity solutions thanks to employees who live our Values of Trust, Respect, Collaboration, Innovation and Accountability. Diversity is a part of our culture and a key to our success. When world-class talent works together in a place that is respectful and inclusive, we solve some of the world's hardest problems.
+
+We are the world's largest developer, producer and integrator of weapon systems. In fact, we've produced over one million missiles in our history. Military forces in more than 50 countries look to us for a high-quality product portfolio that includes missiles, smart munitions, projectiles, kinetic kill vehicles and directed energy weapons. We are seeking entry-level GNC engineering professionals to work in our Tucson, AZ location. As an engineer at RMD, we will help you achieve your goals, find purpose, thrive and succeed.
+
+The Algorithm and Simulation team is hiring GNC engineers with experience to work in one of the following areas within the organization: State Estimation and Optimization, Flight Controls, Aerodynamics, Guidance Design, or GPS.
+
+Job Description:
+Entry level position performing duties in one or more of the following areas: missile guidance design, air vehicle design, navigation design, control system design, embedded software and missile performance analysis.
+Missile guidance tasks include guidance law development, state estimation, sensor fusion, trajectory shaping and miss distance performance optimization
+Air vehicle design tasks include aerodynamics/stability & control, kinematic and propulsion system trade studies including computational fluid dynamics analysis, wind tunnel testing and aerodynamic model development
+Navigation tasks include system trade studies, component modeling of inertial measurement units (IMU) and global positioning systems (GPS), as well as simulation of navigation algorithms particularly Kalman filters
+Control system tasks include autopilot, control actuation system, mechanism and gimbaled seeker servo design
+Embedded software includes real-time GNC algorithm development for missile system products
+Missile performance analysis includes model development, system optimization and Monte Carlo assessments with expected system disturbances
+U.S. Citizenship status is required as this position needs an active U.S. Security Clearance as of day one of employment.
+
+Required Education, Skills and Experience (Systems Engineer II):
+NOTE: If you graduated in fewer than 18 months OR do not have two years of work experience, please review our recent grad and internship opportunities
+Bachelor’s Degree in engineering disciplines, natural or physical sciences, mathematics, or physics with two (2) years of applied (non-academic) work experience (OR a MS degree in the majors listed above with academic experience and graduated 18+ months ago)
+Strong academic or work experience including one or more of the following: digital and modern control systems, dynamics, Kalman filter design, Monte Carlo, wind tunnel testing, aerodynamics, CFD analysis or signal processing
+Computer skills including Matlab, C, C++, and/or Object Oriented design.
+Experience with UNIX and LINUX operating systems as well as Microsoft products
+US citizenship.
+This position requires the eligibility to obtain a security clearance. Non-US citizens may not be eligible to obtain a security clearance. The Defense Industrial Security Clearance Office (DISCO), an agency of the Department of Defense, handles and adjudicates the security clearance process. Security clearance factors include, but are not limited to, allegiance to the US, foreign influence, foreign preference, criminal conduct, security violations and drug involvement. Employment is contingent on other factors, including, but not limited to, background checks and drug screens.
+
+Desired Education, Skills and Experience:
+Advanced degree in aforementioned disciplines. ABET is the preferred, although not required, accreditation standard
+Class projects, professional internships, or academic research demonstrating the ability to apply technical course work or computer skills
+Effective communication and organization skills
+Ability to work both independently and within a team environment with strong collaboration skills
+Current DoD clearance
+
+Check us out on YouTube:
+https://www.youtube.com/raytheontechnologies
+https://www.visittucson.org/
+
+165840
+
+Raytheon Technologies is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.

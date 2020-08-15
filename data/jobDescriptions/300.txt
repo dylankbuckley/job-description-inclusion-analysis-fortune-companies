@@ -1,0 +1,43 @@
+MORE ABOUT THIS JOB
+In Finance Engineering, you’ll find an exciting confluence of computer science, finance and mathematics being used to solve for what our shareholders would like from us – a high return for the right risk taken.
+
+
+
+Corporate Treasury Strats team is looking for world class quantitative programmers to work closely with Corporate Treasury partners to employ quantitative analytics to drive optimizations of firm liquidity, cash and collateral management, funds transfer pricing and trade execution strategies. This is an integrated group which both explores new ideas for optimizing the funding management of the firm and also executes trading strategies, all in one team. Corporate Treasury lies at the heart of Goldman Sachs, ensuring that businesses have the appropriate level of funding to conduct their activities, while also optimizing the firm’s funding costs and managing liquidity risks. As part of the Corporate Treasury Engineering team you will be exposed to securities division and banking initiatives, to new business activities, and to critical strategic programs Goldman Sachs pursues to maintain its leadership among global financial institutions.
+
+
+
+YOUR IMPACT
+
+Corporate Treasury Strats use their engineering and/or scientific background to implement quantitative analytics and management solutions in software. Corporate Treasury Engineering products guide funding sourcing decisions, allocation of financial resources, quantification of funding costs, and strategies to minimize costs and hedge risks. Successful strats are highly analytical, driven to own commercial outcomes, and communicate with precision and clarity. Corporate Treasury Strats welcomes applicants with Master’s or a PhD in financial engineering/financial math; quantitative sciences, e.g. physics, statistics, applied math or other quantitative discipline; or relevant professional experience. Strong analytical skills, mathematical fluency, and programming abilities are required.
+
+RESPONSIBILITIES AND QUALIFICATIONS
+
+
+HOW YOU WILL FULFILL YOUR POTENTIAL
+• Develop software and analytics to further Corporate Treasury’s firmwide mandates: liquidity risk and interest rate risk management and trade execution, cash & collateral management, funding optimization
+• Use machine learning techniques and statistical modeling to develop pricing analytics and behavioral models for deposit products
+• Optimize the firm’s liability stack by developing balance sheet analytics and hedging strategies
+• Work with treasury, desk strategists, and technology departments to implement processes to optimally leverage financial resources to achieve commercial priorities
+• Perform quantitative analysis and facilitate business understanding of technical results
+
+SKILLS AND EXPERIENCE WE ARE LOOKING FOR
+• Solid background in computer programming, Python, C++, Java, Matlab or equivalent language, preferably in large scale financial or technical computations
+• Expertise in some aspect of quantitative analysis, e.g. statistics, stochastic calculus, scientific computing, econometrics, machine learning algorithms, financial modeling
+• Familiarity with financial markets and assets, with a preference for experience with asset pricing and metrics used to govern financial institutions, e.g. liquidity coverage ratios, balance sheet and capital ratios
+• Excellent communication skills, including experience speaking to technical and business audiences and working globally
+• Can apply entrepreneurial approach and passion to problem solving and product development
+
+ABOUT GOLDMAN SACHS
+ABOUT GOLDMAN SACHS
+
+At Goldman Sachs, we commit our people, capital and ideas to help our clients, shareholders and the communities we serve to grow. Founded in 1869, we are a leading global investment banking, securities and investment management firm. Headquartered in New York, we maintain offices around the world.
+
+We believe who you are makes you better at what you do. We're committed to fostering and advancing diversity and inclusion in our own workplace and beyond by ensuring every individual within our firm has a number of opportunities to grow professionally and personally, from our training and development opportunities and firmwide networks to benefits, wellness and personal finance offerings and mindfulness programs. Learn more about our culture, benefits, and people at GS.com/careers.
+
+We’re committed to finding reasonable accommodations for candidates with special needs or disabilities during our recruiting process. Learn more: https://www.goldmansachs.com/careers/footer/disability-statement.html
+
+
+
+© The Goldman Sachs Group, Inc., 2020. All rights reserved.
+Goldman Sachs is an equal employment/affirmative action employer Female/Minority/Disability/Veteran/Sexual Orientation/Gender Identity

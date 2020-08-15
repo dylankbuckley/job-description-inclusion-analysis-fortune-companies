@@ -1,0 +1,98 @@
+Date: Aug 8, 2020
+
+Location: Marlborough, MA, US
+
+Company: TJX Companies, Inc.
+
+Discovery is at the heart of everything we do. Wherever you find us around the world, if you can think of a product, you can probably find it in our stores, which include TJ Maxx, Marshalls, HomeGoods, Sierra, Winners, Homesense, and TK Maxx. With variety comes plenty of happy surprises—our environment is ever-changing, and that’s just how we like it. Every day is an opportunity to discover something new about our business, our partnerships and even something exciting about yourself. Ready to Discover Different?
+
+
+
+
+
+Posting Notes: Nationwide - Option to work REMOTE | Marlborough,MA
+
+
+
+
+
+
+
+CYBER SECURITY AUTOMATION ENGINEER | (Remote Opportunity)
+
+
+
+TJX is looking for a Security Automation Engineer to join our Cyber Assurance Team, dedicated to making our products and technologies as secure as possible. This team reports into the CISO, but works closely with engineering teams, product teams, and others across the organization to integrate security into the product lifecycle from design through deployment.
+
+
+
+Our colleagues depend on us to be application, network, and host security pros. We specialize in defining security requirements, performing application security assessments, and providing developers and engineers with remediation advice.
+
+
+
+On any given day we're performing security reviews on internal and third party applications, while evaluating processes, network design, and access controls.
+
+
+
+
+
+Want to make an impact?
+
+
+
+As a Security Automation Engineer, you will utilize a combination of third party and custom developed tools to identify security vulnerabilities and drive remediation.
+
+
+
+
+
+Major Responsibilities:
+
+Develop and customize security tools used by security teams and developers.
+Work closely with development teams to build security directly into their SDLCs.
+Provide remediation guidance to programmers and management.
+Perform manual reviews of applications using static analysis tools.
+Perform dynamic testing of applications using more traditional pen testing tools.
+
+
+Skill Requirements:
+
+Experience writing code with at least one of these languages: Python, C/C++, Go (preferably Python).
+Experience with static analysis tools such as Veracode.
+Experience with dynamic analysis tools such as Veracode, Acunetix, or OWASP ZAP.
+Familiarity with common vulnerabilities and attack vectors.
+The ability to communicate complicated technical issues and risks to programmers, network engineers and managers.
+
+
+Additional valuable experience:
+
+Experience integrating security tools into developer pipelines.
+Experience as a highly technical information security consultant.
+DevOps experience managing deployment and configuration.
+Experience writing custom rules for static analysis tools.
+
+
+Qualifications:
+
+Bachelor's Degree in Technology or Information Systems or equivalent work experience;
+5+ years of experience in related IT Security environment
+Relevant industry certification preferred
+
+
+
+
+
+
+Come Discover Different at TJX. From opportunity and teamwork to growth, we think you’ll find that it’s so much more than a job. When you’re a part of our global TJX family, you have the full support of a diverse, close-knit group of people dedicated to finding great deals and fantastic style. Best of all? They have a lot of fun doing it.
+
+
+
+We care about our culture, but we also prioritize the tangible stuff (Competitive salaries: check. Solid benefits: check. Plenty of room for advancement: of course). It’s our way of empowering you to make your career here.
+
+We consider all applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, gender identity and expression, marital or military status. We also provide reasonable accommodations to qualified individuals with disabilities in accordance with the Americans with Disabilities Act and applicable state and local law.
+
+
+
+
+
+Posting Notes: Nationwide - Option to work REMOTE | Marlborough,MA

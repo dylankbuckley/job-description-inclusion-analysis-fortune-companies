@@ -1,0 +1,37 @@
+The General Ledger (GL) Accounting Specialist ensures that accounting transactions are properly recorded, posted, processed, and reported. He/She completes the day-to-day maintenance to ensure thorough and accurate general ledgers. This position uploads, analyzes, and processes journal entries. He/She performs and review standard month-end entries. The GL Accounting Specialist communicates and documents accounting procedures for specialized accounting and financial transactions. This position reports to the Supervisor.
+
+Responsibilities and Duties
+
+Interacts with Revenue Transportation Reporting (RTR) users
+Creates, modifies and tests RTR reports
+Reviews production issues for escalation and resolution
+Communicates with users to deliver solutions for enhancements, updates, and testing
+Administers access to RTR reporting tool
+Provides training to new users of RTR, supporting all business units processing through Revenue allocation
+Acts as RTR/Oracle Business Intelligence (OBI) system subject matter expert
+Interacts with Finance & Accounting systems
+Interfaces with F&A systems and I/T on production issues
+Participates in developing test scripts to ensure successful implementations of new business units into Revenue allocation and makes changes to existing allocation rules
+Maintains Revenue Allocation Tables and Rules
+Reviews test data and provides feedback to management, F&A systems, and project team
+Works closely with Internal and External Auditors
+Performs financial analysis
+Reviews revenue allocation processed data to ensure statutory, managerial and product level reporting is accurate and complete
+Analyzes variances using RTR, Khalix and Financial Data Mart (FDM) as needed
+Identifies, develops and implements process improvements
+Participates in accounting monthly close duties
+Performs Oracle journal entries as directed
+Contributes to department cross training critical functions as assigned by management
+Performs Special Projects as needed
+Knowledge and Skills
+
+Captures/documents specific and accurate information; learns subjects thoroughly and in detail; completes work with thoroughness; supplies appropriate details when requested; maintains organized files
+Demonstrates a general understanding of UPS accounting process and a willingness to participate in new project work as well as constant review of existing process for improvement
+Possesses a general understanding of technology used by the company; communicates basic technological concepts and terminology; applies standard technology in daily work
+Willing to travel if necessary for training or project work
+Knowledge of Oracle OBI reporting tool, Oracle General ledger, FDM and Khalix - Preferred
+Experience creating and generating reports using Microsoft products or equivalent software - Preferred
+Knowledge of general accounting and/or finance processes - Preferred
+Knowledge of E2K accounting process, including statutory, managerial, product level and network model - Preferred
+
+UPS is an equal opportunity employer. UPS does not discriminate on the basis of race/color/religion/sex/national origin/veteran/disability/age/sexual orientation/gender identity or any other characteristic protected by law

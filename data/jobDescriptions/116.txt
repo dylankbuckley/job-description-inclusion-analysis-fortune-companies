@@ -1,0 +1,18 @@
+THE COMPANY
+
+Fannie Mae provides reliable, large-scale access to affordable mortgage credit in communities across our nation. We are the leading source of funding for housing in America, which means more people can buy or rent a home. We are focused on sustaining the housing recovery, improving our company, and leading change to make housing better.
+
+Join our diverse, high-performing team and make a difference as we work together to enable access to a good home.
+
+Fannie Mae seeks Software Engineer – Plano, TX
+
+Develop, modify, or update applications used by business units or infrastructure units. Participate in most or all of the steps in the software development life cycle to create and modify the software. Collaborate with business units to determine systems requirements and functionalities needed in new or revised application. Develop detailed specifications of application and document in a form that it can be used for coding application. Perform or review coding done to render specifications into application functionalities, screens, or outputs. Develop test plan and/or test application in development status or debug application in production mode.  Lead a small project or a segment of a larger project. Mentor or provide technical guidance to less experienced staff.
+
+
+Req’d: Bachelor’s in Computer Science or Engineering or related degree plus 5 years’ experience in job offer or related or Master’s in Computer Science or Engineering or related degree plus 2 years’ experience. Experience must include 2 years in large scale system integration involving multiple applications; development experience in Java, Business Objects, UNIX shell scripting, JavaScript, and Oracle; hands-on experience with TIBCO Business Works, TIBCO EMS, Web Services, and XML Technologies.
+
+EMPLOYMENT
+
+As a condition of employment with Fannie Mae, any successful job applicant will be required to successfully complete a background investigation.
+
+Fannie Mae is an Equal Opportunity Employer.

@@ -1,0 +1,24 @@
+Facebook is seeking a Data Analytics Manager who can help drive the data analytics agenda for the Infrastructure Accounting team.  You will be the first data analytics hire for our team and help shape the team’s analytics agenda, including providing solutions for some of the issues we have identified, such as analysis of useful life of assets and depreciation sensitivities. More importantly, we will be relying on you to help us identify how we can use data analytics to enhance current processes and shape our org for the future. As the successful candidate, you will be responsible for understanding our various systems and how they all can fit together for better analytics, including helping ensure that we have all the right data to complete the analytics we need. You will be responsible for producing regular analytics including new insights as well as highlight areas that the team should focus for the future. You will also partner with engineering and product managers to design our analytics platform. Infrastructure Accounting is responsible for the accounting of all of Facebook’s capital infrastructure including our investments in building data centers, network as well as office facilities for our employees, and we have a heavy need not only on creating analytics today, but also setting our vision for our analytics agenda and helping us set the path on how we will get there.
+Manager, Data Analytics Infrastructure Accounting Responsibilities
+This role is hands on as well as strategic
+Ability to use data analytics skills for accounting analysis
+Ability to harness a large amount of data and perform data analysis yourself
+Communicate your work in simple and crisp terms
+Work with engineering and RPA partners to shape and drive data infrastructure design and innovative system solutions, including data warehousing, reporting, and analytics platform
+In partnership with Infra Accounting leadership, set the analytics agenda and execute on that agenda
+Understand upstream Infra business systems and how they fit into our processes, working closely with cross functional team to identify process gaps, develop, implement and maintain controls
+Train team members so that they are familiar with the concepts of data analytics and develop the ability to perform simple analytics
+Other ad-hoc projects
+Minimum Qualifications
+Bachelor’s degree in Computer Science, Data Science, Statistics, Mathematics, Engineering, Economics or a related field
+8+ years of relevant experience in field of data analytics
+Experienced with data visualization tools such as Tableau and demonstrated experience learning new tools and techniques
+Attention to detail with an understanding of the big picture
+Experienced in communicating with cross functional and internal audience with experience distilling complex concepts and analysis into concise actionable conclusions
+Experience creating a vision and influencing others to align to that vision
+Preferred Qualifications
+Experienced with SQL, Python, R, and/or other data analytics tools
+Public accounting firm or finance experience preferred
+Experience with Oracle ERP
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities — we're just getting started.
+Facebook is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at accommodations-ext@fb.com.

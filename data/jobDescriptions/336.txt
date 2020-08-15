@@ -1,0 +1,106 @@
+COMPANY DESCRIPTION
+What started as a humble, little aerial crop dusting operation called Huff Daland Dusters in 1924 has now grown into one of the world s largest global airlines, helping more than 180 million travelers get to the places they want to go to each year.
+JOB DESCRIPTION
+Principal Software Engineer
+
+United States, Georgia, Atlanta
+
+Information Technology
+
+21-Nov-2019
+
+Ref #: 1110
+
+LinkedIn Tag: #LI-LG2
+
+How you'll help us Keep Climbing (overview & key responsibilities)
+
+Join Delta IT on our journey to becoming the best IT organization in the airline industry.
+
+Delta IT is on a journey to introduce state of the art technologies to support our innovative business needs. As thought-leaders within Delta, we strive to create meaningful and innovative solutions and are looking for team members to help us realize our vision.
+
+Delta IT employees are thinkers, doers, innovators.
+
+We are proactive.
+
+We are collaborative.
+
+We deliver impact to our customers.
+
+Join us on our strategic high-tech journey in becoming a world-class IT organization at the world's best airline!
+
+YOUR RESPONSIBILITIES IN THIS ROLE
+
+Create component design working with the architect and implement the design
+
+Partner with consumers of the platform/services produced under the framework
+
+Collaborate with solution architect and business area to analyze technical information and produce quality software
+
+Be the technical leader for an agile team
+
+Lead the design, development, implementation, and support of information technology solutions encompassing multiple specializations, platforms, and technologies.
+
+Construct, tests, and implements portions of business and technical information technology solutions through application of appropriate software development life cycle methodology.
+
+Partner with all channels to drive business solutions in support of our Corporate Goals.
+
+Provide strategic support to customer in defining and/or designing business processes and helps identify technologies to meet customer requirements.
+
+Keep the customer informed & follows standard practices to insure the customer is properly advised on appropriate approaches to solving their business problems.
+
+Actively seeks ways to apply technology to business processes; researches and provides information concerning technical solutions and competitors' practices relevant to the customer's business.
+
+Ally with other IT functional areas to stay appraised of project status.
+
+Keep abreast of industry technical and commercial trends through benchmarking; participation in professional associations, etc., in order to lead customer and Delta to appropriate solutions.
+
+Identify, understand and resolve gaps across technology and business partners.
+
+Partner with the IT Business Consultants and other Architects to design, build and implement transcending solutions across Delta portfolios
+
+What you need to succeed (minimum qualifications)
+
+Bachelor’s or Master’s degree in Information Systems, Computer Science and or equivalent software development experience.
+
+Experience working with microservices architecture, messaging middleware and developing cloud native applications is required.
+
+Web application frameworks and API technologies like JQuery, Springboot, AngularJS, Node.js and Swagger is required.
+
+Large project experience with high transaction volumes is required
+
+Experience working with business rules engines/business process management systems is required.
+
+Experience in JIRA, GIT and DevOps is required
+
+Experience with agile development with frequent releases is a plus
+
+Self-motivated individual with strong verbal and written communication skills, ability to work independently and in a collaborative setting
+
+Previous experience in supporting large applications in production environment with strong debugging skills required
+
+The candidate must have proven innovative skills, problem solving skills, analytical skills, strong communication and leadership skills.
+
+The candidate must be able to demonstrate leadership in delivering IT business systems and experience should include working closely with IT in business systems analysis, application design, development, modification, and installation, preferably across multiple hardware and software platforms.
+
+The candidate must be able to take data and manipulate it to assist with setting the best course of action and must be an expert in working with office tools like Visio diagrams, presentation, Word and spreadsheet documents.
+
+The candidate must understand applicable best financial practices such as SOX and apply knowledge to business direction and decisions.
+
+What will give you a competitive edge (preferred qualifications)
+
+Must have the ability to listen to customers and colleagues; convey ideas effectively; prepare written documentation
+
+Must have the ability to mentor junior developers
+
+Proactive in nature with customer satisfaction as a primary goal
+
+Experience in cross divisional projects is a plus
+
+Strong customer focus and the ability to maintain a positive attitude oriented towards coming up with solutions and developing new approaches is a plus
+
+Candidate must be highly motivated, self-directed and work by the “Rules of the Road” as published by Delta Air Lines.
+
+Delta Air Lines develops both strategic and tactical plans that create a safety-conscious environment resulting in employee safety and well-being.
+
+Delta Air Lines, Inc. is an Equal Employment Opportunity / Affirmative Action employer and provides reasonable accommodation in its application process for qualified individuals with disabilities and disabled veterans. If you are a qualified individual, you may request a reasonable accommodation if you are unable or limited in your ability to access job openings through this site, apply for jobs through Delta’s online system, or at any point in the selection process. To request a reasonable accommodation, please click here

@@ -1,0 +1,30 @@
+JOB DESCRIPTION
+Description
+
+As a Senior Engineer - Test/Validation at Caterpillar, you will be responsible for the validation of complex global positioning solutions consisting of model-based software and advanced sensor technology.  Additionally, responsibilities include identifying software and hardware issues and developing and managing several Hardware In the Loop (HIL) bench systems.
+
+Qualifications
+
+Required Qualifications:
+
+Bachelor's Degree in Engineering
+5 years experience with validation of HIL systems
+2 years (concurrent) CAN based systems experience
+2 years experience in embedded software validation
+
+
+In lieu of the above, would accept:
+
+Master's Degree in Engineering
+2 years of experience with validation of HIL systems
+2 years (concurrent) CAN based systems experience
+2 years experience in embedded software validation
+
+
+EEO/AA Employer:  All qualified individuals including minorities, females, veterans and individuals with disabilities are encouraged to apply.
+
+
+
+LI-DNP
+
+ 

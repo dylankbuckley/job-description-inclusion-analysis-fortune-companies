@@ -1,0 +1,46 @@
+Job Description
+CVS Health Digital’s Information Security culture is focused on enabling our engineering teams to build and ship secure products. We achieve this by designing, building, and deploying state of the art security alongside our product and infrastructure teams.
+
+As a Senior Cloud Application Security Engineer, you will be responsible for hardening applications deployed in cloud computing and network environments to ensure that all critical data and services are appropriately secured.
+
+We’re looking for someone with both a broad knowledge of security and application system design, as well as a deep knowledge of how to apply that to GCP. The ideal candidate will have experience across a range of technical disciplines and may have had in past jobs such as secure application design, Information Security (Hardening, Detection/Response, Blue Team, etc.) and systems (SRE, Sys Admin, Network Engineer, etc.). This is a senior role, and we’re looking for someone who has experience with a wide variety of real-world issues.
+
+Required Qualifications
+The prospective candidate will be expected to do the following:
+• Design and build security governance controls for GCP based applications that the respective application teams will use to build and deploy applications on GCP.
+• Work closely with the application, infrastructure and product teams who are using GCP, to ensure that they are building secure systems by default.
+Qualifications
+
+Desired Background:
+• 5-10 years total experience in technology and preferably in application security in the cloud.
+• 2 – 3 years’ experience designing, building and deploying secure distributed web based applications on GCP
+• You work well cross-functionally, and can communicate with audiences who may not have a security background.
+• At least 2 years of GCP experience.
+• Experience implementing GCP security and hardening, especially in a large or complex environment.
+• Familiarity with the Foundations of GCP security
+• Cloud Identity
+• Deep knowledge of GCP IAM and how to configure least-privilege.
+• StackDriver and Scanning
+• VPCs for isolation and Security.
+• Knowledge of GCP networking and how to securely interconnect multiple GCP projects, including interconnecting on-premise application infrastructure with cloud based components
+• Expertise in automation tools such as Terraform.
+
+Preferred Qualifications
+• Security experience
+• At least 2 years experience working in security (does not need to be on GCP).
+• Familiarity with application security (OWASP Top 10, SANS 24 , CERT) issues.
+• Experience writing code to solve security issues. This could be writing security tools, or automation/management of security-sensitive environments.
+• Experience securing Linux systems - hardening, logging/detection, general systems design.
+• Networking knowledge, including network security and segmentation.
+Even better:
+• Experience in Python.
+• Experience with Kubernetes.
+
+Education
+BS in cyber security, Computer Science and or equivalent experience
+
+Business Overview
+At CVS Health, we are joined in a common purpose: helping people on their path to better health. We are working to transform health care through innovations that make quality care more accessible, easier to use, less expensive and patient-focused. Working together and organizing around the individual, we are pioneering a new approach to total health that puts people at the heart.
+
+
+We strive to promote and sustain a culture of diversity, inclusion and belonging every day. CVS Health is an equal opportunity and affirmative action employer. We do not discriminate in recruiting, hiring or promotion based on race, ethnicity, sex/gender, sexual orientation, gender identity or expression, age, disability or protected veteran status or on any other basis or characteristic prohibited by applicable federal, state, or local law. We proudly support and encourage people with military experience (active, veterans, reservists and National Guard) as well as military spouses to apply for CVS Health job opportunities.

@@ -1,0 +1,35 @@
+Job Description
+Position Purpose: The ideal candidate for this position will assist in maintaining a highly integrated Identity and Access Management program, including Identity access and governance  operational activities (provisioning, de-provisioning, access changes, etc.), identity enforcement (segregation of duties, access reviews) and access governance (access auditing, logging, monitoring). An Identity and Access Governance Analyst will work closely with engineers, other Information technology teams and business stakeholders to support and maintain an identity program that aligns the information security strategy with business goals.
+
+Primary Accountabilities/Responsibilities:
+
+Use, troubleshoot and maintain Identity access and governance systems.
+Manage access to all designated systems and applications supported by StoneX throughout the user lifecycle.
+Assist in Controlling, monitoring, and auditing privileged access to systems and applications.
+Assist with the creation, and implementation of security roles and profiles.
+Assist with Identity access and governance projects where requested.
+Job Requirements:
+
+Required
+3 years hands-on information technology experience.
+Basic Knowledge in enterprise directory services and authentication/authorization integrations e.g. Active Directory.
+Experience in one or more of the following technologies: Azure AD, ADFS, SSO, multi-factor authentication or Privileged Access Management preferred.
+Ability to communicate technical information in understandable business terms.
+Excellent interpersonal skills, presentation skills, and verbal / written communication skills
+Strong customer service abilities required.
+Ability to work collaboratively with a broad range of staff both internal and external.
+Strong desire to maintain and advance identity access and at StoneX.
+Preferred
+Excellent understanding and aptitude with ticketing, information management and collaboration systems.
+Familiarity with systems administration (Windows Server, Azure servers, Office 365 Admin console, etc.)
+Experience with Microsoft Office 365 Administration.
+Ability to problem solve, prioritize duties and assignments.
+Physical requirements/Working conditions:
+
+Climate controlled office environment
+Minimal physical requirements other than occasional light lifting of boxed materials
+Dynamic, time-sensitive environment
+Travel as required
+
+
+INTL FCStone Inc. is an Equal Opportunity Employer.  Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.

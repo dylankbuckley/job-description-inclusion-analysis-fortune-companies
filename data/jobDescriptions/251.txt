@@ -1,0 +1,43 @@
+Auto req ID: 213381BR
+Job Description
+Technical Data Architect
+
+In this role you will design and implement data processing pipelines services using Databricks, Spark, Python, and other tools and languages prevalent in the Azure ecosystem ensuring high quality solutions through code reviews, engineering best practices documentation. You will be given the opportunity to own the design/implementation of projects and create re-usable components used across teams. You will collaborate with product managers, solution architects, engineers, and data scientists to accomplish your tasks.
+
+#LI DNI
+
+
+
+
+Qualifications/Requirements
+Qualifications:
+
+Education:
+
+BS in Computer Science, or related technical discipline
+Experience:
+10+ years of industry experience
+3+ years of relevant big data experience
+Experience participating in key business, architectural and technical decisions
+Experience designing, estimating and executing for complex software projects
+Experience providing guidance and mentoring junior engineers
+Strong programming experience in Python/SQL
+Experience working with Big Data processing frameworks within Azure (BLOB/ADLS, Databricks/Spark, Azure Data Factory, Presto, HDInsight, etc.)
+Experience working with Data Warehousing platforms and projects. Teradata experience a plus
+Experience working with Big Data streaming services and tools such as Kafka, Spark Streaming, etc.
+Experience with consumption, data federation, and semantic layer development using tools such as Denodo, Alation, Presto, etc.
+Experience and ability to deliver results on multiple projects in a fast-paced, agile environment
+#LI DNI
+Relocation Eligible: Not Eligible for Relocation
+Job Type: Regular
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.
+
+PepsiCo is an Equal Opportunity Employer: Female / Minority / Disability / Protected Veteran / Sexual Orientation / Gender Identity
+
+Our Company will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the Fair Credit Reporting Act, and all other applicable laws, including but not limited to, San Francisco Police Code Sections 4901 - 4919, commonly referred to as the San Francisco Fair Chance Ordinance; and Chapter XVII, Article 9 of the Los Angeles Municipal Code, commonly referred to as the Fair Chance Initiative for Hiring Ordinance.
+
+If you'd like more information about your EEO rights as an applicant under the law, please download the available EEO is the Law & EEO is the Law Supplement documents. View PepsiCo EEO Policy
+
+Please view our Pay Transparency Statement

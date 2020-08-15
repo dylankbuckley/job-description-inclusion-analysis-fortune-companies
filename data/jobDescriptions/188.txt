@@ -1,0 +1,60 @@
+Introduction
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.
+
+
+Your Role and Responsibilities
+Thank you for your interest.
+This role is located ONSITE (after covid).
+There is no relocation offered and no remote option.
+RTP, NC
+
+
+As Pricing@IBM’s Security Compliance Officer you will have the unique opportunity to work within the organization to create an enterprise compliance and management solution for financially significate applications that support IBMs revenue. A successful candidate will lead the oversite and management of IBM’s security policies for ITSS, consult on policies and procedures associated with personal data and oversee risk management for SOX and non-SOX applications. As a compliance leader, you oversee the security posture of the portfolio and track application compliance for the sub-domain.
+
+Pricing@IBM is part of the CIO organization. We build and maintain tools for our internal customers and external business partners to use to price IBM’s products around the globe. We are a financially significant organization that delivers fast paced IT solutions supporting hardware and pricing services.
+On a daily basis you will work in use an agile methodology structure to identify security issues that need remediating for hardware and pricing services applications.
+Work with the application technical owners to identify any remediation for personal information stored in systems and formulate and standardize audit finding responses
+Providing executive status briefings using your strong communication and presentation skills
+You will use your knowledge of GDPR, CCPA, BRIXT and other laws associated with personal data to secure the enterprise.
+CIODEM20
+
+
+
+Required Technical and Professional Expertise
+3+ years of security program management
+Knowledge of application technical owner responsibilities
+Experience in managing risk assessments and security policy application
+Experience in creating and training on handling of inflight and at rest sensitive data
+Experience in detailed tracking of activities and tooling necessary to report activities
+
+
+
+Preferred Technical and Professional Expertise
+Knowledge of business criticality values and the infrastructure required to support financially significant applications.
+Proficiency at requirements for SOX applications
+Experience with Ansible, Contrast, ServiceNow, Trello, JIRA and WhiteSource
+
+
+
+About Business Unit
+The Office of the Chief Information Officer (CIO) owns IBM’s IT strategy and provides the tools, workstations, devices, and infrastructure that IBMers use to do their jobs every day. Put simply, our mission is to create a productive environment for IBM's 365,000 worldwide employees. Join us as we lead with with design to drive simplicity and ease of use, engineering the systems that run the business, and innovating to transform the business.
+
+
+Your Life @ IBM
+What matters to you when you’re looking for your next career challenge?
+
+Maybe you want to get involved in work that really changes the world? What about somewhere with incredible and diverse career and development opportunities – where you can truly discover your passion? Are you looking for a culture of openness, collaboration and trust – where everyone has a voice? What about all of these? If so, then IBM could be your next career challenge. Join us, not to do something better, but to attempt things you never thought possible.
+
+Impact. Inclusion. Infinite Experiences. Do your best work ever.
+
+
+About IBM
+IBM’s greatest invention is the IBMer. We believe that progress is made through progressive thinking, progressive leadership, progressive policy and progressive action. IBMers believe that the application of intelligence, reason and science can improve business, society and the human condition. Restlessly reinventing since 1911, we are the largest technology and consulting employer in the world, with more than 380,000 IBMers serving clients in 170 countries.
+
+
+Location Statement
+IBM will not be providing visa sponsorship for this position now or in the future.  Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship.
+
+
+Being You @ IBM
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.

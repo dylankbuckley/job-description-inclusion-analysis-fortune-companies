@@ -1,0 +1,36 @@
+Job ID 4374
+Date posted 12/05/2018
+Location Annapolis Junction, Maryland
+Company
+
+Job Description
+**THIS POSITION REQUIRES AN ACTIVE TS/SCI WITH POLY CLEARANCE**
+
+Boeing Intelligence & Analytics ("BI&A"), a subsidiary of The Boeing Company, is seeking a Development Software Engineer to join their top-tier team.
+
+DUTIES WILL INCLUDE:
+
+Develops, maintains, and enhances complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements.
+Works individually or as part of a team.
+Reviews and tests software components for adherence to the design requirements and documents test results.
+Resolves software problem reports.
+Utilizes software development and software design methodologies appropriate to the development environment.
+Provides specific input to the software components of system design to include hardware/software trade-offs, software reuse, use of Commercial Off-the-shelf (COTS)/Government Off-the-shelf (GOTS) in place of new development, and requirements analysis and synthesis from system level to individual software components.
+REQUIRED EDUCATION AND EXPERIENCE
+
+Bachelor’s degree in Computer Science or related discipline from an accredited college or university
+4 years of Software Engineering experience on projects with similar software processes may be substituted for a bachelor’s degree
+Experience with JAVA
+DESIRED EXPERIENCE (although NOT required):
+
+Test Automation Tools such as J-Unit, Rational and others,
+Elastic Search, My SQL, JIRA, GIT,
+Real-time systems, large data sets, understanding of Test and Evaluation processes and strategies
+BI&A is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race,color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+
+Equal Employment Opportunity is the Law (PDF)
+
+
+
+
+Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.

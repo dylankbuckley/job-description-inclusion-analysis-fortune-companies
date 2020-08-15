@@ -1,0 +1,59 @@
+No Visa Sponsorship is available for this position.
+
+Applicants are required to read, write, and speak the following languages: English
+
+Preferred Qualifications
+
+The Oracle Cloud SaaS Compliance team ensures the security and compliance of Oracle Cloud from initial design to compliance by way of security policy, processes, and procedure standards definition, assessment/audit and certification, operation and continuous monitoring of cloud based security infrastructure.
+
+Successful candidates for this role must be very comfortable taking a leadership role with regulatory compliance in a fast-paced organization. Candidates will be expected to lead new compliance efforts, as well as maintain existing regulatory compliance obligations.
+
+Primary responsibilities of this role will include:
+
+Lead contact for SaaS compliance operations within the Oracle National Security Region (ONSR) Cloud;
+Manages DISA/DoD SRG and IC agency authorizations, documentation packages, audits and conducts analysis and results on a continuous basis;
+Evaluates regulatory compliance requirements and engages with a variety of cross functional teams;
+Key team member of engineering design and development of government cloud based systems;
+Evaluates and provides reasonable assurance that risk management, control, and governance systems are functioning as intended and will enable the organization’s objectives and goals to be met;
+Reports risk management issues and internal controls deficiencies identified directly to the Cloud Regulatory Compliance Program and provide recommendations for improving the organization’s operations, in terms of both efficient and effective performance;
+Evaluates information security and associated risk exposures;
+Evaluates regulatory compliance program with consultation from legal counsel;
+Evaluates the organization’s readiness in case of business interruption;
+Maintains open communication with management and teams across Oracle Cloud Operations;
+Engages with other internal and external strategic resources as appropriate; and
+Evaluates applicable global standards & compliance frameworks to establish internal standards, guidelines, policies, processes, and procedures;
+Designs, develops and publishes internal program frameworks, checklists, policy, processes, procedures using creative publishing and editing software tools;
+Systematically and comprehensively documents the Government compliance program;
+Other duties as assigned;
+Qualifications:
+
+Excellent verbal and written communication skills
+Experience with FedRAMP, ICDs, JSIGs, and/or CNSSI.  Prior classified cloud experience a plus.
+Experience utilizing vulnerability management and GRC tools such as Nessus, Archer, Qualys, or similar is highly preferred.
+CISSP, CISA, CISM, or PMP certifications
+Prefer 8 years relevant experience. Prior Cloud Service Provider experience a plus.
+Prefer JD or Engineering degree
+Experience with an external audit firm is preferred
+Ability to maintain a US government Top Secret security clearance.
+Oracle employee benefits programs are designed individually for each region to ensure they best meets the needs of employees and their eligible dependents. See how ORACLEflex and other benefits help employees thrive at Oracle.  http://www.oracle.com/us/corporate/careers/index.html
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.
+
+
+Detailed Description and Job Requirements
+
+Assists and supports the organization in complying with, as well as the ongoing preparation, testing and monitoring of conformance to, the requirements of government regulations and/or regulatory agencies.
+
+Performs evaluation of internal operations, controls, communications, risk assessments and maintenance of documentation as related to regulatory compliance and recommends appropriate changes. Conducts and facilitates internal and external audits to identify, evaluate, disclose and appropriately remedy risks and deficiencies. Coordinates the preparation of and may prepare document packages for regulatory submissions from all areas of company as well as for internal and external audits and inspections. May serve as point of contact for interactions with regulatory agencies for defined matters. Support the creation of a comprehensive risk management and regulatory oversight program, including specifications for product and service design aligned with Oracle Software Security Assurance and Security Architecture. Review specifications. Develop training for GBU development, cloud services, services and operations teams on industry regulatory specifications applicable to their products and services. Execute risk assessments and evaluate risks to the business and develop risk mitigation strategies. Work with members of GBU development, cloud services, services and operations teams to incorporate applicable industry regulatory standards, Oracle security policies and customer-contractual obligations into GBU processes and standards. Coordinate industry and regulatory certifications, including managing certification vendors (e.g., PCI, HIPAA,HITECH, ISO, SOC2). Build security documentation and collateral for customers and internal users allowing security to be a differentiator in this GBUs. Build management level metrics and reporting for activities that are owned by the Risk Manager. Execute a vendor security program.
+
+Leading contributor individually and as a team member, providing direction and mentoring to others. Work is non-routine and very complex, involving the application of advanced technical/business skills in area of specialization. . Ability to travel. 8 plus years experience. BA/BS or advanced degree preferred. 5-7 years work in governance and compliance for a large corporation. CISA, CISM, CISSP, CIPP desired. Strong knowledge of IT auditing and controls, preferable with SOX, SSAE 16 - SOC 1 & SOC 2, PCI compliance, NIST, DIACAP, FedRAMP, ISO 27001 & ISO 27002. Experience with 21 CFR Part 11 and HIPAA. Knowledge and understanding of the delivery process for validated systems; specifically Computer System Validation process or CSV. Have an understanding of security standards and risk management. Experience working in Information Technology, Cloud or managed hosting services. Excellent written and verbal communication skills. Ability to adjust and adapt to changing priorities in a dynamic environment. Technical acumen and the ability to understand and interpret technical specifications. Technical knowledge of Oracle Applications and Database and/or infrastructure components. Project Management skills.
+
+Oracle is an Affirmative Action-Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, protected veterans status, age, or any other characteristic protected by law.
+
+
+Job: Product Development
+Travel: Yes, 25 % of the Time
+Location: US-VA,Virginia-Reston
+Other Locations: US-WA,Washington-Seattle
+Job Type: Regular Employee Hire
+Organization: Oracle

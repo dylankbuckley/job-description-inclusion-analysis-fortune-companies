@@ -1,0 +1,59 @@
+Introduction
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.
+
+
+Your Role and Responsibilities
+This position resides in Markham, ON and is a 16 (internship) month work term commencing August 2020. It is mandatory that all applicants are enrolled in full-time studies at a post-secondary institution and returning to full-time studies upon completion of the work term.
+
+The IBM Canada Advanced Studies (CAS) team works on tactical short term research commercialization projects, and helps build compelling tutorials, workshops, assignments and sample projects based on the latest IBM analytics, blockchain, cloud and data science technologies, including AI/ML. The team must quickly embed with an IBM product development team, adapt to its environment, deliver rapid and highly focused technical contributions, and then exit with a seamless hand off. This cycle repeats for the entire period of the internship. Individual projects are supported by development team technical experts, and may proceed directly in development team code bases, and/or be shared with faculty, students and IBM clients.
+
+Responsibilities
+Design/implement solutions/projects based on emerging technologies and research results.
+Fully engage as part of a well-organized, flexible and highly integrated team, with an emphasis on continuous, just-in-time learning of the latest technologies and solutions.
+Build relationships with experienced technical staff based on mutual respect, technical competence and delivery excellence.
+
+Benefits
+Be mentored by a variety of IBM senior technical experts across a breadth of products and technologies, and build your network for future career opportunities.
+Build your knowledge of the latest technologies while contributing to innovation in IBM products, working directly with the teams developing them.
+Work to engineer innovation into products, learn and employ design thinking practices, and have occasional contact with IBM clients.
+
+
+
+Required Technical and Professional Expertise
+Co-op or internship program enrollment is mandatory
+Experience with J2EE, REST, any JavaScript libraries (e.g. Ajax, Angular.js, JQuery), Node.js, SQL and no-SQL databases
+Ability to quickly understand and adapt to existing code bases
+Familiarity with object-oriented modeling (UML) and architectural-level discussions
+
+
+
+Preferred Technical and Professional Expertise
+Participation in campus societies or groups
+Interest in academic research and graduate studies
+Experience with peer tutoring, TAing or other learning facilitation
+
+
+
+
+About Business Unit
+Digitization is accelerating the ongoing evolution of business, and clouds - public, private, and hybrid - enable companies to extend their existing infrastructure and integrate across systems. IBM Cloud provides the security, control, and visibility that our clients have come to expect. We are working to provide the right tools and environment to combine all of our client’s data, no matter where it resides, to respond to changing market dynamics.
+
+
+Your Life @ IBM
+What matters to you when you’re looking for your next career challenge?
+
+Maybe you want to get involved in work that really changes the world? What about somewhere with incredible and diverse career and development opportunities – where you can truly discover your passion? Are you looking for a culture of openness, collaboration and trust – where everyone has a voice? What about all of these? If so, then IBM could be your next career challenge. Join us, not to do something better, but to attempt things you never thought possible.
+
+Impact. Inclusion. Infinite Experiences. Do your best work ever.
+
+
+About IBM
+IBM’s greatest invention is the IBMer. We believe that progress is made through progressive thinking, progressive leadership, progressive policy and progressive action. IBMers believe that the application of intelligence, reason and science can improve business, society and the human condition. Restlessly reinventing since 1911, we are the largest technology and consulting employer in the world, with more than 380,000 IBMers serving clients in 170 countries.
+
+
+Location Statement
+This role will involve working with technology that is covered by Export Regulations sanctions. If you are a Foreign National from any of the following US sanctioned countries (Cuba, Iran, North Korea, Sudan, and Syria) on a work permit, you are not eligible for employment in this position.
+
+
+Being You @ IBM
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.

@@ -1,0 +1,34 @@
+DESCRIPTION
+Are you a software engineer with strong Python or Scala skills that has strong interest in Machine Learning and Data Science? Procter & Gamble is looking for a software engineer with strong interests in these areas to work closely with our Data Scientists on exciting business use cases primarily in the retail and marketing area. In this role you would be working closely with data scientists to help them scale their algorithms.
+KEY RESPONSIBILITIES & DUTIES:
+As a Software Engineer working with Data Science at P&G, your key responsibilities will include:
+Code refactoring with Data Science and Data Engineering to get machine learning models from proof of concept to production
+Infrastructure engineering, security engineering, and architecture planning for new systems
+Develop internal tooling and libraries needed to support machine learning efforts
+Regular innovation/proof of concept work to deliver breakthroughs vs current techniques
+QUALIFICATIONS
+QUALIFICATIONS:
+
+BACHELORS/MASTERS DEGREE IN: COMPUTER SCIENCE OR OTHER TECHNICAL DEGREE WITH RELEVANT SOFTWARE ENGINEERING EXPERIENCE AND INTEREST IN MACHINE LEARNING
+4+ YEARS RELEVANT EXPERIENCE IN SOFTWARE ENGINEERING
+DEVELOPMENT KNOWLEDGE IN PYTHON OR SCALA
+KNOWLEDGE OF THE FOLLOWING REQUIRED: NETWORKING, SECURE DEVELOPMENT, LINUX, AUTHENTICATION PRINCIPLES
+HANDS ON USE OF THE FOLLOWING PREFERRED BUT NOT REQUIRED: SPARK, CONTAINERIZATION, CLOUD PLATFORMS (AZURE/AWS/GCP), DATABRICKS, GOOGLE BIGQUERY
+ABILITY TO WORK WITH TEAMS AND INDIVIDUALLY IN A HIGHLY DYNAMIC AND EXCITING ENVIRONMENT
+WE OFFER:
+P&G-sized projects and access to world leading IT partners and technologies from day one
+Coaching programs, trainings and data management and architecture certifications
+Opportunity to change role every few years to be in the best place for you and best for P&G
+P&G Vibrant Living programs (in-office fitness center)
+Competitive starting salary and benefits program (private health care, PG stock, saving plans)
+Regular salary increases and possible promotions - all in line with your results and performance.z
+About us
+We produce globally recognized brands and we grow the best business leaders in the industry. With a portfolio of trusted brands as diverse as ours, it is paramount our leaders are able to lead with courage the vast array of brands, categories and functions. We serve consumers around the world with one of the strongest portfolios of trusted, quality, leadership brands, including Always®, Ariel®, Gillette®, Head & Shoulders®, Herbal Essences®, Oral-B®, Pampers®, Pantene®, Tampax® and more. Our community includes operations in approximately 70 countries worldwide.
+Visit http://www.pg.com to know more.
+Our consumers are diverse and our talents - internally - mirror this diversity to best serve it. That is why we’re committed to building a winning culture based on Inclusion and our ideal candidate is passionate about the same principle: you will join our daily effort of being “in touch” so we craft brands and products to improve the lives of the world’s consumers now and in the future. We want you to inspire us with your unrivaled ideas.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, protected veteran status, disability status, age, sexual orientation, gender identity and expression, marital status, citizenship, HIV/AIDS status or any other legally protected factor.Immigration sponsorship is not available for this role. As a general matter, Procter & Gamble does not sponsor candidates for nonimmigrant visas or permanent residency. However, Procter & Gamble may make exceptions on a discretionary basis. Any exceptions would be based on the Company's specific business needs at the time and place of recruitment as well as the particular qualifications of the individual.Procter & Gamble participates in e-verify as required by law. Qualified individuals will not be disadvantaged based on being unemployed.Qualificlearly detailed in job description are assessed in the pre-screen questionnaire
+Job locations:
+Cincinnati, Ohio, United States
+Job Type: Full-time
+Job categories: Information Technology
+Req No: IT 00002618

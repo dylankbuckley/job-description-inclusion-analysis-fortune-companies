@@ -1,0 +1,62 @@
+POSITION SUMMARY:
+
+              This position is part of a team that supports and maintains the Operational Technology systems located at our processing plants and field locations. This position is responsible for all facilities within a geographic area and, as such, will require travel between the sites weekly. The position will have primary responsibility for all Operational Technology systems, network topology, and security hardware and software. Functioning as the primary contact for Operational Technology, this position will work closely with Facilities Operations personnel and Corporate IT staff to maintain the expected reliability of OT systems with an emphasis on security.
+
+
+
+
+
+ESSENTIAL DUTIES/RESPONSIBILITIES:
+
+Provide support for DCS proprietary systems, including Emerson DeltaV, Foxboro, Honeywell, WonderWare suite, and ClearSCADA, as well as other various control system related applications.
+Manage relationships with vendor providers and partners for Operational Technology software toolsets—coordinate application of software updates, patches, and security remediation for software packages.
+Coordinate and/or implement changes to Operational Technology servers and network topology. This includes assisting Corporate IT staff with the configuration of server hardware, virtual machines, firewalls, switches, and sometimes older technologies that exist within operations.
+Communicate the status of projects with the Operational Technology Team and various levels of management.
+Assist with the administration of plant Process Control (DCS and SCADA) LANs and Servers.
+Function as smart hands and eyes to assist with the administration and troubleshooting of Windows servers, the local area networks, and components. Includes activities such as daily server backups, updating anti-virus, applying Microsoft patches, performance tuning, security changes, and more.
+Maintain appropriate controls, documentation, and business recovery plans for the plant sites, local area networks, and other computer systems. Maintain other technical specifications to ensure compliance with corporate standards and procedures.
+Maintain dialogue with IT Services and other LAN Administrators to facilitate problem resolution and information sharing on system management techniques.
+Participate in Critical Infrastructure and/or IT teams for implementing strategic IT initiatives. Analyze, test, modify, and implement programs or systems, including in-house developed or purchased applications.
+Coordinate and/or implement corporate security directives that pertain to the DCS LAN
+Build strong relationships with plant operators and managers
+Perform regular reviews of procedures and audit controls to align with internal policies and standards. Perform remediation of identified gaps.
+Perform special projects and other duties as requested by immediate supervisor
+
+
+
+
+
+
+JOB QUALIFICATIONS:
+
+Two or more years’ experience working in an Oil/Gas Operations Environment
+SCADA, DCS, understanding of Plant systems and operations
+A firm understanding of security principles, compliance requirements, and remediation practices is required
+ITIL Foundation certification preferred
+Excellent written and verbal communication skills
+College degree or comparable experience required
+
+#LI-JS1
+
+
+About Marathon Petroleum Corporation
+
+
+
+Marathon Petroleum Corporation is a leading, integrated, downstream energy company headquartered in Findlay, Ohio. The company operates the nation’s largest refining system with more than 3 million barrels per day of crude oil capacity across 16 refineries. Marathon Petroleum's marketing system includes branded locations across the United States, including Marathon branded outlets. Speedway LLC, a Marathon Petroleum subsidiary, owns and operates retail convenience stores across the United States. MPC also owns the general partner and majority limited partner interest in MPLX LP, a midstream company which owns and operates gathering, processing, and fractionation assets, as well as crude oil and light product transportation and logistics infrastructure.
+
+
+Travel Expected: Up to 50%
+
+
+
+Marathon Petroleum Company LP is an Equal Opportunity Employer and gives consideration for employment to qualified applicants without discrimination on the basis of race, color, religion, creed, sex, gender (including pregnancy, childbirth, breastfeeding or related medical conditions), sexual orientation, gender identity, gender expression, age, mental or physical disability, medical condition or AIDS/HIV status, ancestry, national origin, genetic information, military, veteran status, marital status, citizenship  or any other status protected by applicable federal, state, or local laws.  If you would like more information about your EEO rights as an applicant, click here.
+
+
+If you need a reasonable accommodation for any part of the application process at Marathon Petroleum LP, please contact our Human Resources Department at talentacquisition@marathonpetroleum.com. Please specify the reasonable accommodation you are requesting, along with the job posting number in which you may be interested. A Human Resources representative will review your request and contact you to discuss a reasonable accommodation.
+
+
+Equal Opportunity Employer: Veteran / Disability
+
+
+Marathon Petroleum Company LP participates in the E-Verify program in some states in which it operates (including AL, AZ, GA, MS, NC, SC, TN, and UT). For more information before proceeding, please see details in English or Spanish. Right to Work Statement English or Spanish.

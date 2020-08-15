@@ -1,0 +1,25 @@
+Job Description
+
+At ADM, we unlock the power of nature to provide access to nutrition worldwide. With industry-advancing innovations, a complete portfolio of ingredients and solutions to meet any taste, and a commitment to sustainability, we give customers an edge in solving the nutritional challenges of today and tomorrow. We’re a global leader in human and animal nutrition and the world’s premier agricultural origination and processing company. Our breadth, depth, insights, facilities and logistical expertise give us unparalleled capabilities to meet needs for food, beverages, health and wellness, and more. From the seed of the idea to the outcome of the solution, we enrich the quality of life the world over. Learn more at www.adm.com.
+
+Our Master Data Management team is looking for an experienced SAP S4 Hana Developer! You will be responsible for executing end to end, large-scale, complex, SAP data driven technology projects. Demonstrating proficiency in application of standard software development principles, you should be able to work as an independent team member, capable of applying judgment to plan and execute your tasks. We are looking for a qualified candidate to ensure performance targets are met & aligned with the organization’s strategic objectives; and that projects align to standard methodologies. Interpersonal skills are essential for responding to technical queries, liaising with on-site and off-site teams, handle project issues and resolution for business users, as well as coaching, guiding and mentoring junior members in the team.
+An Ideal candidate will have:
+
+Minimum of 2 years of experience working with SAP S/4 and/or SAP MDG
+Ability to translate requirements into functional and technical specification document
+Experience supporting and working with multi-functional teams in an agile environment.
+Understanding of different data provisioning mechanism
+Knowledge of the following technologies is a plus:
+SAP Data Services and SAP Information Steward
+BO and SAP Data Services (BODS)
+Data Migration/Conversion Process
+SAP Information Steward
+Azure DevOPs
+ADM is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability and veteran status.
+
+
+About ADM:
+
+At ADM, we unlock the power of nature to provide access to nutrition worldwide. With industry-advancing innovations, a complete portfolio of ingredients and solutions to meet any taste, and a commitment to sustainability, we give customers an edge in solving the nutritional challenges of today and tomorrow. We’re a global leader in human and animal nutrition and the world’s premier agricultural origination and processing company. Our breadth, depth, insights, facilities and logistical expertise give us unparalleled capabilities to meet needs for food, beverages, health and wellness, and more. From the seed of the idea to the outcome of the solution, we enrich the quality of life the world over. Learn more at www.adm.com.
+
+EEOADM is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability and veterans status.

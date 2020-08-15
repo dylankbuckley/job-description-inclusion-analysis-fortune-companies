@@ -1,0 +1,72 @@
+The Coca-Cola Company is seeking highly-motivated, qualified candidates for a Senior IT Auditor on the Internal Audit team. The purpose of this position is to perform technology-focused assessments in areas such as cybersecurity, digital solutions, and privacy, participating in regular risk discussions with leadership, and conducting risk-based financial compliance audits to determine operating effectiveness of internal controls, including Sarbanes-Oxley related controls.  This position will participate in the Corporate Audit Department Rotation Program and assignments during the rotation will be dependent on the candidate’s skill set and performance.  Audit assessments and compliance activities are conducted for internal clients at our headquarters in Atlanta, GA and at locations around the world.
+
+
+Essential Functions
+
+
+Create plan for upcoming audits through a contribution of ideas on the methodology and approach for upcoming assignments based on review of prior year’s audit work papers, flowcharts and audit report.
+Perform interviews with process and business owners at all levels and across the company to gather information, ascertain key risks, areas of concerns, and the expected internal control that should be in place. Independently execute pre-designed audit tests and assess the adequacy and effectiveness of the business areas processes, policies or controls. Identify gaps/opportunities/key risks and develop corrective actions to address gaps or assess adequacy of solutions offered by business partners.
+Perform comprehensive analysis of information prompted through interviews and document review by demonstrating professional skepticism and appropriate follow-up.
+Present and confirm audit findings/issues and the related corrective action to various levels of process/business owners.
+Document assessment and test results in compliance with internal audit industry (i.e., Institute of Internal Auditors) and departmental standards. Accurately prepare written audit finding/issue and applying judgment and analysis to recommend the related corrective action.
+Effective in writing reports, highlighting audit findings and making recommendations for corrective action.
+Completion of required internal audit department tasks needed to ensure the department’s compliance with professional industry standards (e.g., self-review of audit work, proper close-out of the audit files, adequately responding to supervisor review comments, etc.), as well as planning for the next assignment.
+Available to travel (domestic and international) up to 30%.
+Regular, dependable attendance & punctuality.
+
+Education/Experience
+
+Qualifications:
+
+
+A 4-year undergraduate degree in related field of study (e.g., Management Information Systems, Information Technology, Computer Science, and Business with Master of Accountancy program – IT track) is required.
+At least 2-3 years of relevant prior work experience and related industry IT public accounting or cybersecurity work experience is required.
+A CISA or CISSP is preferred, but not required.
+A strong knowledge of risk based advanced IT auditing in a dynamic and changing environment applying appropriate IT control frameworks (e.g. COBIT, PCI, NIST) to evaluate areas of risk is required.
+
+Communication Skills
+
+
+Excellent written and verbal communication skills.
+Ability to read, write and interpret instructional documents such as reports and procedure manuals.
+
+Technical Skills
+
+
+Experience working with technologies such as SAP ECC/Hana, SAP GRC, Active Directory, Linux, Windows, Mac OS, AIX, Oracle Database, SQL Server, AS400, Amazon Web Services, Azure Cloud Services, Microsoft 365, Salesforce, Workday, Palo Alto Networks, etc.
+Should demonstrate sound technical proficiency and the curiosity, willingness and ability to learn advanced IT environments.
+Must have a solid awareness of General IT controls and activities.  This includes strong knowledge across a breadth of IT processes, including but not limited to: security operations, program management, security administration, system operations, change management, modern development (e.g., DevOps, Agile), data governance, privacy, and incident/problem management.
+Must have above average mathematical skills, including the ability to compute rates, ratios, and percentages, and the ability to work with mathematical concepts such as probability and statistical inference.
+
+Other Skills
+
+
+Must be able to work independently, but under appropriate supervision.
+This position requires analytic and problem-solving ability to review and evaluate an operation’s overall control environment.
+In addition, it requires the ability to demonstrate good judgment, professional skepticism, and a strong learning aptitude to understand the Company’s business processes as well as the ability to work with minimal supervision and demonstrate a high level of drive and initiative.
+The candidate must be able to effectively communicate with various levels of the Company, discuss appropriate risks, identify and obtain audit requests from clients, and present audit findings in a clear and professional manner.
+
+Work Hours
+
+
+Ability to work a flexible schedule based on department and company needs.
+Available to travel (domestic and international) up to 30%.  Extended international travel may be required.
+Progression and rotation into other roles within the Company must be desired by all applicants.
+
+
+Our Growth Culture:
+One of the reasons our company continues to thrive after 130+ years is having a company culture that supports and rewards behaviors that lead to growth. Our “Growth Behaviors,” as we call them, are ways of being and working that help to make us successful. Think about how you can bring this to life in your next role at Coca-Cola.
+
+Curious
+Keep seeking, never settle.  Staying curious about what is outside, and two steps ahead inspires us to challenge the status quo. Having the courage to look and leap is the way we grow. Because asking “what if?” pushes us to the next level as people and as a company.
+
+Empowered
+Make it happen. True empowerment is the result of taking responsibility. This means giving yourself permission to see it, say it and do it, and owning the outcomes. Because we move forward faster when we all take action.
+
+Version 1.0, 2.0, 3.0
+Push for progress, not perfection. There are very few overnight successes. Greatness is borne of many little victories (and failures). Share v 1.0, test it, and make it better. Then create the next version. Because the moment we think something is perfect, it will be obsolete.
+
+Inclusive
+Include, value and trust each other. We are smart alone but together we are genius. This means being inclusive, giving the benefit of the doubt and being responsible for each other. Because, for our company to thrive for the next 100+ years, smart isn’t enough. We need genius.
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity and/or expression, status as a veteran, and basis of disability or any other federal, state or local protected class.​

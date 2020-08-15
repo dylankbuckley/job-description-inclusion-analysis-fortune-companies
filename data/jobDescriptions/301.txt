@@ -1,0 +1,145 @@
+POSTING DATE:  Aug 7, 2020
+PRIMARY LOCATION:  Americas-United States of America-Maryland-Baltimore
+EDUCATION LEVEL:  Bachelor's Degree
+JOB:  Threat Management
+EMPLOYMENT TYPE:  Full Time
+JOB LEVEL:  Associate
+
+DESCRIPTION
+Morgan Stanley is a leading global financial services firm providing a wide range of investment banking, securities, investment management and wealth management services. The Firm's employees serve clients worldwide including corporations, governments and individuals from more than 1,200 offices in 43 countries.
+
+
+As a market leader, the talent and passion of our people is critical to our success. Together, we share a common set of values rooted in integrity, excellence and strong team ethic. Morgan Stanley can provide a superior foundation for building a professional career - a place for people to learn, to achieve and grow. A philosophy that balances personal lifestyles, perspectives and needs is an important part of our culture.
+
+
+
+Department Profile
+
+
+
+The mission of the Global Technology division is to provide a highly reliable and commercial technology platform, which supports the Firm's strategy, delivered by an innovative, world-class team of professionals. There are ten divisions within Technology.
+
+
+Technology Risk (TR) is part of the Global Technology and Data organization and manages operational and technology related risks on behalf of the Firm. The group's key principles are to provide proactive, comprehensive and consistent risk management, to enable the execution of the Firms strategy.
+
+
+TR's mandate is to enable the Firm to manage its technology and data related risks through implementing proactive, comprehensive and consistent risk management practices across the Firm to protect the franchise while capturing business opportunities. The TR team partners with the business by ensuring that Technology and Data understands how to manage, escalate, and monitor risk.
+
+
+
+Team Profile
+
+
+
+The MS Purple Team’s responsibility is to perform security assessments and breach simulations at scale that improve the Firm’s ability to detect, prevent, and respond to threats. The team accomplishes this primarily by executing Advanced Persistent Threat (APT) scenarios designed to challenge and improve the response, analytics and hunting functions at the Firm with a cooperative ethos.
+
+
+
+To ensure our work results in defensive improvements as fast as possible, we sit alongside the Cyber Incident Response Team (CIRT) and Security Operations Center (SOC), collaborating with team members from both on a daily basis. Together, CIRT and SOC oversee a 24/7 operation with members in key geographical locations that perform incident response and remediation, campaign assessments, as well as network and host based forensics; our team is committed to supporting continual improvement of Blue Team operations.
+
+
+
+The ideal candidate for the role will be an experienced information security professional with a zest for building a world class cyber security functions from the ground up. Highly desirable candidates will bring strong technical fundamentals in either Red Teaming or Blue Teaming but will eager but be eager to grow their abilities in both for the reasons above.
+
+
+
+This is a hands-on technical role. Candidates with strong backgrounds in Python scripting and a relevant defensive or offensive discipline will be considered.
+
+
+
+
+
+Responsibilities:
+
+
+
+Execute Advanced Persistent Threat (APT) scenarios against on-prem and cloud environments to improve the Firm’s ability to detect, prevent, and respond to adversaries.
+
+
+
+Research, verify, and internally disclose suspected control gaps and vulnerabilities during the course of all activities. Partner closely with Vulnerability Management (VM), End User Technology (EUT), Enterprise Security Platforms (ESP), and Insider Threat teams to ensure things get fixed fast.
+
+
+
+Leverage proof of concept (PoC) code and newly released CVE’s against production systems to ensure the enterprise mitigation strategies work as intended at the direction of the CISO.
+
+
+
+Partner with the Blue Team to generate SIGMA and YARA rules and push them to production sensor networks. Signature your own tradecraft.
+
+
+
+Collaborate with the Blue Team elements the global enterprise to improve detective and preventative capabilities in the form of cyber exercises.
+
+
+
+Pilot new technologies and controls the Firm is considering for deployment and provide feedback to senior stakeholders on their value-add to the existing stack.
+
+
+
+QUALIFICATIONS
+Qualifications
+
+
+
+(2+ Years) Hands on experience in a highly technical information security role that will add to our team’s breadth, such as security analytics development, threat hunting, penetration testing, or red teaming.
+
+A relentless passion for information security.
+
+A “Purple Team” ethos to helping MS enterprise defenders and engineers improve over time.
+
+Excellent scripting skills in Python at minimum and ideally Powershell as well.
+
+Substantive experience with two or more of the following:
+
+
+
+Performing security assessment or penetration tests against IaaS and PaaS solutions with a focus on AWS and Microsoft Azure.
+
+Identifying and exploiting web stacks via SQLi, XSS, and CSRF techniques.
+
+Performing RESTful web services pentesting.
+
+Performing API security assessments.
+
+Maintaining attack simulation and C2 infrastructure.
+
+Developing Cobalt Strike modules in aggressor script.
+
+Executing security assessments against financial technology systems and infrastructure.
+
+Understanding of modern Windows internals on NT 6.2+.
+
+Developing embedded script payloads (VB Macros, Javascript) tailored to evade endpoint and file based security controls.
+
+Developing shellcode payloads.
+
+Developing YARA/SIGMA signatures on threat actor TTPs.
+
+Developing exploits on Intel x86_32 and x64.
+
+
+
+Willingness to innovate in a complex, highly regulated enterprise environment is essential.
+
+Outstanding interpersonal and communication skills are essential.
+
+
+
+
+
+Desired Skills and Experience
+
+
+
+BS/MS/PhD in Computer Science, Information Security, Security Engineering highly desired.
+
+Professional experience on cyber security teams in the financial industry highly desired.
+
+Professional experience in an information security position working w/ XML, SOAP, JSON, AJAX desired.
+
+Knowledge of how Blue Teams implement SOAR technologies and response automation a plus.
+
+Professional experience in both offensive and defensive information security disciplines a plus.
+
+Offensive Security Certifications (OSCP, OSCE, OSWE) a plus.

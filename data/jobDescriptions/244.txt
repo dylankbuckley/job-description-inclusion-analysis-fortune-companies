@@ -1,0 +1,131 @@
+Job ID R10010734
+Location Greenwich, Connecticut, United States
+Business Blue Sky Studios
+Date posted Apr. 15, 2020
+Job Summary:
+
+Blue Sky StudiosWe are a collection of enduring brands and iconic, unforgettable characters. We create content for audiences big and small, reaching billions of people every day. Most of all, we are many individuals, each uniquely talented, each a critical piece to our puzzle, who collectively become a power. Desire to thrill and engage? Join us as we engage and inspire.
+The Help Desk Administrator provides Level 1 and Level 2 support for the animation studio. The successful candidate will have proven technical ability, indicated on his resume and supported by technical job references. This position reports to the Technical Coordinator and the Head of Systems and works closely with the department’s systems administration staff for daily task assignments and priorities.
+
+
+Essential
+Functions/Responsibilities
+:
+
+Exhibits courtesy, tact, consideration, teamwork and discretion in all interactions with Studio staff and with the public.
+
+The Help Desk Workstation Administrator position provides
+Level 1 and 2 sustaining support for our 500+ seat digital animation studio, including but not limited to:
+
+375+ CentOS Linux workstations (v6.5).
+
+275+ Mac OS X workstations, laptops and servers (OS X 10.8, 10.10).
+
+175+ Windows workstations and laptops (Windows 7).
+
+Maintaining the stability, functionality and performance of the Studio's desktop computer environment, including but not limited to:
+
+Troubleshooting authentication (Active Directory, NIS), network storage (NFS, CIFS) and network connectivity issues (TCPIP, DHCP, DNS);
+
+Workstation security, including anti-virus reporting and remediation (Symantec End Point Protection);
+
+Client data backup and restore (EMC Networker, Windows My Documents sync, OS X portable home);
+
+Configuration and image management.
+
+Installing and troubleshooting integration issues with desktop and production applications.
+
+Patching network connections and digital telephones (switch to desktop).
+
+Maintaining inventories of software (media and licenses), hardware, and printer toner.
+
+Maintaining printers and printer clients, including distributing printer toner; configuring and troubleshooting printers.
+
+Configuring and troubleshooting user accounts and home directories for Linux, Mac and Windows.
+
+Configuring and troubleshooting remote access.
+
+Training users in the proper use of applications and peripherals. Experience with Wacom tablets is a plus.
+
+Thorough record keeping and documentation as required.
+
+Other projects, and duties as may be required or assigned
+
+
+Qualifications:
+
+ Education and/or Experience Required:
+
+Minimum of an Associates degree in a related field and/or a combination of Education and experience that would be equitable to that level of professionalism, problem solving and analytical skills,
+
+2 + year IT experience in a business or production environment.  Specifically: Previous experience in customer support, computer operations, system administration, or a related area.
+
+Prior experience administering workstation technology in a multi-platform production environment is a plus.
+
+
+
+Skills, Abilities, Special Licenses or Certificate:
+
+The Help Desk Administrator position requires the ability to service a wide range of technologies, including but not limited to:
+Hardware installation and component troubleshooting:
+
+Apple iMac, Mac mini, MacPro, MacBook and MacBook Pro;
+
+HP zSeries workstations;
+
+HP monitors including HP DreamColor and Hyundai Stereo monitors;
+
+Wacom Intuos and Cintiq tablets;
+
+HP and Xerox printers, scanners, faxes;
+
+Nvidia and AJA graphics cards,
+
+Operating system installation and configuration:
+
+CentOS; experience with Fedora and BSD is a plus;
+
+Apple OS X;
+
+Windows 7, Windows server experience is a plus;
+
+Application installation and configuration:
+
+Browser-based email clients; experience with Zimbra Productivity Suite is a plus;
+
+Microsoft and Apple business and productivity applications, including Office, Project, iWorks
+
+Adobe Creative Suite;
+
+Video production and playback applications, including QuickTime Pro, Final Draft, Fluendo.
+
+A proven technical aptitude, indicated on resume and supported by technical references.
+
+Strong attention to detail.
+
+Ability to relate to and effectively communicate professionally with all levels of employees.
+
+Process oriented, but flexible around business needs.
+
+
+Working Conditions and Environment/Physical Demands:
+
+Office working environment
+
+Systems provides IT support for a 24/7 Animation Studio:  Flexible working hours and overtime required, including early morning, late evening and some weekends to support maintenance and production cycles.
+
+Walking/bending/sitting
+
+Lifting of up to 50lbs on a regular basis.
+
+The above statements are intended to describe the general nature and level of the work being performed by people assigned to this work.  This is not an exhaustive list of all duties and responsibilities associated with it. Blue Sky Studio management reserves the right to amend and change responsibilities to meet business and organizational needs.
+
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, disability, protected veteran status, or any other characteristic protected by law. We will consider for employment qualified applicants with criminal histories consistent with applicable law.
+
+About Blue Sky Studios:
+One of the world's largest producers and distributors of motion pictures, 20th Century Fox Film produces, acquires and distributes motion pictures throughout the world. These motion pictures are produced or acquired by the following units of 20th Century Fox Film: Twentieth Century Fox, Fox 2000 Pictures, Fox Searchlight Pictures, Fox International Productions, and Twentieth Century Fox Animation. Blue Sky Studios is the animation studio behind the wildly successful ICE AGE and RIO franchises, along with this year's FERDINAND animated feature film!
+
+About The Walt Disney Company:
+The Walt Disney Company, together with its subsidiaries and affiliates, is a leading diversified international family entertainment and media enterprise with the following business segments: media networks, parks and resorts, studio entertainment, consumer products and interactive media. From humble beginnings as a cartoon studio in the 1920s to its preeminent name in the entertainment industry today, Disney proudly continues its legacy of creating world-class stories and experiences for every member of the family. Disney’s stories, characters and experiences reach consumers and guests from every corner of the globe. With operations in more than 40 countries, our employees and cast members work together to create entertainment experiences that are both universally and locally cherished.
+
+This position is with Blue Sky Studios, which is part of a business segment we call Blue Sky Studios.

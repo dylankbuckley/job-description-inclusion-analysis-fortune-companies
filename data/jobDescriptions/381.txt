@@ -1,0 +1,52 @@
+GRM US PL – Products is actively searching for an experienced Software Engineer to join our Policy Administration team. As a member of this team, you’ll join a talented, highly engaged, and enthusiastic squad who just recently set out to rebuild and re-envision the Policy Admin (PA) system that supports the Customers First application. The PA system is critical to the lifecycle of our customer’s policies, across all lines of business, emphasizing the importance and critical benefits of our modernization journey. The team’s mission is to breakdown the monolithic system that exists today and build the new framework with all the latest and greatest technologies: Kafka, DocumentDB, GraphQL, Microservices, Spring Boot, etc.
+
+We’re looking to grow our team with those who are highly motivated, passionate, and eager to experiment and drive forward change! This includes rethinking design patterns, technologies, and our architecture. As a member of this squad, you’ll be involved in vision sessions, event mapping, exploratory design and research efforts, and building this new system from the ground up!
+
+Thanks for considering joining us on this journey!
+
+
+This is a range posting and the description is posted as a Grade 16 Senior Software Engineer. However, candidates will be considered for Grade 14 (Software Engineer) in the Engineer Job family. 
+
+
+In this role you will….  
+Develop effective, defect free source code that meets business requirements and team standards.
+Participate in unit test case development
+Develop complex test scripts.
+Conduct impact analysis.
+Develop component design
+Provide system/application architecture
+Contribute technical alternatives
+Develop production support documentation.
+Interact with customers and development team to gather and define requirements
+Work within project team on iterative development that delivers a high-quality product
+Execute all levels of testing (System, Integration, and Regression)
+Analyze user stories for validity and feasibility
+Provide functional/system integration testing support.
+Perform Quality Assurance coding and design review; defects or discrepancies in requirements identified and resolved with appropriate partners and stakeholders.
+Plan work out appropriately, proactively escalates issues that may impact scope, schedule, budget
+Participate in the development of Build and Deployment guide and script.
+Mentor new Engineers and junior Engineers.
+
+Desired Qualifications:     
+
+Bachelors or Master’s degree in technical or business discipline or equivalent experience.
+5+ years of professional experience.
+Strong oral and written communication skills; presentation skills.
+Proficient in negotiation, facilitation and consensus building skills.
+Proficient in new and emerging technologies (microservices, AWS, & Docker a plus).
+Thorough knowledge of the following: IT concepts, strategies and methodologies.
+Proficiency in multiple programming languages and tools (Java, Spring, experience).
+ Understanding of agile software development concepts and processes
+Thorough understanding of backlog tracking, burndown metrics, and incremental delivery.
+Collaboration, prioritization, and adaptability skills required.
+
+
+Highly competitive applicants will have the following:
+
+Experience driving platform modernization initiatives including micro services, cloud deployment, and technologies such as: Kafka, AWS, Docker, Java, NodeJS, Spring Boot
+Strong enterprise-level software development experience in an object-oriented language, preferably Java/J2EE
+Solid programming discipline: unit testing, fault tolerance, data structures, complexity analysis, object-oriented principles, design patterns, etc.
+Oracle, SQL Server, DB2
+Familiarity with CI/CD and DevOps tools such as BitBucket/Git or Gradle/Jenkins
+Experience working in an agile environment (Scrum, Kanban, XP, etc.…)
+An evident appreciation of current and emerging technology trends 

@@ -1,0 +1,69 @@
+About GM
+There’s never been a more exciting time to work for General Motors.
+
+To achieve our vision of a world with Zero Crashes, Zero Emissions and Zero Congestion, we need people to join us who are passionate about creating safer, better and more sustainable ways for people to get around. This bold vision won’t happen overnight, but just as we transformed how the world moved in the last century, we are committed to transforming how we move today and in the future.
+
+Why Work for Us
+Our culture is focused on building inclusive teams, where differences and unique perspectives are embraced so you can contribute to your fullest potential as you pursue your career. Our locations feature a variety of work environments, including open work spaces and virtual connection platforms to inspire productivity and flexible collaboration. And we are proud to support our employees volunteer interests, and make it a priority to join together in efforts that give back to our communities.
+
+Job Description
+In recent years, GM Information Technology has successfully executed the largest IT transformation in the history of the automotive industry, fully insourcing what once was a nearly completely outsourced IT function.  Today GM IT is a dynamic and fast paced organization that designs, develops and maintains all IT infrastructure, applications and solutions enabling GM’s global operations.  From designing and building the next generation of electric and other vehicles to developing a world-class GM experience for our dealers and customers, GM IT is driving real change in the most iconic automaker on the planet.  Our team delivers unique enterprise-wide IT solutions in cutting-edge technologies such as mobility, telematics, mission-critical business systems, supercomputing, cloud, vehicle engineering and real-time computing.  We offer challenging positions for passionate professionals looking to advance their careers and be a part of an IT organization focused on innovation, speed and business value.
+
+In this software development role, you will be responsible for developing software applications using sound, repeatable, industry standard methodologies. You will have the opportunity to work hands-on writing software or solutions, based on detailed requirements and system specifications. Development activities will include updating existing software and/or developing new software solutions to address a specific need or solve a particular business problem. Additionally, you will drive development activities in accordance with appropriate methodologies and application of a repeatable, systematic and quantifiable approach to the development process. You will coach/mentor software developers and will review the software being developed. This role will also work closely with architects and/or data scientists to ensure code alignment with design patterns/frameworks.
+
+For this role you will expected to have demonstrated success in software project delivery experience in leading technical efforts developing applications using a variety of tools, languages, frameworks and technologies
+
+Demonstrate mastery of many programming languages, tools and/or technologies
+
+Performance tuning, usability assessment/improvement
+
+Aggressively engage in the identification / remediation of software issues related to code or solutions quality, security, and/or pattern/frameworks and software usability or end user related issues
+
+Integrate software with existing software/systems
+
+Automates unit/end-to-end testing of software systems within their domain, focused on software quality and maintainability
+
+Strong Knowledge of maintaining and debugging live software systems. Dedicatedly engage in the remediation of software issues related to code/solutions quality and/or security
+
+Provides guidance and mentoring of fellow software developers and other team members
+
+Possess technical writing knowledge around system design specification and user documentation of software systems and ensure that technical documentation meets GM standards
+
+Understand and maintain compliance with GM standards and industry standard methodology
+
+Holds themselves and others accountable for demonstrating GMs values and cultural behaviors. Models GM behaviors and builds a winning culture.
+
+The position is responsible for developing and testing mobile applications using repeatable industry best practices and in accordance with GM's software development project methodology. The Software Developer will work hands-on designing and writing code based on detailed requirements and system specifications. Developers will specialize in mobile development software packaging and coding languages. Development activities will include updating existing software and/or developing new mobile applications to address a specific customer need or to solve a particular business problem. This role will contribute to all development activities including design, coding, testing, certification, documentation and deployment. The Software Developer for Mobility should have a strong eye for Usability especially within Mobile Form Factors. This role will involve a great deal of creativity and initiative. Role Responsibilities:
+Full lifecycle application development using standard frameworks and coding standards/patterns
+Coding, unit testing and debugging applications in various software languages
+Software testing and quality assurance
+Performance tuning, improvement, balancing, usability, automation
+Document software code and ensure that technical documentation i.e. configuration guides, install guides meet requirements
+Integrate software with existing systems
+Maintain standards compliance
+Implement localization or globalization of software
+Work closely with senior developers and software engineers to gain additional knowledge and expertise.
+Proactively engage in the remediation of software issues such as code quality, pattern mismatch, and security issues related to the code/configuration
+Automates testing processes by developing unit test scripts, as needed Minimum Qualifications:
+Minimum 7 years of professional software development experience
+Minimum 3 years of experience developing mobile applications within the Android OS for devices or tablets.
+Excellent technical knowledge of Java for Android
+Demonstrates strong experience/knowledge of the Android SDK
+Good understanding of software development best practices
+Experience working in an agile environment
+Extensive UI Design experience
+Strong knowledge and understanding of different Android platforms
+
+Benefits Overview
+The goal of the General Motors total rewards program is to support the health and well-being of you and your family. Our comprehensive compensation plan incudes, the following benefits, in addition to many others:
+• Paid time off including vacation days, holidays, and parental leave for mothers, fathers and adoptive parents;
+• Healthcare (including a triple tax advantaged health savings account and wellness incentive), dental, vision and life insurance plans to cover you and your family;
+• Company and matching contributions to 401K savings plan to help you save for retirement;
+• Global recognition program for peers and leaders to recognize and be recognized for results and behaviors that reflect our company values;
+• Tuition assistance and student loan refinancing;
+• Discount on GM vehicles for you, your family and friends.
+
+Diversity Information
+General Motors is committed to being a workplace that is not only free of discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that workforce diversity creates an environment in which our employees can thrive and develop better products for our customers. We understand and embrace the variety through which people gain experiences whether through professional, personal, educational, or volunteer opportunities.
+
+We encourage interested candidates to review the key responsibilities and qualifications and apply for any positions that match your skills and capabilities.

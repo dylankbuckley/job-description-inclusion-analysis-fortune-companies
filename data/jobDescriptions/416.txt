@@ -1,0 +1,62 @@
+Date: Aug 8, 2020
+
+Location: Urbandale, IA, US, 50322
+
+Company: John Deere
+
+There are 7 billion people on this planet. And by 2050, there will be 2 billion more... many moving into urban centers at an unprecedented rate. Making sure there is enough food, fiber and infrastructure for our rapidly growing world is what we’re all about at John Deere. And it’s why we’re investing in our people and our technology like never before in our 175-year history. Here the world’s brightest minds are tackling the world’s biggest challenges. If you believe one person can make the world a better place, we’ll put you to work. RIGHT NOW.
+
+Primary Location: United States (US) - Iowa (US-IA) - Urbandale
+Function: Product Engineering
+Title: Site Reliability Engineer - 66992
+
+Your Position:
+
+As a Site Reliability Engineer position for John Deere Intelligent Solutions Group (ISG) located in Urbandale, IA you will be responsible for the reliability, resiliency, and security of a broad range of components or products within the ISG Digital Solutions Data Platform space. In addition, you will:
+
+Understanding of technology and develops creative solutions for resiliency, reliability, and security for applications.
+Have an ability to anticipate product failure and automate solutions for failure modes and recovery
+Execute in the solution of complex problems within a component or team for resiliency, reliability, and security
+Evaluate and implement enhancement design solutions to improve cost, quality, performance, and security of software applications
+Evaluate and implement enhancement design solutions for gathering metrics for cost, quality, performance, and security of software applications
+Develop and maintain knowledge of the industry and technical innovations in the technical discipline
+Execute necessary support and playbook documentation, as directed, or needed
+Collaborate with other site reliability engineers and product team members to ensure that features meet business needs
+Participate in problem post mortems in order to understand issues, learn from issues, and share any changes in automation, recovery, and documentation with other site reliability engineers
+Visa sponsorship is available for this position.
+
+What Skills You Need
+
+2 or more years of experience in developing applications using AWS services (RDS, EC2,EB, S3, SQS, etc.)
+1 or more years of experience working with Elastic search and Kibana
+4 more more years of software development experience including knowledge of computer science/engineering
+2 or more years of experience with Drone, Jenkins, or CI/CD tools
+2 or more years of familiarity with ISG Java standards practices
+1 or more years of experience with container technologies (Docker, Kubernetes, AWS ECS, etc.)
+Strong communication skills
+What Makes You Stand Out
+
+Ability to understand complex architecture and work with different teams contributing to the platform
+Ability to work with offshore/remote development teams
+Ability to use diagnostics tools like AWS CloudWatch/Grafana/AppDynamics/Kibana etc. for problems and rootcause analysis
+Experience with ISG's applications like Platform, RDA and Grower
+Experience with Terraform or other cloud agnostic tools
+Experience developing with Javascript, Python, Groovy, Ruby,Bash or other common languages used in AWS
+An ability and an interest in continually learning and mastering the rapidly evolving AWS cloud development
+Education (or equivalent work experience)
+
+Ideally, you will have a degree or equivalent work experience in the following:
+
+Bachelor's degree in an Engineering/Technology discipline or equivalent experience in software industries.
+
+
+
+
+What You'll Get
+At John Deere, you are empowered to create a career that will take you to where you want to go. Here, you'll enjoy the freedom to explore new projects, the support to think outside the box and the advanced tools and technology that foster innovation and achievement. We offer comprehensive relocation and reward packages to help you get started on your new career path. Click here to find out more about our Total Rewards Package.
+
+The information contained herein is not intended to be an exhaustive list of all responsibilities and qualifications required of individuals performing the job. The qualifications detailed in this job description are not considered the minimum requirements necessary to perform the job, but rather as guidelines.  An Equal Opportunity Employer, John Deere requires a diversity of people, perspectives and ideas to address the complex challenges of its global business.  John Deere is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to, among other things, race, religion, color, national origin, sex, age, sexual orientation, gender identity, status as a protected veteran, or status as a qualified individual with disability.
+
+
+Nearest Major Market: Des Moines
+Job Segment: Engineer, Computer Science, Cloud, Java, Developer, Engineering, Technology

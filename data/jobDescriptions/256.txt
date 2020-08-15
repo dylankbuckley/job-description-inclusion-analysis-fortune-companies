@@ -1,0 +1,89 @@
+Description
+
+As a Lead Software Engineer you will be working with leadership to conceptualize our next generation product, leading a development team to design and build it, contributing to the technical architecture of our enterprise data platform (including improvements to our cloud infrastructure and DevOps), leading the analysis and resolution of production issues, and helping continually improve our processes.
+
+On any given day you may:
+•	Lead by example doing hands-on platform development
+•	Mentor team members to level up our overall skill set
+•	Review pull requests and provide constructive feedback
+•	Dig into system issues to understand and fix the cause, not the symptom
+•	Design and implement changes in our development pipeline and cloud infrastructure
+•	Investigate and propose new ideas, frameworks, technologies, or processes
+Responsibilities
+
+What you bring to the table
+You are a lead engineer with 7 or more years of experience with Cloud-based big data platform development. You are capable of owning significant design and development responsibility. You can work with autonomy to get things done while collaborating with others on architectural and process decisions. You are comfortable with giving and receiving feedback from your teammates and others in the organization. You can think on your feet and conceptualize what needs to be done from incomplete and evolving requirements. You hit deadlines and communicate effectively.
+
+The successful candidate will also have experience with:
+
+Azure Cloud Services
+Designing solutions architecture
+Building big data platform
+Building RESTful APIs
+Working with Infrastructure and security as code
+Designing data models
+What It’s Like To Work Here
+
+We take immense pride in cultivating a strong, person-first culture always looking for ways to be intentionally uncommon. Our team is made up of talented, creative, kind, fun, and energetic folks wired for continuous improvement.
+
+To be great at Humana, we find our team members have these things in common:
+
+Gain energy from working in a fast-paced, creative environment
+Decision making that employs a blend of data-driven insights and intuition
+Ability to multitask and handle multiple projects concurrently
+Resilience and positivity, able to address setbacks and bounce back quickly
+Resourcefulness, discovering creative ways to get things done
+Joy in making an immediate and positive impact
+Diverse interests that are welcomed in and extend beyond our organization
+
+
+
+Reporting Relationships
+
+You will report to a Technology Director.
+
+Schedule:  Full-time
+
+Primary Location:  US-CA-Campbell
+
+Alternate Location: US-CA-San Diego
+
+Work Environment Type:  Office (post Covid)
+
+
+
+Skills and Qualifications
+
+Bachelor’s Degree or above (Computer Science, Bio Engineering, Electronics and Electrical Engineering or any related field)
+Proficient understanding and tech-lead level experience in one or more programming languages (Java, Scala, Python etc.)
+7+ years of Cloud-based big data platform development experience
+Strong Java experience
+Experience with JSON, RESTful web services and client-server interactions
+Knowledge of various persistence (RDBMS, noSQL, HDFS, Cassandra, Redis)
+Understanding Data Catalog, Data Governance, Data Lineage
+Experience with security, authentication in data platform
+Experience with building stream-processing systems, using solutions such as Spark-Streaming or Flink
+Experience with integration of data from multiple data sources
+Experience with building data lakes and data warehouses by leveraging any of the major cloud providers (GCP, AWS or Azure) is highly desirable
+Familiar with Hadoop ecosystem (HDFS, HBase etc.), especially Spark
+Good basics of operating systems and network
+Good knowledge of Big Data querying tools
+Knowledge of and experience with Azure
+Knowledge of various ETL techniques
+Knowledge of messaging systems, such as Kafka or RabbitMQ
+Role Desirables
+
+Experience with Spring/Spring Boot
+Experience with highly scalable web services
+API design and development
+Environment management/orchestration systems (Kubernetes, etc.)
+Experience with testing frameworks and code quality tools
+Experience with continuous integration environment and tools
+Experience with Oracle, PostgresSQL, Mongo development and optimization
+Familiarity with Healthcare (FHIR), Clinical or Financial industry
+Experience with agile development practices
+Familiarity with Git
+Knowledge of JIRA and Confluence
+Scheduled Weekly Hours
+
+40

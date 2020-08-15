@@ -1,0 +1,43 @@
+BrandBest Buy
+Best Buy Strategic Pricing Analytics team is seeking a Pricing Data Engineer who will be responsible for strengthening the analytics and pricing capabilities by overseeing the design, development, and deployment of new analytics capabilities, including software, hardware, and new data topics (i.e. marketing, customer, weather, micro and macro-economics, etc.). This person will need to understand how pricing/finance data unlocks the analytics and finance goals of the enterprise, and the granular technical infrastructure necessary for advanced analytics applications. This individual will partner and engage with IT, Analytics, Pricing and Finance in order to drive our road map into reality.
+
+Key Responsibilities:
+
+Design, Build, Enhance, and Support the Data Platforms that Enable Decision Processes
+Develop analytics and pricing platforms, including data warehouses, data models, and scheduled processes.
+Structure data to support modeling, analytics, and reporting for pricing
+Architect solutions that are robust, scalable and maintainable. Participate in technical design and code reviews
+Understand and identify downstream impacts of changes within complex systems
+Create process maps to show how data flows across systems
+Design, execute, and document the results of user acceptance testing
+Consult and advise on best practices for development and technology adoption
+Collect, catalog, and develop Pricing reference documents and deliver training to analysts
+Manage Cross-Functional Project
+Manage technology projects performed by internal and external resources. Write specifications, resolve ambiguities, and track progress.
+Foster a strong collaboration with the IT and Pricing teams.
+Drive project outcomes while maintaining time, scope, resources, and quality.
+Maintain ongoing internal customer relationships with project sponsors, business, and IT project leaders, project team members and key vendor contacts.
+Facilitate resolution of project issues impacting the projects
+Perform Analytics
+Perform pricing analytics
+Serve as a subject matter expert on Best Buy’s Pricing data
+Identify data gaps and inconsistencies. Troubleshoot unexplainable phenomena in the data. Propose, price, evaluate, and recommend options to remedy data discrepancies
+Identify, manage, investigate, and resolve data quality issues. Ensure uniqueness, integrity, consistency, completeness, and actionability in the data
+
+Minimum Requirements:
+7 or more years' experience in a data engineering, data steward, analytics or statistics focused role working to include data manipulation, data structures and/or data modeling
+4 or more years' experience in writing SQL
+3 or more years' experience in project management
+
+Preferred Qualifications:
+2 or more years' experience in managing and leading the work of third parties
+3 or more years' experience with any of these: Teradata, Oracle, Netezza, Informatica, Hadoop, and data modeling
+2 or more years' experience in Spark, Python or R
+2 or more years' experience working in Google Cloud Platform, Microsoft Azure, or AWS
+Auto Req. ID770355BR
+Employment CategoryFinance/Accounting
+Job LevelManager without Direct Reports
+Location Number957100-105-Strat Pricing Merch Analytics
+Address7601 Penn Avenue South
+CityRichfield
+StateMN

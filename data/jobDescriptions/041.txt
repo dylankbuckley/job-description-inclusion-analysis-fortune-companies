@@ -1,0 +1,28 @@
+AT&T Global Public Sector is a trusted provider of secure, IP enabled, cloud-based, network solutions and professional services to the Federal Government. We are dedicated to recruiting, developing and empowering a diverse, high-performing workforce that is passionate about what they do, committed to our shared values and dedicated to our customers’ mission.
+
+Our Defense Team supports our Nation’s warfighters, providing, operating and assuring critical voice, video and collaboration services for the full spectrum of military operations.
+
+AT&T has an opening for Software Developer L1 to support NCIS, in providing support to NCIS with ability to securely conduct their mission and meet a multitude of critical IT challenges by providing quality customer service to NCIS’ geographically dispersed, unique workforce in a resource-constrained environment.
+
+Job Duties/Responsibilities:
+Responsible for program design, modeling, simulation, coding, testing, debugging and documentation.
+Formulates and defines specifications for new applications and modifies (maintains) existing applications using engineering releases and utilities from the manufacturer.
+Responsible for applications dealing with the operating system, such as sophisticated file maintenance routines, large telecommunications / communications networks, accounting, advanced mathematical/scientific software packages (e.g., biometric applications), and applications specific to LE and IC domains.
+Instructs, directs, and reviews the work of other software engineering personnel.
+Evaluates new and existing COTS and GOTS software products.
+Applies industry best practices to all development efforts.
+Must have managed or had significant involvement with complex or substantive information technology projects.
+Required Clearance:
+This position requires the person(s) to be eligible and adjudicated to Top Secret (TS)/Sensitive Compartmented Information (SCI) clearance level at contract start.
+
+Required Qualifications:
+Minimum of 10 years of experience with current technologies and, where required for the task, emerging technologies.
+Skilled in software development using object-oriented and other general purpose languages (e.g. Java Script, C++, Perl, Python, Ruby, Cold Fusion.Net).
+Understands when agile methodology or a hybrid approach is required.
+Experience with Oracle, SQL, Erwin Data Modeler, CVS, and/or Apache Ant.
+Experience with DON, DIA, DoD, or LE application requirements.
+Position shall meet the requirements of an ITA II per the DoD 8570.01-M, requires minimum of Security Plus certification or equivalent.
+Desired Qualifications:
+Previous experience with NCIS.
+
+AT&T will consider for employment qualified applicants in a manner consistent with the requirements of federal, state and local laws. AT&T is an Affirmative Action/Equal Opportunity Employer and we are committed to hiring a diverse and talented workforce. EOE/AA/M/F/D/V

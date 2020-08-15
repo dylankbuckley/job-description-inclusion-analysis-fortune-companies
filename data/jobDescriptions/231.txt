@@ -1,0 +1,49 @@
+Company: FedEx Services
+Job Title: Software Developer II
+Job Requisition Number: RC267829
+Category: Information Technology
+Locations:
+Coraopolis, Pennsylvania 15108
+United States
+
+Application Deadline / Criteria:
+To be considered for this opening, upload current copy of Resume to include beginning and ending dates for each employer/position and answer job screening questionnaire by close of business (5:00 PM CST) on August 12, 2020
+
+Job Summary:
+
+Under limited supervision, ensures application of systems thinking principles, allowing team members to independently design, code, test, and deploy software. Provide the necessary documentation to support the Software Development Life Cycle. Develop prototypes and solutions leveraging a diverse range of technology. Apply modern principles, methodologies, tools, and systemic processes to support the launch of new business capabilities.
+
+Job Specific Information:
+Understand Agile software development practices
+Languages: Java, Angular (Typescript, HTML, CSS), Groovy, SSH
+Testing/Other Tools: ReadyAPI, JMeter, SOAP UI, Postman, SQL Developer, Git Bash
+Testing Frameworks: JUnit/Mockito, Cucumber, Karma/Jasmine, Protractor
+Build/Integration/Deployment Tools: Gradle, GitLab, Jenkins
+Platforms: Oracle, Pivotal Cloud Foundry (PCF)
+Application Lifecycle Management Tools: VersionOne
+Other technologies: Spring Boot, Spring Cloud (Eureka, Hystrix), SpringMVC, REST, Hibernate, Tibco JMS, Redis, GCP, Kubernetes
+
+Domicile:
+Coraopolis, PA ( a Suburb of Pittsburgh)
+The ability to work remotely within the United States may be available based on business needs.
+
+Relocation:
+Relocation assistance may be provided based on business needs.
+
+Minimum Qualifications:
+Bachelor's degree /or equivalent formal training, certifications, or work experience in coding. Two (2) years equivalent work experience or engineering environment. A related advanced degree may offset the related experience requirements.
+
+Want a career where you are empowered to make a difference? Want to work for a company that is environmentally responsible? Want to grow and develop on the job? If so, FedEx is the place for you! Every day FedEx delivers for its customers with transportation and business solutions. FedEx serves more than 220 countries and territories around the globe. We can serve this global network due to our outstanding team of FedEx employees. FedEx has over 400,000 talented employees who are tasked with making every FedEx experience outstanding. FedEx has been recognized on many different lists both for business success and for being a great employer.
+
+Here are some of the recognitions FedEx has received from the past couple of years:
+
+Fortune "World’s Most Admired Companies" – 2019
+Forbes "Best Employers for Diversity" - 2019
+Reputation Institute "World’s Most Reputable Companies" – 2019
+National Business Inclusion Consortium "Best-of-the-Best Corporations for Inclusion" - 2019
+Women’s Business Enterprise National Council "America’s Top Corporations for Women’s Business Enterprises" - 2018
+Corporate Responsibility Magazine "100 Best Corporate Citizens" – 2018
+Black Enterprise "50 Best Companies For Diversity" – 2018
+When 400,000 employees around the globe are all working together it is amazing what we can achieve! FedEx connects people and ideas. If you would like to make a difference on a global scale while receiving top notch benefits, competitive pay, and plenty of opportunities to develop, click ‘Apply’ and tell us more about yourself.
+
+EEO Statement - FedEx is an equal opportunity/affirmative action employer (minorities/females/disability/veterans) that is committed to diversifying its workforce.

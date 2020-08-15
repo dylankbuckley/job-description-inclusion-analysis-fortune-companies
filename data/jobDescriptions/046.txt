@@ -1,0 +1,108 @@
+Are you looking to make a difference in a patient’s life?  At AmerisourceBergen, you will find an innovative culture that is patient focused and dedicated to making a difference.  As an organization, we are united in our responsibility to create healthier futures.
+
+
+What you will be doing
+
+Individuals within the Application Development role work closely with clients, business analysts and team members to understand the business requirements that drive the analysis and design of quality technical solutions. These solutions must be aligned with business and IT strategies and are in compliance with the organization s architectural standards. Application Developers are involved in the full systems life cycle and therefore are responsible for designing, coding, testing, implementing and supporting application software that is delivered on time and within budget. Responsibilities beyond development of software may include participation in component and data architecture design, technology planning, product evaluation, advanced testing processes and buy vs. build recommendations. Individuals also provide input to project plans related to the application development initiative.
+
+
+Develops complex technical solutions using J2EE components and MVC pattern in Spring MVC and SAP Hybris.  If you  have strong core Java and J2EE we will provide training for SAP Hybris.
+
+Work on Code reviews, Code merges and ensure code quality through different tools like SonarQube, JSLint
+
+Coordinate and work with Operations team on day to day basis on Production Support, DevOps and database related issues
+
+Analyze logs from servers and troubleshoot issues
+Work with both automation and load testing team to coordinate regular automation tests and performance tests
+
+Develop Restful Web Services in J2EE using JAX-RS and other libraries. Strong understanding of the web services architecture and Service Oriented Architecture (SOA).
+
+Efficiently use code versioning tools such as Git and Bit bucket Enterprise.
+
+Provide architectural insights into newer Java UI framework and Java server- side programming
+
+Provide standardization insights into Java server- side programming
+
+Uses various Tools effectively: JIRA, SLACK, Confluence, Jenkins.
+
+Good knowledge of Test-Driven Development (TDD) and Selenium
+Think through complex problems and work with a team to implement real-world solutions
+
+Be part of architecture scrums to create spikes for Proof of Concept items.
+
+Familiarity with modern front-end build pipelines and tools
+Any experience with SAP Hybris or a packaged E-commerce solution is a HUGE plus
+
+Optimizing components for maximum performance across a vast array of web-capable devices and browsers
+
+understanding of React.js and its core principles
+
+
+
+What your background should look like (minimum qualifications)
+
+Bachelor’s degree in Programming/Systems or Computer Science or other related field. Or equivalent work experience. Typically have 5-10 years of application programming and analysis experience. Has a broad level of understanding surrounding information systems and application architecture standards. Demonstrated ability to analyze and interpret complex problems or processes that span multiple business areas, identify and understand requirements, and develop alternate solutions. Experience designing, developing and testing applications using proven or emerging technologies in a variety of technologies and environments.
+
+5-7 years of application development experience.
+
+Advanced Java, j2EE and Spring MVC experience
+
+Develop Restful Web Services in J2EE using JAX-RS and other libraries. Strong understanding of the web services architecture and Service Oriented Architecture (SOA).
+
+Experience with Object Oriented Design concepts
+
+Experience in leading/mentoring development teams
+
+
+AmerisourceBergen Corp is interested in every qualified candidate who is eligible to work in the United States. However, we do not sponsor visas for this role.
+
+This policy is applied in a nondiscriminatory manner regardless of race, gender, ethnic origin, or any other classification protected by law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nice to have
+
+
+
+What AmerisourceBergen offers
+We offer competitive total rewards compensation. Our commitment to our associates includes benefit programs that are comprehensive, diverse and designed to meet the various needs across our associate population.
+
+Healthcare for associates and eligible dependents, same-sex and domestic partners
+Paid time off, including vacations and holidays
+Paid volunteer time off
+Life insurance and disability protection
+Pet insurance
+Employee Stock Purchase Program
+Retirement benefits and more…
+Throughout our global footprint and various business units, we take a balanced approach to the benefits we offer. Many benefits are company-paid, while others are available through associate contributions. Specific benefit offerings may vary by location, position and/or business unit.
+
+
+About AmerisourceBergen
+AmerisourceBergen is a publicly traded Fortune 10 global healthcare solutions company and is one of the world's largest pharmaceutical services companies. Powered by our associates around the world, we provide pharmaceutical products and business solutions that improve access to care.  We operate the backbone of the healthcare supply chain. We drive the future of local care delivery.  We guide medical innovations to market.  We create healthier futures.
+
+
+Primary LocationUnited States-Pennsylvania-Chesterbrook
+
+1400 Morris 1400 Morris Dr Suite 101 Chesterbrook 19087
+
+OrganizationIT
+
+JobInformation Technology Jobs
+
+ScheduleFull-time
+
+Equal Opportunity Employer/Minority/Female/Disability/Veteran

@@ -1,0 +1,59 @@
+Job ID 738597BR
+Location Point Richmond, California, United States
+Business Disney Streaming Services
+Date posted Jun. 23, 2020
+Job Summary:
+We are looking for a seasoned Senior Software Engineer. You’ll be working with a modern tech stack built in AWS on the JVM. Experience with Java is required, but exposure to alternative JVM languages such as Scala and Kotlin are beneficial. Your responsibilities will include designing, developing, and maintaining complex back-end software systems which must be scalable, reliable, and efficient.
+
+Responsibilities:
+● Integration of user-facing elements with server side logic
+
+● Writing reusable, testable, and efficient code
+
+● Design and implementation of low-latency, high-availability, and performant applications
+
+● Implementation of security and data protection
+
+● Creating data models that represent and support business processes
+
+● Implementing automated testing platforms and unit tests
+
+Basic Qualifications:
+● 5+ years of Java experience with exposure to alternative JVM languages
+
+● Experience with designing and evolving efficient data storage and network protocols using technologies such as Google Protocol Buffers (Protobuf) or Avro
+
+● Real-world experience doing complex integrations between multiple systems, servers, and environments
+
+● Understanding fundamental design principles behind a scalable application
+
+● Comfortable working with Git
+
+● Working knowledge of AWS
+
+● Bonus points for experience with Flink and Kafka
+
+● Computer science/engineering degree or equivalent experience is preferred
+
+Preferred Qualifications:
+● A reliable team player who values the way we work as well as what we work on
+
+● Is an excellent and open communicator (verbally, in writing, thru documentation, thru code comments, in status updates, ticket comments, diagrams, etc.)
+
+● An optimistic, “can do” kind of person who also knows when (and how) to say “no”
+
+● Comfortable working on semi remote, and with globally distributed, teams
+
+● Well versed in agile principles, values, and ceremonies
+
+● Accountable, with self and others, and can help the team push forward thru ambiguity while staying positive and having fun
+
+About Disney Streaming Services:
+Disney Streaming Services is responsible for developing and operating The Walt Disney Company’s direct-to-consumer video businesses globally, including the ESPN+ premium sports streaming service; Disney+, the dedicated streaming home for entertainment from Disney, Pixar, Marvel, Star Wars, National Geographic and BAMTECH Media, a global leader in direct-to-consumer video streaming products and solutions. Our core mission is to deliver global audiences the freedom to access content on their terms across any connected device, time or location. We serve consumers by bringing the world’s most beloved characters, timeless stories, legendary athletes, and epic sporting events to global audiences through best-in-class direct-to-consumer video services. We strive daily to imaginatively challenge convention with innovative technology that gives consumers the freedom to access content on their terms across any connected device, time or location.
+
+About The Walt Disney Company:
+The Walt Disney Company, together with its subsidiaries and affiliates, is a leading diversified international family entertainment and media enterprise with the following business segments: media networks, parks and resorts, studio entertainment, consumer products and interactive media. From humble beginnings as a cartoon studio in the 1920s to its preeminent name in the entertainment industry today, Disney proudly continues its legacy of creating world-class stories and experiences for every member of the family. Disney’s stories, characters and experiences reach consumers and guests from every corner of the globe. With operations in more than 40 countries, our employees and cast members work together to create entertainment experiences that are both universally and locally cherished.
+
+This position is with Disney Streaming Technology LLC, which is part of a business segment we call Disney Streaming Services.
+
+Disney Streaming Technology LLC is an equal opportunity employer. Applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Disney fosters a business culture where ideas and decisions from all people help us grow, innovate, create the best stories and be relevant in a rapidly changing world.

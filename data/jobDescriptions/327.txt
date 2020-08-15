@@ -1,0 +1,35 @@
+Functional Area:
+
+AC - Actuarial
+Estimated Travel Percentage (%):  No Travel
+Relocation Provided:  No
+American General Life Insurance Company
+Position can be based in Houston, TX ,Woodland Hills, CA or Berkeley Heights, NJ but remote workers will be highly considered.
+
+The actuarial modernization annuity data team is looking for an actuary to help with design, development, and maintenance of data processes feeding actuarial models. Work with individuals from diverse professional backgrounds, including model owners, model developers, systems experts, and software developers to ensure that the produced data is timely, accurate, and fit for purpose. Lend your actuarial and technical expertise to improve existing processes and new designs.
+
+For exceptional candidates, we will consider a fully remote work arrangement.
+
+Responsibilities:
+
+- review existing data transformations, including comparison of logic between different processes
+- determine correct transformation logic by working with system SMEs, model development team and other stakeholders, and utilizing product specifications as needed
+- create transformation specifications and build data process prototypes
+- work with the IT development team to productionalize these prototypes and validate their implementation
+- create documentation for use by data stakeholders on the team's Wiki
+- design validation strategies and other controls
+
+Preferred candidate's experience and skills:
+
+- ASA or near ASA, with 3+ years of experience with Fixed and/or Variable Annuities and excellent understanding of mechanics of these products
+- experience with data work, including sourcing, validation, and documentation
+- experience working with developers, including creation of specifications and validation of work product
+- advanced Oracle SQL knowledge - including ability to create and interpret complex queries, including stored procedures
+- ability to automate data validation tasks in MS Excel and MS Access
+- ability to work independently, given high level direction
+- attention to detail in both work performed and presentation of work product
+- excellent communication skills
+
+It has been and will continue to be the policy of American International Group, Inc., its subsidiaries and affiliates to be an Equal Opportunity Employer. We provide equal opportunity to all qualified individuals regardless of race, color, religion, age, gender, gender expression, national origin, veteran status, disability or any other legally protected categories.
+
+At AIG, we believe that diversity and inclusion are critical to our future and our mission – creating a foundation for a creative workplace that leads to innovation, growth, and profitability. Through a wide variety of programs and initiatives, we invest in each employee, seeking to ensure that our people are not only respected as individuals, but also truly valued for their unique perspectives.

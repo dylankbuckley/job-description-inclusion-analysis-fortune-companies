@@ -1,0 +1,43 @@
+Job Description
+Assembly Test Technology Development Production Activity Control Software Engineers conduct or participate in multidisciplinary research and collaborate with design, layout and/or hardware engineers in the design, development, and utilization of productivity enhancement layout tools and design rule checkers, electronic data processing systems software.
+
+Determines computer user needs, advises hardware designers on machine characteristics that affect software systems such as storage capacity, processing speed, and input/output requirements, designs and develops compilers and assemblers, utility programs, and operating systems.
+Responds to customer/client requests or events as they occur.
+Develops solutions to problems utilizing formal education, judgement and formal software process.
+This is an entry level position and compensation will be given accordingly.
+
+
+Qualifications
+
+
+You must possess the below requirements to be initially considered for this position.
+
+Preferred qualifications are in addition to the requirements and are considered a plus factor in identifying top candidates.
+
+Knowledge and/or experience listed below would be obtained through a combination of your school work and/or classes and/or research and/or relevant previous job and/or internship experiences.
+
+
+Requirements
+
+
+Possess a master's degree and 6+ months of experience in one of the following majors: Computer Science, Computer Engineering, Management Information Systems, Industrial Engineering or related discipline
+
+Demonstrate experience applying decision science tools to manufacturing systems and network flow problems.
+Software engineering practices, source control management, and automated testing methodologies.
+
+Preferred
+
+6+ months of experience in:
+
+Software design and/or development on Microsoft Windows platform using Visual Studio, .Net Framework, WCF, WPF, XML, Oracle/MS SQL databases, Python. Graphical UI development experience is a plus.
+Semiconductor Assembly/Test Area utilization optimization and/or machine learning.
+AutoSched AP
+APF Framework
+Inside this Business Group
+As the world's largest chip manufacturer, Intel strives to make every facet of semiconductor manufacturing state-of-the-art -- from semiconductor process development and manufacturing, through yield improvement to packaging, final test and optimization, and world class Supply Chain and facilities support. Employees in the Technology and Manufacturing Group are part of a worldwide network of design, development, manufacturing, and assembly/test facilities, all focused on utilizing the power of Moore’s Law to bring smart, connected devices to every person on Earth
+
+
+
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance....

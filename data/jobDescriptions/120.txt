@@ -1,0 +1,58 @@
+THE COMPANY
+
+At Fannie Mae, futures are made. The inspiring work we do makes an affordable home a reality and a difference in the lives of Americans. Every day offers compelling opportunities to modernize the nation’s housing finance system while being part of an inclusive team using new, emerging technologies. Here, you will help lead our industry forward, enhance your technical expertise, and make your career.
+
+
+
+JOB INFORMATION
+
+Under limited supervision, uses a variety of moderately complex techniques to produce insights, new product or change recommendations, process improvement or automation, and predictive modeling. Uses a variety of data mining, data analysis, statistical, and econometric methods to deploy new analytical capabilities and applications. Partners with existing data engineering and data management teams. Applies data mining techniques to external or created data sources in preparation for analysis or use of enterprise data assets.
+
+KEY JOB FUNCTIONS
+
+
+
+
+Collaborates with product/business owners, data engineers, and platform teams to understand needs and current capabilities, data availability and alternative uses.
+Implements new statistical modeling capabilities as appropriate.
+Applies predictive analytic capabilities to enhance the delivery of business applications to support the integration of data and statistical models or algorithms. Applies industry standard practices in research and testing to product development, deployment, and maintenance.
+Designs new analytic applications to support risk measurement, financial valuation, decision making, and business performance.
+Designs data visualizations, technical documentation and non-technical presentation material to communicate complex ideas and solutions to business partners.
+EDUCATION
+
+
+
+Education Level Required
+
+
+
+Bachelor's degree or Equivalent
+
+
+
+MINIMUM EXPERIENCE
+
+4-6 years of relevant work experience
+
+
+
+SPECIALIZED KNOWLEDGE & SKILLS
+
+
+
+Experience with advanced quantitative methods techniques, such as regression, and Supervised Machine Learning methods strongly preferred.
+Programming experience with data gathering and analytics packages such as: R or Python and machine learning required
+Strong analytics skills, able to assess business need, define an analytic solution, and execute using analytics that range from excel tables - to statistical or machine learning analysis.
+Strong communication skills, both written and oral.
+Experience with technical writing preferred and track-record for strong presentations skills a plus
+Experience with Multifamily lending risk analytics and models a plus
+
+
+EMPLOYMENT
+
+The future is what you make it to be. Discover compelling opportunities at careers.fanniemae.com.
+
+Fannie Mae is an Equal Opportunity Employer, which means we are committed to fostering a diverse and inclusive workplace.  All qualified applicants will receive consideration for employment without regard to race, religion, national origin, gender, gender identity, sexual orientation, personal appearance, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation in the application process, email us at careers_mailbox@fanniemae.com.
+
+
+Successful job applicants will be required to successfully complete a background investigation.

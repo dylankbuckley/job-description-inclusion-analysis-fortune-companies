@@ -1,0 +1,36 @@
+Summer Internship (May - August 2021, full-time)
+
+The modern world runs on the Internet, and the Internet cannot exist without its underlying infrastructure. Meraki makes setting up, managing, and maintaining that infrastructure easier than it has ever been before. Meraki enables connectivity everywhere from neighborhood cafes to elite universities to global hospitality groups operating thousands of sites.
+
+As a Product Software Engineer at Meraki, you will bring life to our products, imbuing them with what some call the Meraki Magic. Through your contributions, you will enable our customers to do more things more easily than ever before. You will have opportunities to work across our stack, developing software ranging from bootloaders, device drivers, and routing code to our distributed, cloud-hosted backend.
+
+Here are some of the projects you might find yourself working on:
+
+Designing and implementing (usually in C/C++) features to improve the reliability, simplicity, and performance of our devices, as well as make them more flexible and powerful
+Bringing up our Linux-based system on new hardware platforms
+Collaborating with our hardware engineers on the design of new platforms
+You’re the kind of person we’re looking for if:
+BA/BS in Computer Science, ECE, EE, ME or STEM related field (in progress)
+You are comfortable writing systems-level C/C++ (or if you’ve written your own OS!)
+You have familiarity developing and implementing computer networking fundamentals (TCP/IP, routing protocols, IPv6, etc.)
+You have worked with Linux on embedded platforms
+You have an understanding of OS fundamentals and experience working in both kernel and user space
+You love being a part of a tight-knit, hard-working team and want to have an impact with your own work while also elevating your teammates
+You have previous internship or large project experience
+As a software engineer early in your career, you may still be identifying areas that you are curious about or in which would like to develop more depth. At Meraki, you will have the opportunity to explore multiple technology areas and problem domains. Whether you have a passion for user interfaces, distributed systems, network protocols, or embedded development — or perhaps more than one of these — you will be able to dive deep here. Together with your team you will craft from top to bottom the suite of innovative products that make Meraki unique.
+
+Intern Program Overview:
+Meraki interns and co-ops join the team for 12 and 16 week programs, respectively, and are placed directly onto subteams. During the program, interns/co-ops have the opportunity to work on a small starter project, such as integration and implementation of new tools, before spending the bulk of the program on a larger project, such as building the infrastructure for a new service. Projects are multi-functional, which allow insight into new languages and technologies, help encourage professional growth within engineering, and allow a sense of ownership within the team.
+
+Meraki’s engineering teams place a high emphasis on mentorship. Each intern and co-op is matched 1:1 with a mentor who provides continual feedback and guidance throughout the duration of the program. Mentors help with introductions to other team members, overviews of tools and processes, and provide a seamless integration into Meraki life.
+
+Intern Benefits:
+Housing Assistance in San Francisco for duration of program
+Competitive salary
+Weekly social events inside and outside of the office (Giants games, Exploratorium tickets, friendly soccer games)
+Lunch and dinner daily
+Customized laptop and desk setups
+Medical coverage plans
+Cisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis. Cisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.
+
+At Cisco Meraki, we’re challenging the status quo with the power of diversity, inclusion, and collaboration. When we connect different perspectives, we can imagine new possibilities, inspire innovation, and release the full potential of our people. We’re building an employee experience that includes appreciation, belonging, growth, and purpose for everyone.

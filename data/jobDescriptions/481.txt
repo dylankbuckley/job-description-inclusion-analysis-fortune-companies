@@ -1,0 +1,54 @@
+Job ID R87994
+Updated date 11/20/2019
+1 Broadway (21026), United States of America, Cambridge, Massachusetts
+At Capital One, we’re building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit. We are succeeding because they are succeeding.
+
+Guided by our shared values, we thrive in an environment where collaboration and openness are valued. We believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. We elevate each other and obsess about doing the right thing. Our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. Together, we are on a quest to change banking for good.
+
+Master Software Engineer (Java, Angular, AWS)
+Do you want to re-imagine how we manage risk and build great products that users love? This may be the place for you, if:
+You’re passionate about engineering and obsess about code quality, performance, and CI/CD
+
+You like to work with modern architecture and latest open source technologies: Microservices, Docker, AngularJS, Node.js, Java, Python, Kafka, Spark, and many many more
+
+You take an interest in infrastructure resiliency and how your code actually works at runtime: OS, network, and AWS cloud
+
+You thrive in a continuously learning and collaborative environment by reviewing other’s code and asking them to do the same for you
+
+You participate in forums, hackathons, meetups, and conferences
+
+You own your work by building systems to succeed in production, and you fix them when they don’t
+
+By joining our Risk and Governance team, you will:
+
+Build microservices to fully automate and integrate the full lifecycle of issues & events management into our real-time, event-based data ecosystem in the public cloud
+
+Build platforms and machine learning-driven capabilities to support investigations of AML and other financial crimes
+
+Develop governance capabilities for the company’s advanced analytic environments where data scientists rapidly build and deploy models & algorithms
+
+Basic Qualifications:
+
+Bachelor’s Degree or military experience
+At least 8 years experience in Java and Spring
+At least 3 years of experience with JavaScript Frameworks (Angular or React or Ember or Type Script)
+At least 3 years RESTful web services experience
+At least 1 year of experience working with microservices architecture
+At least 1 year of experience working in AWS
+Preferred Qualifications:
+
+Master’s Degree
+10+ years experience in software development
+3+ years experience in microservices architecture
+3+ years experience with AWS
+Experience mentoring junior team members
+At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+No agencies please. Capital One is an Equal Opportunity Employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One’s recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).

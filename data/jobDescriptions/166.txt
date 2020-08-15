@@ -1,0 +1,50 @@
+Why would you enjoy this new opportunity?
+You have an analytical mind and a passion for the craft of software engineering, and you love solving problems and learning new things. Technologies come and go, but that excites you because of the endless possibilities it creates.  You are looking for an opportunity to work for a company whose software is utilized by every Fortune 500 company and significantly impacts every industry. You want to be a part of a collaborative environment whose teams care about the product they are creating, how they create it, and the impact it has on customers’ business objectives.
+
+Workspace ONE is a digital workspace platform that simply and securely delivers and manages any app on any device by integrating access control, application management and multi-platform endpoint management. It is available as a cloud service and for on-premises deployment. The team is responsible for creating control plane platform for Workspace ONE product suite and dependent services, which will help all deployment, configuration and other infrastructure needs (e.g. security management, orchestration, config management, monitoring & observability etc).
+
+What is the primary need, technical challenge, or problem you will be responsible for?
+
+Our goal is to enable Workspace One Unified End Point Management platform to scale and manage billions of devices across various operating system platforms and device types. As part of the UEM our vision is to become the enabler which can fulfill the needs to create and manage the entire ecosystem. As part of this team, you will be involved in writing code, design and development of highly scalable and robust solution. As a core technical member of the team, you’ll be participating in multiple design discussion, comparing and evaluating multiple technologies and choosing the best suited, for our needs and drive from ideation to execution.  You will be owning engineering initiatives and champion a culture of high ownership, continuous improvement, and engineering excellence.
+
+Success in the Role: What are the performance goals over the first 6-12 months you will work toward completing?
+
+You will need to produce software design and execute them as per the roadmap planned for Control Plane and help achieving those goals.
+You will be regularly evaluated on the quality of the product you create and design to scale the current system.
+You will have to establish a reputation of strong technical product owner within a team and demonstrates influence within their area of expertise
+What type of work will you be doing? What assignments, requirements, or skills will you be performing on a regular basis?
+
+You will design software, assist with technology selection, actively remove obstacles, lead engineering programs, and write code.
+
+You will design software and write/review code in JAVA/C#/Python.
+You will implement and improve processes around DevOps, Agile, and CI/CD.
+You will regularly participate in design discussions, brainstorm improvements and work to uphold the quality bar.
+You care and have strong  RESTful API design, including API versioning, backwards compatibility, authentication and rate limiting.
+You will contribute towards automation/configuration management using Docker, Chef/Ansible, Terraform, or an equivalent.
+What is the leadership like for this role? What is the structure and culture of the team like?
+This role will be reporting to Amit Yadav, Senior Manager, Engineering. Our team’s focus is on challenging the status quo by innovating but at the same time getting stuff done.We believe in building trust amongst all our stakeholders and committing to make our customers successful. The team is organized based on modules to define clear responsibility and accountability. At the same time teams are fluid enough to own up whatever is needed for the larger product to be successful.
+
+What are the benefits and perks of working at VMware?
+
+You and your loved ones will be supported with a competitive and comprehensive benefits package. Below are some highlights, or you can view the complete benefits package by visiting www.benefits.vmware.com.
+
+Employee Stock Purchase Plan
+Medical Coverage, Retirement, and Parental Leave Plans for All Family Types
+Generous Time Off Programs
+40 hours of paid time to volunteer in your community
+Rethink's Neurodiversity program to support parents raising children with learning or behavior challenges, or developmental disabilities
+Financial contributions to your ongoing development (conference participation, trainings, course work, etc.)
+Healthy and local inspired snacks in all our pantries
+
+Category : Engineering and Technology
+Subcategory: Software Engineering
+Experience: Manager and Professional
+Full Time/ Part Time: Full Time
+Posted Date: 2020-06-23
+
+
+
+VMware Company Overview: At VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what’s possible today at http://careers.vmware.com.
+
+Equal Employment Opportunity Statement: VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.
+Job ID: R2008614

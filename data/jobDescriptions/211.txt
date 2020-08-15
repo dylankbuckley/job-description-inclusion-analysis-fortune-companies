@@ -1,0 +1,30 @@
+The Operation Research (OR) group within UPS creates software and algorithms that model and refine business processes within the company. The cross-functional team of developers and research analysts strives to identify new technologies and approaches to improve the efficiency, reliability, and profitability of the UPS transportation and delivery network. The group achieves its goals through technical expertise paired with strong collaboration and creative problem solving skills.
+
+The OR group welcomes versatile software developers with initiative and interest in tackling business problems to apply and join the team. This is a great opportunity to work on a variety of projects that directly impact the future competitiveness of UPS!
+
+The Intermediate OR Analytics Developer (Intermediate Applications Developer) will work as a member of the OR team to build both applications and components to support our goals of implementing optimized solutions to impact UPS business goals. Developers within OR participate in the full SDLC, requiring the abilities to: analyze, design, code, test, and prototype proof-of-concept programs ranging in all levels of complexity. Our developers have the opportunity to work in .NET, Windows Forms, C++, C#, or Perl/Python in a Windows environment. Developers may confer with other business groups to gather requirements, understand required data sources, and other items needed for a successful outcome.
+
+The Intermediate OR Analytics Developer provides input and support for full systems life cycle management activities (e.g. analyses, technical requirements, design, coding, testing, implementation, etc.) to model UPS business situations resulting in the development of applications and algorithms. He/She performs tasks within planned durations and established deadlines to support the application and development of optimization techniques to business problems. This position collaborates with teams to ensure effective communication in supporting the achievement of objectives. He/She provides knowledge, development, maintenance, and support for both applications and business needs.
+
+Responsibilities and Duties
+
+Designs, prototypes & develops moderately complex optimization tools & heuristics
+Contributes in the integration of optimization models into client-based Tools
+Contributes in the maintenance and support of existing optimization tools
+Assists in the analysis of business needs
+Contributes in ad hoc problem analysis
+Knowledge and Skills
+
+3+ years' programming experience
+Excellent OO Analysis and Design skills
+Proficient in C++ and C#
+Experience with SQL and Relational Database Analysis and Design
+Excellent communication skills
+Bachelor's Degree (or internationally comparable degree) in Computer Science or Mathematics - Preferred
+Master’s Degree (or internationally comparable degree) in Computer Science or Mathematics - Preferred
+Experience with algorithms and data analytics - Preferred
+Experience in mapping software components - Preferred
+Experience with Desktop Application development (WPF) - Preferred
+Experience with Microservices/REST - Preferred
+
+UPS is an equal opportunity employer. UPS does not discriminate on the basis of race/color/religion/sex/national origin/veteran/disability/age/sexual orientation/gender identity or any other characteristic protected by law

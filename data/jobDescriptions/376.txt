@@ -1,0 +1,63 @@
+Req #: WHQ00018132-IS
+Location: Chicago, IL, US
+Job Category: Information Technology
+
+We have a wide variety of career opportunities around the world — come find yours.
+
+
+
+Technology/IT
+
+
+
+The United IT team designs, develops and maintains massively scaling technology solutions that are brought to life with innovative architectures, data analytics and digital solutions.
+
+
+
+Job overview and responsibilities
+
+
+
+The Principal Architect – Cloud Security will be making Architectural decisions and provide Security reviews in a wide variety of Cloud security technologies for the organization. As a technical Architect, this position will be leading Cloud Security discussions and helping the ITSRC organization to fulfill the architectural needs. This role will be collaborating with all business units internally and interacting with vendors externally. As a technical expertise, covering a wide range of IT security solutions, the position will provide a great opportunity to grow technically in a fast-paced and exciting environment.
+
+Proficiency in applying security best practices across the Cloud such as AWS and Azure technology stack, specifically cloud compute, storage, virtualization, containers, operating systems and the network security
+Ability to understand multi tired application architecture and its dependencies and corresponding security considerations to protect the cloud environment
+Ability to Lead technical aspects of the cloud security team to accomplish the objectives
+Ensure the committed deliverables and matrix are met with in the time frame
+Coordinate with Infrastructure, Project management, Network Engineering and Operations to ensure the Cloud Security Architecture requirements are met
+Familiar in implementing the security policy and integrating with regulatory compliance requirements (e.g., PCI, GLBA) into the organizational security roadmap
+Lead multiple cloud security projects. These projects will be developed concurrently and possess numerous interdependencies.
+Act as the security representative on cross-team mission critical IT projects
+Participate in the development and delivery of IT security standards, best practices, architectures and systems
+Proactively protect the integrity, confidentiality, and availability of information stored & processed by and/or in the custody of United Airlines
+Develop and document technical security standards to comply with policies and best practices
+Effective communicator and leader within Cloud Security and with other teams
+Serve as a SME across the Information Security Risk and Compliance team in regards network security, platform security, application security, access and authentication to our environment
+Ensure all security objectives are being met in the organization’s cloud environment as it relates to Data Protection, Infrastructure Security, Network Security, Identity and Access Management, Incident Response, Logging and Monitoring
+Required
+
+Bachelor’s Degree in Computer Science, Information Systems, other related field or 10 years of equivalent work experience
+5 years of Cyber Security experience including minimum 2 years in Cloud Environment such as AWS, Azure, GCP etc.
+Strong working knowledge of SIEM/Data Analytics Platforms, Network Security, Firewalls, Proxy servers, Next Generation Security technologies, IDS/IPS etc.
+Understanding of serverless technologies, services and container technologies (Docker, Kubernetes etc.) will be desired
+Experience with cloud security control automation, DevSecOp and CICD Pipe lines
+Experience working with high performance team in in an Agile environment
+Understanding of SDKs, APIs and General knowledge of programming languages such as Python will be desirable
+Strong working knowledge of Network Security, Firewalls, Proxy servers, Next Generation Security technologies, IDS/IPS etc.
+Proven expertise in Cloud security or cloud Infrastructure/Engineering experience
+Hands on experience with foundational AWS Services (EC2, S3, RDS, VPC, CloudTrail, CloudFront, Lambda, EKS, ECS, etc.)
+Hands on experience with Security, identity and Compliance services such as IAM, KMS< Security Hub, WAF, Guard Duty etc.
+Communication Skills – The ability to communicate verbally and in writing with all levels of employees and management, capable of successful formal and informal communication, speaks and writes clearly and understandably at the right level
+Integrity and Trust – Involves being widely trusted, being a direct, truthful individual, can present the unvarnished truth in an appropriate and helpful manner, keeps confidences, admits mistakes, and doesn’t misrepresent him/herself for personal gain
+Must be legally authorized to work in the United States for any employer without sponsorship
+Successful completion of interview required to meet job qualification
+Reliable, punctual attendance is an essential function of the position
+Preferred
+
+AWS Solutions Architect/Security
+Microsoft Azure Certifications
+Certified Cloud Security Professional (CCSP)
+Certified Information Systems Security Professional (CISSP)
+Cisco CCNA/CCNP/CCIE Security
+Teamwork – Involves working well in a collaborative setting, supporting work team by volunteering for and completing assignments, acting as a positive team member by contributing to discussions, developing and maintaining both formal and informal relationships enterprise-wide, defines success in terms of the entire team through mentoring and knowledge transfer
+Technical Expertise – Involves demonstrating a commitment to increasing knowledge and skills in current technical/functional area, keeping up to date on technical developments, staying current with industry practices

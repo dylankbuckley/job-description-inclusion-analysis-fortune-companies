@@ -1,0 +1,58 @@
+Become a Part of the NIKE, Inc. Team
+
+NIKE, Inc. does more than outfit the world’s best athletes. It is a place to explore potential, obliterate boundaries and push out the edges of what can be. The company looks for people who can grow, think, dream and create. Its culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers, leaders and visionaries. At NIKE, Inc. it’s about each person bringing skills and passion to a challenging and constantly evolving game.
+
+NIKE is a technology company. From our flagship website and five-star mobile apps to developing products, managing big data and providing leading edge engineering and systems support, our teams at NIKE Global Technology exist to revolutionize the future at the confluence of tech and sport. We invest and develop advances in technology and employ the most creative people in the world, and then give them the support to constantly innovate, iterate and serve consumers more directly and personally.  Our teams are innovative, diverse, multidisciplinary and collaborative, taking technology into the future and bringing the world with it.
+
+We are looking for a Lead Data Engineer on Dimensional Data Products team who has the knowledge, experience, and passion to deliver solutions that amaze our consumers. A leader who will understand the needs of dimensional data and design and develop solutions to those challenges and be able to drive overall delivery and support enterprise consumers of that data.
+
+You will be working on development projects related to Analytics, Supply Chain, Commerce and Consumer behavior among others. Your strong problem-solving, collaboration and interpersonal communication skills, desire to learn, share knowledge with others and influencing abilities will position you well for this role.
+
+In this role, you will work with a variety of hardworking Nike teammates and be instrumental in leading one or two engineering teams to deliver innovative and quality data products that enable a consistent, maintainable and highly scalable solutions. We don’t need you to just code, you must also be able to solve problems and be the champion for ensuring our software is of the highest quality. You will be an advocate of new technology and development techniques and be a driving force for building extraordinary solutions for Nike Technology and its business partners.
+
+Role responsibilities:
+
+• Technology Leadership :
+• Design and implement data products and features in collaboration with product owners, data analysts, and business partners using Agile / Scrum methodology
+• Contribute to overall architecture, frameworks and patterns for processing, evaluate and utilize new technologies/tools/frameworks centered around high-volume data processing
+• Utilize continuous integration and deployment frameworks including automated unit tests and integration testing
+• Define and apply appropriate data acquisition and consumption strategies for given technical scenarios, build utilities, user defined functions, libraries, and frameworks to better enable data flow patterns
+• Engineering Delivery:
+• Design and implement distributed data processing pipelines using tools and languages prevalent in the Nike data ecosystem including automated routines using workflow orchestration tools
+• Drive the development of new data products and the optimization of existing solutions
+• Provide work estimates and represent work progress and challenges
+• Profile and analyze data for the purpose of designing scalable solutions
+• Anticipate, identify and solve issues concerning data management to improve data quality, address operational & performance issues, remove technical bottlenecks and perform root cause analysis as needed
+• Team Leadership and Collaboration:
+• Drive collaborative reviews of designs, code, and test plans
+• Work with architecture, other engineering leads and teams to ensure quality solutions are implemented, and team adheres to defined engineering standard methodologies
+• Provide leadership, guidance and mentorship to other data engineers
+
+WHAT YOU BRING TO NIKE
+
+• Bachelor’s degree in Computer Science, or related technical field
+• 7+ years proven experience in large-scale software development, 3+ years of data engineering experience
+• Experience designing, estimating and executing for sophisticated software projects involving RDBMS systems, SQL and SQL Analytical functions
+• Strong programming experience, Scala (preferred) or Python
+• Experience with Hadoop and related processing frameworks such as Spark, Hive and workflow orchestration tools like Apache Airflow
+• Experience with build tools such as Terraform or CloudFormation and automation tools such as Jenkins or Circle CI
+• Experience with source code control tools like Github or Bitbucket
+• Extensive experience with performance and scalability tuning
+• Familiarity with the principles of Domain Driven Design
+• Ability to quickly pick up new languages, technologies, and frameworks
+• Experience participating in key business, architectural and technical decisions, providing guidance and mentorship to other engineers
+• Experience in Agile/Scrum application development
+The following skills and experience are also relevant to our overall environment, and nice to have:
+• Experience with Java
+• Experience working in a public cloud environment, particularly AWS
+• Experience with data warehouse tools like Snowflake
+• Experience with messaging/streaming/complex event processing tooling and frameworks such as Kinesis, Kafka, Spark Streaming, Flink, Nifi, etc.
+• Experience working with NoSQL data stores such as HBase, DynamoDB, etc.
+• Experience building RESTful API’s to enable data consumption
+• Knowledge of Nike Technology landscape including Dimensional data at Nike.
+
+
+
+NIKE, Inc. is a growth company that looks for team members to grow with it. Nike offers a generous total rewards package, casual work environment, a diverse and inclusive culture, and an electric atmosphere for professional development. No matter the location, or the role, every Nike employee shares one galvanizing mission: To bring inspiration and innovation to every athlete* in the world.
+
+NIKE, Inc. is committed to employing a diverse workforce. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability.

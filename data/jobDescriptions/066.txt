@@ -1,0 +1,40 @@
+This is an environment unlike anything in the high-tech world and the secret of Costco’s success is its culture.  The value Costco puts on its employees is well documented in articles from a variety of publishers including Bloomberg and Forbes.  Our employees and our members come FIRST.  Costco is well known for its generosity and community service and has won many awards for its philanthropy. The company joins with its employees to take an active role in volunteering by sponsoring many opportunities to help others.  In 2018, Costco contributed over $39 million to organizations such as United Way and Children's Miracle Network Hospitals.
+
+Costco IT is responsible for the technical future of Costco Wholesale, the second largest retailer in the world with wholesale operations in twelve countries. Despite our size and explosive international expansion, we continue to provide a family, employee centric atmosphere in which our employees thrive and succeed. As proof, Costco consistently ranks in the top five of Forbes “America’s Best Employers”.
+
+This position is responsible for the successful delivery, design and support of high visibility desktop reports, mobile reports and dashboards. The successful candidate will work closely with end-users and Product Owners to evaluate business requirements, and develop informative views and dashboards to help Costco run its business more efficiently. Responsibilities will also include incident management and providing proper feedback to end-users regarding reporting system status and/or errors.
+
+If you want to be a part of one of the BEST “to work for” companies in the world, simply apply and let your career be reimagined.
+
+ROLE
+
+Designs and develops reporting solutions in Microsoft Power BI based on business requirements, semantic models in Azure Analysis Services for BI, and self-service user consumption.
+Provides expertise in data visualization and graphical report design.
+Actively participates in upgrade and migration projects from legacy to Power BI.
+Defines and follows Power BI development best practices.
+Works closely with Product Owners and data development teams to drive requirements to completion.
+Maintains and supports existing business intelligence solutions.
+Maintains knowledge of industry standards, best practices and upcoming product releases, with a focus on MS Azure solutions.
+Mentors other developers in utilizing the tools to the best of their abilities
+REQUIRED
+
+5+ years’ experience creating complex reports, dashboard applications and scorecards.
+5+ years’ experience with MS Power BI and/or Azure Analysis Services (AAS).
+5+ years’ experience with SQL, with proven ability to write efficient queries.
+2+ years’ experience with other BI Tools including Cognos, BOBJ or Tableau.
+Experience writing reports over various data sources including Oracle, HANA and SQL Server databases.
+Strong problem solving and data analysis skills.
+Ability to follow processes and execute project deliverables in a timely manner.
+Strong written and verbal communication skills.
+Solid understanding of data modeling concepts.
+Ability to manage and prioritize multiple requests.
+Proven ability and desire to grow technical skill set.
+Recommended
+
+Experience working with various Cloud technologies.
+Experience with Agile development methodology.
+Required Documents
+
+Cover Letter
+Resume
+Apart from any religious or disability considerations, open availability is needed to meet the needs of the business.  If hired, you will be required to provide proof of authorization to work in the United States. Applicants and employees for this position will not be sponsored for work authorization, including, but not limited to H1-B visas.

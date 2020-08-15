@@ -1,0 +1,13 @@
+Job Description
+American Express Travel Related Services seeks Senior Engineers to serve as a core member of an engineering team to develop digital and automated solutions for our customers.  Develop and design software applications, translating user needs into systems architecture.  Assess and validate application performance and integration of component systems and provide process flow diagrams.  Test the engineering resilience of software and automation tools.  Assess and incorporate user story analysis and elaboration to optimize software solution.  Apply visualization and other techniques to fast-track concepts.  Reengineer systems and code for continuous improvement.
+Minimum Qualifications
+Position requires a Bachelor’s degree in Computer Science, Engineering, Information Systems, or a related STEM field, followed by 5 years of progressively responsible software design, development, testing, and implementation experience.  Experience must include a minimum of: 1 year of experience with Agile application development, AJAX, Apache Tomcat, CSS, data structures, DBMS, Hibernate, HTML, IOC, J2EE, Java, JavaScript, JAXWS, JDBC, Jenkins, JMS, JSON, JSP, multithreading, multi-tiered systems, MVC/Web, object-oriented analysis and design, OOPs, Oracle databases, relational databases, Servlets, SOA technologies, Spring, Spring Modules IOC, SQL, Struts, SVN, UNIX, Waterfall application development, web services, and XML.
+
+JOB LOCATION: Phoenix, AZ
+
+
+ReqID: 20005706
+Schedule (Full-Time/Part-Time): Full-time
+Date Posted: Jun 23, 2020, 11:00:00 PM
+EEO Statement
+American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, age, or any other status protected by law.

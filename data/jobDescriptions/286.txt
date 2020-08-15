@@ -1,0 +1,43 @@
+About Us
+
+Innovation is in HP’s DNA. From our origins in a Palo Alto garage in 1939, to our current position as one of the world’s leading technology companies, HP has grown to become a leader in technology and corporate culture, inspiring innovators and entrepreneurs around the globe.
+
+HP brings together a portfolio that spans printing, personal computing, software, services, and IT infrastructure to serve more than 1 billion customers in over 170 countries. We are committed to fostering a diverse and inclusive workplace that attracts exceptional talent. We dream in over 35 languages and share one mission: to engineer experiences that amaze.
+
+About you
+Some of the qualities you would bring to the role are:
+
+Creativity.  Your thinking and creativity are as varied as your approach to solving problems.
+Passion.  You are passionate about software engineering and have the ability to inspire passion in others to create a shared vision that people can adopt as their own.
+Curiosity. You are a continuous learner who looks for way to improves operations from multiple angles.
+Grit.  Inconvenient setbacks do not impact your cadence or your results.Attention to Detail. You are committed to documentation, including flowcharts, layouts, diagrams, charts, code comments and clear code.
+Persuasive Communication. You can communicate a narrative with data to leadership and make recommendations to improve processes and systems.
+HP Firmware Engineer Position
+
+HP is seeking an experienced firmware development engineer to join its LaserJet printer R&D team in beautiful Boise, Idaho!  As a firmware engineer in Boise, you’ll join a high energy development team creating innovative solutions that are disrupting the print and copier markets.  HP, a worldwide leader in computing and print technology, is a fortune 50 company with sites around the world.  In addition to working with some of the most talented engineers in the industry, HP provides a wealth of benefits and opportunities.
+
+As a firmware engineer on our team, you’ll apply basic foundation of a function's principles, theories and concepts to assignments of limited scope. Use professional concepts and theoretical knowledge acquired through specialized training, education or previous experience. Develop expertise and practical knowledge of applications within business environment. Act as team member by providing information, analysis and recommendations in support of team efforts. Work together with other engineers and architects to develop innovative solutions to challenging technical problems.  Exercises independent judgment within defined parameters.  Mentor junior engineers.
+
+Responsibilities:
+
+Codes and programs enhancements, updates, and changes for portions and subsystems of firmware, including application and driver level code.
+Executes established test plans and protocols for assigned portions of code; identifies, logs, and debugs assigned issues.
+Provides leadership to team of firmware engineers in delivering solutions.
+Develops understanding of and relationship with local and worldwide development partners on firmware design and development.
+Participates as a member of project team of firmware engineers to develop innovative, reliable, cost effective and high-quality solutions enterprise class printing products.
+Education and Experienced Required:
+
+Bachelor's or Master's degree in Computer Science, Information Systems, Electrical Engineering, or equivalent.
+Minimum years experience 5 + in embedded software design and development
+Knowledge and Skills
+
+Experience or understanding of firmware design tools and languages.
+
+Expertise of firmware development languages such as C/C++ and C#
+Understanding of firmware development tools and infrastructure, including source control (GIT, Subversion, etc.), Application lifecycle management (Jira, TFS, etc.) and code integration in an enterprise development environment.
+Understanding of firmware and hardware design principles.
+Good analytical and problem-solving skills.
+Understanding of basic testing, coding, and debugging procedures.
+Good written and verbal communication skills; mastery in English and local language.
+Familiarity with database theory and web development, including SQL Server, JavaScript, HTML, MongoDB, JNode etc.
+#LI-POST

@@ -1,0 +1,59 @@
+Are you looking for an opportunity to be part of a fast growing and dynamic team? Do you want to broaden and deepen your understanding of key business drivers, challenges, risks and opportunities? Are you passionate about building modern cloud services at scale? If so, this role is right for you.
+
+
+
+The Finance Data and Experiences team is responsible for engineering and operating an end-to-end data and experience platform at scale. This team enables thousands of Finance, Sales, Marketing, and Engineering users (from senior executives to field leaders) to effectively monitor, analyze, and make data-driven decisions on their business.
+
+
+
+We seek passionate engineers who have a proven record of successfully building and supporting BI and data engineering platforms and solutions. As a Platform Engineer on the Finance Data and Experiences team, you are an authority, familiar with Data Services technical components, infrastructure, and their integration. You are an experienced in both high level design and development with Azure Services, Web APIs, Data Platforms as well as deeply technical in building durable frameworks with the ability to scale elegantly with data volume growth. You will be designing, implementing and evolving our current BI framework, using the Microsoft’s latest BI and cloud technologies. The code you write will enable our Data Engineers to build and deploy secure solutions on a scalable framework with an end to end automation and monitoring. You'll work on building a variety of tools and systems, most of which will be Cloud-based applications and data-platform components. In this role, you will be working in Agile development method for faster, quick wins with the quality of design, development and operating the BI components you develop. This role offers wide scope, ownership, and influence in decisions related to architecture, features, and product strategy.
+
+Responsibilities
+Responsibilities:
+
+
+
+Designing efficient data structures to build robust framework using scalable services and APIs
+Contributing to the overall technical vision and strategy for the products built by our team
+Building functionality to align to data platform standards and best practices.
+Working with appropriate stakeholders to understand system and functional requirements
+Planning and executing software development using Agile processes
+Effectively communicating complex ideas to audiences with various technical backgrounds
+Collaborating on delivering technical excellence across the organization
+
+Qualifications
+Qualifications:
+
+
+
+Bachelor’s degree in Computer Science or related technical discipline
+3+ years Cloud Services and Web API design, implementation, and testing (C# (preferred), Java, or equivalent) experience
+2+ years development experience on large-scale data and analytics frameworks/solutions
+Strong problem solving and data-driven analysis
+Excellent software engineering habits, including peer code reviews, object-oriented design, unit testing, integration testing, etc.
+
+
+
+
+Preferred Qualifications:
+
+
+
+Expertise with building programmatic control of cloud technologies and distributed processing like Apache Spark, Azure Data Factory, Azure Automation or equivalent
+Experience with building highly scalable, reliant and secure data platforms with web-based UI tools
+Experience with Azure SDK and REST APIs
+Experience in service-oriented architecture using microservices and Kubernetes
+Strong coding skills in object-oriented programming and/or domain specific languages
+Ability to think out of the box to derive creative and innovative solutions
+Passion for using data and analytics to drive business value
+
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.
+
+
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+
+Benefits and Perks
+Industry leading healthcareSavings and investmentsGiving programsEducational resourcesMaternity and paternity leaveOpportunities to network and connectDiscounts on products and servicesGenerous time away

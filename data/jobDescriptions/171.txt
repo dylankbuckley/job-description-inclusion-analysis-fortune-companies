@@ -1,0 +1,37 @@
+ob Description
+
+Johnson & Johnson is currently recruiting for a Software Engineer(s). This position will be based in Bellevue, WA with the possibility for a remote employee.
+
+The Data and Analytics group is building strong ML capabilities to solve many health care use cases from predicting drug quality, question answering from large histopathological images etc, We are looking for a Software Engineer to work on our Machine Learning team as we solve challenging Supply Chain problems to advance human health. If you are passionate about deep learning and health care, we invite you to become part of a team that is breaking new ground in the ways J&J builds data science solutions.
+
+
+
+Qualifications
+2+ years of hands-on experience Software Development.
+Great problem solver (data structure and Algorithms) and communication skills.
+Expertise with containerization such as Docker and orchestration with Docker Swarm or Kubernetes.
+Understanding of Agile, Dev Ops and other development processes and methodologies.
+Experience with cloud infrastructure support in mixed Linux and Windows environments.
+Knowledge of the AWS/Azure platform or a cloud enviornment
+Expertise with any one language Java or C# or Python etc
+Experience designing and maintaining large-scale web applications.
+Experience in scripting languages such as Angular, bash, Ruby, PowerShell, Python or Node.js
+Preferred Qualifications(good to have):
+Experience with CI / CD tools such as Azure devops or Jenkins or Bamboo.
+UI development experience with Angular or react
+Curious to learn any emerging technologies.
+
+
+Primary Location
+United States-Washington-Bellevue-
+Other Locations
+United States
+Organization
+Johnson & Johnson Services Inc. (6090)
+Job Function
+R&D
+Requisition ID
+0295200306
+Apply
+Share Job
+Sig

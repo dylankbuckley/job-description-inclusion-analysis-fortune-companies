@@ -1,0 +1,94 @@
+Functional Area:
+
+IT - Information Technology
+Estimated Travel Percentage (%):  No Travel
+Relocation Provided:  No
+Service Net Warranty, LLC
+Senior Programmer
+
+AIG Warranty
+
+AIG Warranty delivers a full range of service solutions including warranty management administration, extended service programs, customer service support, service network management, claims processing services, and service contract underwriting.
+
+With over 20 years of experience, we are one of the warranty and service industry's leading providers, which is why many of the world's largest and most respected brands choose us. When retailers or manufacturers want flexible and innovative service solutions that will ensure the focus of building customer retention and customer satisfaction, they turn to us.
+
+Our specialized functions are delivering on AIG's promise to our customers, our clients, our shareholders, and each other. This position is located in Jeffersonville, IN, just across the river from downtown Louisville, KY.
+
+The Senior Programmer Role
+
+Picture yourself building a successful career at AIG working alongside other talented, highly motivated individuals committed to reaching our goal of becoming the world’s leading insurance provider. We believe that our success depends on building a world class team. If you would like to be a part of our team, we invite you to consider putting your talents to work with the AIG Warranty business.
+
+The Senior Programmer is aligned with our internal IT team to support our client(s).  The position will work in a collaborative team environment, with independent duties.    The Sr. Operations Developer will be responsible for understanding business requirements, designing, coding, testing and maintaining software solutions that meet or exceed IT programming standards.  This role will work cross functionally with various internal departments to ensure end user requirements are met with focus on component reusability and scalable design.   Responsibilities include, but not limited to providing technical solutions to support day-to-day activities for our client and growth of the account.   Primary developer on the client account to deliver business requirements.     Follow all coding standards outlined by IT for code development, code reviews, testing and production release of code.   Lead testing of code in conjunction with the QA lead.   Coordinate any documentation for final release of system changes and assist with post-launch support.
+
+As an influencer at AIG, people come to our Senior Programmer as a “go-to” source for help and support because of their deep knowledge and expertise. As a more experienced team member, they are capable of driving continual improvement and impacting the way that things get done. Because of their influence, whether direct or indirect, we are able to deliver powerful outcomes for our clients.
+
+Duties and Responsibilities
+
+• Develop and implement new applications and services.
+
+• Design and develop new features and/or maintain existing application utilizing the Microsoft
+
+    Technology stack.
+
+• Work with IT Systems Analyst to understand business requirements to provide estimates, timelines,
+
+    and technical specification.   This position requires a least 70% hands-on development.
+
+• Work closely with IT leadership, peers, and business clients to create the best possible business
+
+    solution including ways to improve ways to improve software and business processes.
+
+• Provide documentation on implemented features and software.
+
+• Manage multiple deliverables until conclusion.
+
+• Conduct code reviews.
+
+What We Are Looking For
+• Bachelor’s Degree or professional training, preferably in Computer Science or a related field preferred.
+• 5+ years’ experience in web and software development.
+
+• Be able to work with group or individually.
+• Experience in a changing and fast-paced organization while being comfortable with ambiguity.
+
+• Excellent understanding of n-tiered, service-oriented, and micro service architectures..
+
+• Experience developing using OOP methodology.
+
+• Ability to work independently with minimal supervision
+
+• Strong knowledge of the .NET Framework, C#, ASP.Net, MVC, LINQ, Visual Studio IDE and Version
+
+   Control Systems (TFVC and GIT).
+
+• Knowledge of web technologies, JavaScript frameworks (React, AngularJS, VueJS, jQuery, etc.) as well
+
+   as HTML and CSS.
+
+• Experience with ORM tools.
+
+• Knowledge of relational database design and development using SQL Server, TSQL, and SSIS.
+• Familiarity with SDLC and Agile development methodologies.
+
+• Good analytical skills, business acumen and communication skills, written and verbal.
+
+• Demonstrates a strong attention to detail; ability to maintain documentation and deliverables with
+
+    excellent follow through skills.
+
+Employment at AIG Warranty
+
+This is a full time position, working 40 hours per week, normal business hours.
+
+AIG Warranty offers a first-class benefits package to their employees, and all benefits begin on day one of employment. A partial list of benefits include:
+
+Automatic employer contribution into 401k account, with an additional employer match opportunity
+Competitive Medical, Dental and Vision insurance plans
+Opportunity to earn a performance-based annual bonus
+A robust amount of Paid Time off- with additional opportunities to take Paid Volunteer Time Off
+Tuition Reimbursement opportunity after one year of employment
+AIG Warranty in Jeffersonville has a casual dress code, and a fun, friendly work environment. If this position sounds like it could be the right fit for the next step in your career, please apply today.
+
+It has been and will continue to be the policy of American International Group, Inc., its subsidiaries and affiliates to be an Equal Opportunity Employer. We provide equal opportunity to all qualified individuals regardless of race, color, religion, age, gender, gender expression, national origin, veteran status, disability or any other legally protected categories.
+
+At AIG, we believe that diversity and inclusion are critical to our future and our mission – creating a foundation for a creative workplace that leads to innovation, growth, and profitability. Through a wide variety of programs and initiatives, we invest in each employee, seeking to ensure that our people are not only respected as individuals, but also truly valued for their unique perspectives.

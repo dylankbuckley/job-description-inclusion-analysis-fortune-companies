@@ -1,0 +1,34 @@
+BrandBest Buy
+The vision of the Pricing & Merchandising Analytics team at Best Buy is to provide clear, relevant, actionable, measurable, and trusted insights to the enterprise, which will be acted upon to drive growth of the global enterprise.
+The Pricing Analytics Consultant will provide statistical and mathematical support to partners throughout the Best Buy organization. The ideal candidate will have strong experience in advanced analytics, statistical modeling, data visualization, and tools/report building.
+
+The individual in this position will work with both end business clients and peers within the merchandising, pricing, and analytics teams. The individual in this role will have the credibility and technical acumen to influence business stakeholders and peer decision making around the implementation and use of analytics within business decision making frameworks.
+
+What will you do?
+Develop and deliver statistical and mathematical models to support insights within the organization that lead to fact-based decision making.
+Partner with the business and analytics teams to scope business questions and identify where analytics can have the greatest impact.
+Present analytical concepts and project results to a variety of audiences, including peers, business stakeholders, and leadership.
+As a technical leader and subject matter expert, remain current on state-of-the-art methods and tools useful in analytics and share knowledge with other analysts.
+Manage multiple, varying sized projects concurrently.
+Basic Requirements (You must meet or exceed all basic requirements to be eligible):
+Master’s degree with 2 or more years of experience in advanced analytics role
+OR
+Bachelor’s degree with 4 or more years of experience in advanced analytics role
+OR
+6 or more years of the same experience without a bachelor’s degree
+2 or more years’ experience applying advanced analytical techniques to solve business problems
+2 or more years’ experience in statistical or scientific programming using SQL, R or Python
+2 or more years' experience in writing queries and processes using SQL
+
+Preferred Qualifications:
+Experience working directly with clients or business partners on advanced analytics questions
+Ability to clearly communicate ideas and results to a technical and non-technical audience
+Experience building business intelligence tools and reports in Tableau or similar data visualization tool
+Experience working in cloud environments (Azure, GCP, or AWS)
+Auto Req. ID770347BR
+Employment CategoryFinance/Accounting
+Job LevelManager without Direct Reports
+Location Number957100-105-Strat Pricing Merch Analytics
+Address7601 Penn Avenue South
+CityRichfield
+StateMN

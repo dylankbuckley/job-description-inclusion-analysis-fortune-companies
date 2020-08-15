@@ -1,0 +1,38 @@
+Summary:
+
+Energy Transfer is looking for an experienced application developer to assist with custom application and integration development. Energy Transfer primarily leverages Microsoft based technologies in the support of line-of-business applications for our Intrastate Natural Gas business users.
+Essential Duties and Responsibilities:
+Collaborating with management, departments and customers to identify end-user requirements and specifications
+Designing and developing software systems using best practices
+Developing technical documentation to guide future software development projects
+Testing and deploying programs and applications
+Troubleshooting, debugging, maintaining and improving existing software
+Requirements:
+
+Education and/or Experience, Knowledge, Skills & Abilities:
+
+To perform this job successfully, an individual must be able to perform each essential job duty satisfactorily. The requirements for this position are listed below:
+
+4 year bachelor degree in computer science, information systems or related field.
+5-8 years experience in a software development role.
+
+
+Preferred Qualifications:
+C# / .NET, .NET Core, ASP.NET MVC
+Experience working with message queue platforms such as MSMQ, RabbitMQ, Kafka, etc
+Experience with SSIS for ETL or message broker experience with MuleSoft, BizTalk, Azure Service Bus or similar platforms.
+Experience working with RDBMS systems, primarily SQL Server (T-SQL), SSRS and/or Power BI for reporting
+Experience with Docker, Swarm and/or Kubernetes is a plus
+Linux experience is a plus
+Working Conditions:
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job.
+
+Usually, normal office working conditions.
+Must be able to remain in a stationary position 50% of the time due to prolonged periods of sitting or standing.
+Occasional overnight travel may be required.
+Occasional visits to industrial/manufacturing settings, which may include exposure to various materials and chemicals, as well as extreme temperature conditions and loud machinery, and require appropriate personal protective equipment.
+Very limited travel is required, primarily for training purposes where remote sessions can't be delivered. We work with various groups in IT and many of our business users are located at our San Antonio or Houston office locations.
+
+Equal Opportunity Employer/Disability/Vet
+
+DISCLAIMER: The above statements, which are subject to change, are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, duties and skills required of personnel so classified.

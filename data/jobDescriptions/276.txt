@@ -1,0 +1,59 @@
+Job Description
+Company:
+
+US6469 Sysco Payroll, Division of Sysco Resources Services, LLC
+Zip Code:
+
+77077
+Minimum Level of Education:
+
+Bachelor’s Degree
+Minimum Years of Experience:
+
+5 Years
+Employment Type:
+
+Full Time
+Travel Percentage:
+
+0
+OVERVIEW:
+
+We offer our associates the opportunity to grow personally and professionally, to contribute to the success of a dynamic organization, and to serve others in a manner that exceeds their expectations. We’re looking for talented, hard-working individuals to join our team. Come grow with us and let us show you why Sysco is at the heart of food and service.
+
+Job Description
+Summary:
+
+Fluent across the full technology stack; owns delivery and support responsibility for a product or platform team; drives technical priorities; supports delivery efforts through technical advisory, coaching of other technical team members, and may also support hands-on execution; ensures technical consistency of the finished product with identified needs.
+
+This role will be located at our Houston, TX office.
+
+Responsibilities:
+
+Drives technical priorities and owns delivery and support responsibility for a product or platform team
+Oversees agile development activities for a product or platform and leads the development of key mechanisms that support agile delivery
+Coordinates cross team dependencies and collaborates between various groups to troubleshoot and resolve technical issues on a daily basis
+May sometimes provide hands-on assistance with exceptionally complex technical solutions, operating as a senior engineer
+Engages with other technical stakeholders (operations, enterprise architecture, etc.) as necessary to manage technical requirements; facilitates estimation of costs and effort of work items
+Ensure the engineering and technical considerations are accounted for in team rituals
+Ensures that the delivery team commits to achievable and realistic goals and includes the entire team in the estimation / planning process to obtain diverse perspectives
+Leads the technical design of the product or platform and ensures that the prescribed architecture, security, development best practices, and agile best practices are adhered to
+Mandatory Experience:
+
+Bachelor's degree in CS or 5-7 years of software development experience, including 1 year in a dev focused leadership role
+5–8 years of experience in developing and supporting high performance and highly scalable applications in an agile environment, depending on education
+Extensive hands-on experience with the underlying technologies of product/platform (programming languages, databases, application integration etc.)
+Strong understanding of Scrum, Lean, XP, Kanban and other agile development techniques
+Fluency in DevOps, including continuous integration, continuous deployment / delivery, configuration and containerization, infrastructure as a code, and monitoring
+Competencies:
+
+Demonstrated “agile-development” mindset with strong customer-focus & results-orientation
+Flexible mindset and demonstrated ability to grow skillset and work across the full technology stack
+Excellent technical and analytical skills to discuss problems, analyze solutions and enable improvement
+Excellent communication skills to effectively manage key business stakeholder relationships
+Highly proficient in teamwork and collaboration
+Applicants must be currently authorized to work in the United States.
+
+We are proud to be an Equal Opportunity and Affirmative Action employer, and considers qualified applicants without regard to race, color, creed, religion, ancestry, national origin, sex, sexual orientation, gender identity, age, disability, veteran status or any other protected factor under federal, state or local law.
+
+This opportunity is available through Sysco Corporation, its subsidiaries and affiliates.

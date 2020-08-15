@@ -1,0 +1,39 @@
+Join the industry leader to design the next generation of breakthroughs
+When you join Honeywell, you become a member of our global team of thinkers, innovators, dreamers and doers who make the things that make the future. Working at Honeywell isn’t just about developing cool things. That’s why all of our employees enjoy access to dynamic career opportunities across different fields and industries.
+
+Are you ready to help us make the future?
+
+Honeywell’s Federal Manufacturing & Technologies business manages the U. S. Department of Energy’s Kansas City National Security Campus in Missouri and New Mexico, manufacturing sophisticated mechanical, electronic and engineered-material components for our nation's defense system. Honeywell is on the leading edge of supplying engineering and manufacturing expertise for our nation's defense and national security. Visit kcnsc.doe.gov for more information about working for Honeywell at the Kansas City National Security Campus.
+
+As a Senior Application Developer supporting one of our Commercial off the Shelf (COTS) applications you will serve as the technical lead supporting the product.  This will include being the technical lead on complex or enterprise critical projects requiring an array of COTS configuration and programming / scripting expertise, managing application analysis, design, development and integration.
+
+Duties and Responsibilities
+• Performs installation, functional and performance testing, maintenance, and modification of vendor supplied software.  Identifies system requirements, develops application specifications, leads conversion and migration efforts, and develops convergence plans toward standards.
+• Proactively analyzes existing applications to identify weaknesses and resolve complex computer security issues by designing, developing, and implementing innovative technical solutions.
+• Provides technical leadership, coaching and mentoring to team members both inside and outside their areas of responsibility working closely with Technical Review Board and Enterprise Architects while looking for ways to apply the latest technologies to assure all systems are in line with the long-term IT strategy.
+• Establishes liaison relationships with business partners and/or suppliers, participates in planning sessions with customers to improve business processes and prioritize investments in process, people, services, and infrastructure to establish strategic priorities that align with corporate strategy and performance.
+• Provides buy vs. build recommendations, oversee or lead the evaluation and selection process for application packages including advising on system options, risks, return on investment (ROI), and impact to business processes.
+• Makes recommendations towards the development of new code or reuse of existing code. Identifies better sources of data feeds and interfaces with Enterprise Architects to ensure feasibility with corporate data warehouse.
+• Leads the development of guidelines and standards to be utilized in software development/ integration to ensure adherence to quality standards and procedures including developing and leading implementation plans for integration testing.   Interfaces with testing teams to incorporate plans into integration testing process.
+• Oversees and may handle Tier III support.
+• Builds business councils, develops governance agreements between customers and developers, develops reports and presentations for senior management, and facilitates planning processes.
+• Conducts activities in a safe and healthy manner and works in accordance with established HS&E requirements to ensure the protection of employees, the public, and the environment.  Takes actions necessary to "stop" work when an unsafe condition or action is identified.  Every employee has the right and responsibility to stop work when unsafe conditions or actions are identified.
+
+YOU MUST HAVE
+• Bachelor's degree in an IT Discipline (Computer Science, Computer Information Systems, Computer Engineering or other IT focus).
+• Five or more years’ experience supporting one of more commercial off the shelf software platforms with demonstrated integration experience between applications
+
+WE VALUE
+• Proven Experience with REST and Web Services.
+• Strong experience with SQL (ability to develop, modify, and troubleshoot queries)
+• Demonstrates initiative for continuous improvement with systems and user experiences.
+• Interest in problem solving and debugging issues that may be ambiguous in nature.
+• Experience integrating disparate systems and data sources.
+• Experience with software Version Control Systems (e.g. SVN, Git), Messaging (e.g. ActiveMQ), and familiarity with Data Structures.
+• Demonstrated initiative to maintain technical currency through outside studies and training.
+Additional Information
+JOB ID: req235138
+Category: Information Technology
+Location: 9221 Ward Parkway,Kansas City,Missouri,64114,United States
+Exempt
+Must have or be eligible for a security clearance due to contractual requirements.

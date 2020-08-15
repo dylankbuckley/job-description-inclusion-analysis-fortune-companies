@@ -1,0 +1,27 @@
+Summary
+Do you want to make Siri and Apple products smarter for our users? The Siri Search & Knowledge teams are building groundbreaking technology for algorithmic search, machine learning, natural language processing, and artificial intelligence.
+
+The features we build are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for. Siri’s universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup.
+
+As part of this group, you will work with one of the most exciting high performance computing environments, with petabytes of data, millions of queries per second, and have an opportunity to imagine and build products that delight our customers every single day.
+Key Qualifications
+Extensive expertise with Swift, iOS, macOS fundamentals and frameworks
+Strong grasp of Apple development tools
+Ability to deliver extraordinary, iOS production grade software
+Ability to analyze large features and implement practical solutions
+You're inspired to design, build and make the best better and do that quickly
+Understanding of client/server architectures
+5+ years experience with crafting and implementing iOS apps in production
+5+ years experience with Swift with a deep understanding of Swift Standard Library and crafting Swift API’s
+Experience with multi-threading in Swift
+2+ years experience with iOS/macOS networking
+Excellent interpersonal skills; able to work independently as well as in a team
+Description
+As a member of the team you’ll have the opportunity to work with specialists in their field enabling efficiency and analysis. This position requires a proactive engineer with strong technical skills to handle responsibilities including:
+
+     - Prototyping new ideas to help with initial feature definition
+     - Communicating ideas to our design team and other multi-functional teams
+     - Participating in architecture and code reviews
+     - Build internal engineering tools
+Education & Experience
+BS degree in Computer Science or related field, or equivalent work experience

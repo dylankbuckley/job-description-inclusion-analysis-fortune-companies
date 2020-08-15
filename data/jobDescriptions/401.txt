@@ -1,0 +1,57 @@
+COMPANY OVERVIEW:
+TIAA is a unique financial partner. With an award-winning track record for consistent performance, TIAA is the leading provider of financial services in the academic, research, medical, cultural and government fields. TIAA has $1 trillion in assets under management (as of 9/30/2018) and offers a wide range of financial solutions, including investing, banking, advice and guidance, and retirement services.
+
+
+POSITION SUMMARY:
+The Cloud Security team is responsible for collaborating and partnering with various Cloud Platform teams and Business Units (BUs) and stakeholders across the organization to build security into the Cloud platforms and applications migrating to Cloud by building defense in depth, security controls protective detective and Response. Controls include and are not limited to security of infrastructure as code, CI-CD pipelines, application & microservices security, data protection, Threat detection, mitigation, investigation and response and other services across the organization.
+
+
+KEY RESPONSIBILITIES AND DUTIES:
+
+Job Responsibilities include but not limited to:
+Plan, mobilize, influence, and drive change in a complex, highly-matrixed environment
+Liaise with an extensive range of business stakeholders and support them for migration of their applications and services to Cloud.
+Complement your knowledge with industry trends / best practices to develop governance frameworks, guiding principles, security controls and detailed security design of solutions
+Demonstrated information technology/software development experience in large global organizations specific to Cloud security architecture and engineering
+Knowledge of designing and implementing Cloud Services (e.g., IaaS, PaaS, SaaS, etc.) offered from public cloud service providers (e.g., AWS, Microsoft Azure, Google etc.)
+Knowledge of 3 rd Party tools used to secure Cloud Services (e.g. IaaS, PaaS, SaaS, etc.)
+Knowledge of designing and implementing container platforms including Kubernetes, Docker, etc.
+Knowledge of designing and implementing security services for cloud, tools, and platforms.
+General understanding of data services frameworks & stream processing
+Experience with a broad set of information security technologies and processes within cloud environments
+Understanding of Secure Software Development Life Cycle (SSDLC) security requirements
+Understanding of enterprise IT security risk assessments and related frameworks (e.g., SOC2, ISO 270XX, NIST CSF, NIST 800-XX, COBIT, etc.) and industry best practices
+Demonstrated success in leading transformation programs, driving business value and long term success
+Strong influence and negotiating skills with the ability to overcome resistance to execute against strategic plans
+Excellent command of Cybersecurity organization practices, operations risk management processes, principles, architectural requirements, engineering threats and vulnerabilities, including incident response methodologies
+Understanding of national and international laws, regulations, policies and ethics related to financial industry cybersecurity
+Should be a cybersecurity expert, keeping technical skills current and participating in multiple industry Security forums
+Expertise in Agile and can work with at least one of the common frameworks
+Ability to identify network attacks and systemic security issues as they relate to threats and vulnerabilities, with focus on recommendations for enhancements or remediation
+Ideal candidate should be comfortable in fast paced, results oriented, and innovative environment focused on the creation of next generation platforms, cloud solutions, security solutions, and technology controls.
+
+
+QUALIFICATIONS:
+
+Required skills
+3 or more years IT Engineering or IT Security Engineering experience
+Experience in Financial, Insurance or Tech industry
+ Preferred Skills
+Bachelor of Science with 6 year
+3 years of relevant work experience preferred.
+Certification CISSP or Certified Cloud security professional
+Certifications such as AWS certified Security Professional, Google Certified Solution & security professional.
+Expertise in Windows, Linux, Python, Terraform, cloud formation etc.
+Experience with cloud security strategy, cloud provider ecosystems (Amazon AWS/ Microsoft Azure).
+Hands-on experience in AWS, Google and Azure platforms, including Kubernetes platform services.
+Experience with cyber technologies such as Data Loss Prevention (DLP), Malware detection, User behavior analysis (UBA), and Endpoint Detection and Response (EDR) tools.
+Experience with Networking technologies, Zero trust Models and technologies.
+Excellent communication skills, including demonstrated proficiency in clearly communicating technical concepts to non-technical audiences in business terminology.
+Hands on deployment and Infrastructure as code experience a plus.
+Must be proactive and have the ability to work independently in a fast paced environment, as well as the ability to work collaboratively with cross-functional and remote teams.
+Familiar with DevOps and Agile methodology
+Able to learn quickly and independently and apply new tools and techniques.
+Strong troubleshooting skills.
+Equal Employment Opportunity is not just the law, it’s our commitment. Read more about the Equal Employment Opportunity Law.
+
+If you need assistance applying due to visually or hearing impaired, please email Careers Help.

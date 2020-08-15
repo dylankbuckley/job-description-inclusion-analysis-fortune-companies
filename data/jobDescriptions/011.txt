@@ -1,0 +1,86 @@
+ExxonMobil is one of the world’s leading energy companies with more than a 100,000 employees and contractors located in over 50 countries around the world. Our large, in-house IT organization consists of 6,000 professionals supporting an array of business lines, plants, refineries, manufacturing sites, internal and external business partners.
+
+
+
+
+
+Data Engineer
+
+
+
+
+
+Data Analytics and Systems teams in Budapest are working as part of ExxonMobil’s global organization and accelerate high-value, actionable insights through the delivery of state-of-the-art, scalable, enterprise data platforms, data science and analytics solutions for our global internal ExxonMobil customers.
+
+
+
+We are looking for Data Engineers in our growing Data Analytics and Systems team to help the business get actionable insights from their data for competitive advantage. This job role focuses on transforming and enriching data to enable presenting it in a meaningful format.  Typical activities include data design, transformation, and proof of concept development to support of a system agnostic data architecture to support future Digital Transformation while working to provide step change improvements in master and foundational data for enhanced analytics.
+
+
+
+
+
+Responsibilities
+
+
+
+
+
+Collaborate with various peer team and business leadership during the whole data analytics lifecycle throughout acquisition, modelling, distribution and reporting
+Partner with key stakeholders, internal customers, technical teams and data architects to deploy and sustain a system agnostic, reusable and scalable data foundation
+Participate in projects, minimum viable product development and information flow studies
+Action and coordinate data quality, standards, tools and process improvement recommendations
+Work closely with business and technology teams and other partners to understand requirements, assess and prioritize deliverables across the whole Data Analytics portfolio
+
+
+
+
+Skills and Qualifications
+
+
+
+
+
+At least BSC or equivalent industry certification in finance or technology domain and strong interest in data analytics domain
+Experience developing ETL processes, performing data migrations, reporting and analysis
+Excellent problem solving, troubleshooting and analytics
+Advanced understanding of data management tools and technologies, databases, visualization concepts
+Demonstrated experience in PL/SQL scripting
+Good communication skills and ability to work on global teams
+Willingness for continuous professional development and improvement
+Supply chain experience, ERP system experience and change management process execution is an advantage
+
+
+
+
+We offer:
+
+
+
+
+
+Learn and apply state-of-the-art Data Analytics technologies, work with and influence global vendors like SAP and Microsoft
+Strong professional development in the Data Analytics domain and other IT areas such as relational databases, applications and ERP systems (SAP and non-SAP), network and security
+Numerous internal and external training opportunities, support in achieving additional degrees, industry wide recognized certificates, learning new languages
+Performance driven competitive compensation and benefit package
+Healthy work-life balance, flexible working conditions, working from home
+Floating holidays, pension and private health fund, and many more
+
+
+
+
+
+
+Corporate Separateness Notice
+
+Nothing in this material is intended to override the corporate separateness of local entities. Exxon Mobil Corporation has numerous affiliates, many with names that include, but are not limited to, ExxonMobil, Exxon, Esso and Mobil. For convenience and simplicity in this Site, those terms and terms like corporation, company, our, we and it’s are sometimes used as abbreviated references to specific affiliates or affiliate groups. Abbreviated references describing global or regional operational organizations and global or regional business lines are also sometimes used for convenience and simplicity. Similarly, ExxonMobil has business relationships with thousands of customers, suppliers, governments, and others. For convenience and simplicity, words like venture, joint venture, partnership, co-venturer, and partner are used to indicate business relationships involving common activities and interests, and those words may not indicate precise legal relationships
+
+
+
+
+
+
+
+
+
+Job Segment: Database, Manufacturing Engineer, ERP, Product Development, Engineer, Technology, Engineering, Research

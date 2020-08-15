@@ -1,0 +1,27 @@
+Description:Sikorsky Aircraft Corporation (a Lockheed Martin Company) is a world leader in the design and manufacture of advanced helicopters for commercial, industrial and military uses. Sikorsky helicopters are used by all five branches of the United States armed forces, along with military services and commercial operators in more than 40 nations. Sikorsky is based in Stratford, Connecticut, USA.
+We are currently seeking a Sikorsky Software Supplier Integration team member who engages with software suppliers to ensure the successful integration of supplier software into program architectures. Responsibilities for this role include all of the following:
+Review supplier’s software plans to ensure that they meet the requirements of their statement of work. Ensure supplier executes to the contracted schedule. Work with the supplier to develop alternate execution plans for issues that will impact schedule commitments. Participate in supplier software technical reviews and audits and witness formal software test activities. Analyze supplier software metrics assessing the supplier’s software status and present status to management. Work with suppliers and the customer to deliver software products to the customer in accordance with schedule, quality and technical performance requirements as identified by the contract. Review of software requirements and test documents to ensure compliance with the contract and approved software plans. Act as interface between the customer and the supplier to negotiate incorporation of customer comments towards the acceptance of the supplier’s software documents. Act as the software representative in the Supplier IPT meetings.
+Basic Qualifications:
+Bachelors degree from an accredited college in a related discipline, or equivalent experience/combined education, with 2 years of professional experience; or no experience required with a related Masters degree.
+Desired Skills:
+10 years of experience with software life-cycle management and program management concepts. Experience with FAA Certification and RTCA/DO-178C a plus. Some experience in earned value management and critical path management desired.
+Detailed knowledge of both waterfall and agile software life-cycles.
+U.S. citizen that holds or is qualified to obtain Secret level U.S. Government security clearance.
+Excellent written and oral communication, presentation, inter-personal and organizational skills.
+Other Important Information You Should Know
+Expression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.
+Telecommute: The work associated with this position will be performed at the designated Lockheed Martin facility. Situational telecommuting may be considered and authorized at the discretion of your leader and based upon the role.
+Work Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.
+Schedule for this Position: 9x80 every other Friday off
+Clearance Level: None
+Lockheed Martin is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+Join us at Lockheed Martin, where your mission is ours. Our customers tackle the hardest missions. Those that demand extraordinary amounts of courage, resilience and precision. They’re dangerous. Critical. Sometimes they even provide an opportunity to change the world and save lives. Those are the missions we care about.
+
+As a leading technology innovation company, Lockheed Martin’s vast team works with partners around the world to bring proven performance to our customers’ toughest challenges. Lockheed Martin has employees based in many states throughout the U.S., and Internationally, with business locations in many nations and territories.
+Experience Level: Experienced Professional
+Business Unit: RMS
+Relocation Available: Possible
+Career Area: Software Engineering
+Type: Full-Time
+Virtual Location: no
+Shift: First

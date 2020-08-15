@@ -1,0 +1,63 @@
+Albertsons Companies is one of the largest food and drug retailers with 2,300+ stores. The Albertsons Companies family of brands includes some of the most prominent brands in food retailing, with a growing base of loyal shoppers. Thanks to the professionalism, diversity, spirit, and friendliness of our people, we have locations across the U.S.
+
+The Information Technology Department has an opening for a Software Security Systems Engineer. This position is located in Phoenix, Arizona.
+
+Position Purpose
+
+The Software Security Systems Engineer is responsible for all application security tasks related to the configuration, management, and administration for a variety of Human Resources (HR) applications, including our PeopleSoft Human Capital Management (HCM) HR/Payroll application, Workbrain (Time and Attendance) application, Recruitment Manager (Employee onboarding and applicant tracking) application and ServiceNow HR Case module.
+
+Key Responsibilities Include, But Are Not Limited To
+Consult with the business clients to understand and assess business requirements for the configuration, testing, implementation, and provisioning of security for all delivered and custom functionality, system fixes and updates.
+Subject matter expert for the overall functionality of the different modules, pages, components, etc., relative to configuration and provisioning of the Roles assigned for access to the different application users.
+Work extensively with information technology (IT) systems analysts, developers, testers, system administrators to collaborate and develop application security solutions which meet the IT and business requirements for all applicable testing and production environments.
+Prioritize opportunities to improving processes for application and security configuration.
+Creates data flow diagrams, logical system flow diagrams, and entity relationship diagrams to understand as-is and to-be system states and communicate project scope to all stakeholders.
+Performs data analysis to understand system capabilities and troubleshoot environment issues.
+Translates newly defined business processes, enhancements, or changes into new system security requirements.
+Create functional documentation related to business intelligence solutions.
+Knowledge and ability to use and administer the organization's technology practices, standards and procedures
+Knowledge of organization's total IT environment.
+Knowledge and understanding of marketplace experience, developments and trends related to the Information Technology (IT) function.
+Analyze and resolve security configuration and access issues using a variety of internal methods and processes.
+Perform regular security access reviews and Sarbanes-Oxley (SOX) Audits to ensure security is complying with all required procedures and documentation.
+
+
+Qualifications
+4-year degree (Information Systems, Computer Science, Business Administration, or relational functional field) and/or equivalent combination of education or work experience.
+5+ years of business analysis and/or techno-functional experience in Human Capital Management (HCM), Time and Attendance, Workforce Management, Onboarding functions, etc.
+Techno-functional experience in PeopleSoft HCM, Workbrain, Recruiting Manager, Empower, and ServiceNow are highly desired.
+Strong requirement study, fit-gap analysis, functional and technical specifications design documentation skills required.
+Data and analytical and troubleshooting skills required.
+Ability to successfully partner with vendors/agencies and internal stakeholders; ability to work within a cross-functional team environment where teams are sometimes located remotely.
+Strong ability to prioritize and resolve technical issues within the broader project team.
+Strong technical skills in analyzing functional business processes, process modeling, business modeling tools, developing system solutions and documentation standards
+Strong collaboration skills while working with SME's, senior leaders, IT PMO, and business users/stakeholders to drive business analysis/user and system requirements.
+Strong negotiation skills when working with business users to develop requirements and defend systems capabilities.
+Experience in working with offshore / onshore model.
+Ability to collaborate across various groups, build relationships and manage effectively in a matrix organization.
+Strong customer service skills and ability to follow through to resolve customer issues.
+Ability to understand client expectations and recognize and resolve issues that may affect delivery.
+Ability to manage multiple development software projects and priorities and overall impact to the current and new security and application configuration.
+Ability to work independently with strong verbal and written communications skills.
+Ability to prioritize tasks to meet requirements in a fast-paced continuously changing business.
+
+
+How to Apply: Interested candidates are encouraged to submit a resume by visiting https://www.albertsonscompanies.com/careers.html
+
+Diversity is fundamental at Albertsons Companies. We foster an inclusive working environment where the different strengths and perspectives of each employee is both recognized and valued. We believe that building successful relationships with our customers and our communities is only possible through the diversity of our people. A diverse workforce leads to better teamwork and creative thinking, as well as mutual understanding and respect.
+
+The Albertsons Companies policy is to provide employment, training, compensation, promotion and other conditions of employment without regard to race, color, religion, sexual orientation, gender identity, national origin, sex, age, disability, veteran status, medical condition, marital status or any other legally protected status.
+
+We support a drug-free workplace -- all applicants offered a position are required to pass a pre-employment drug test before they are hired.
+
+AN EQUAL OPPORTUNITY EMPLOYER
+Seniority Level
+Entry level
+
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+
+Job Functions
+Information Technology

@@ -1,0 +1,40 @@
+The RPA Developer will be an integral part of the RPA delivery team of our Office of Intelligent Automation (OIA) at CIGNA. The RPA Developer will be responsible of supporting the strategy and frameworks of the OIA, and build RPA solutions that address CIGNA needs. Each developer will be proficient using Pega OR Blue Prism RPA/RDA.
+
+Responsibilities:
+
+Contribute to the development of governance, frameworks and procedures to continually improve a rapid, standardized and repeatable delivery factory model using Blueprism OR Pega RPA / RDA.
+Assess automation opportunities from a technical perspective and design/implement enterprise-grade solutions that are efficient, scalable and maintainable.
+Configure new RPA processes and objects using design principles that are efficient, well structured, maintainable and easy to understand using Blueprism OR Pega
+Design RPA libraries and reusable components
+Troubleshoot and debug Blueprism OR Pega RPA/RDA automations for bug fixes
+Analysis of RPA opportunities within business processes
+Help set up Blueprism OR Pega environments (software installation, installation of related technologies such as Splunk/logging etc) and communicate the technical infrastructure requirements to deploy automation solutions
+Support UAT and deployments to production and between environments.
+Perform code review for both internal and external developers.
+Help create and document test plans and scenarios for the pre-UAT phases.
+Requirements & Qualifications:
+
+A Bachelors or M.S. Degree in Computer Science/Engineering, or similar majors. OR the equivalent in work experience.
+5+ years of SDLC development preferably on Windows OS
+2+ years developing RPA & RDA bots using Blueprism OR Pega
+Having automated processes that integrate with web sites, desktop applications, mainframe emulators, ERP software, CRM software
+Having experience with Blueprism OR Pega is a must, having experience in the other area is a plus
+Having Blueprism OR Pega Certified Developer and Blueprism OR Pega Certified Solution Designer certifications
+Experience with staging and deploying automation solutions into test and production environments and providing post-production support.
+Hands-on development experience in any of the programming languages/platforms - .NET / VB / VC++ / C++ / J2EE - experience in Microsoft stack is highly preferred
+Knowledge of Microsoft Interop and packages such as MS Excel (VBA scripting), MS Visio, MS Access, MS Word
+Hands-on experience in HTML and JavaScript.
+Experience with Agile Software Development Lifecycle
+Experience with Business Process Management (BPM) techniques
+Proven experience in requirement gathering and analysis (ability to work in a structured and methodical approach, combined with an out-of-the-box thinking)
+Proven experience with design principles, object-oriented design and modular programming techniques
+Ability to understand the business process and create process flow diagrams.
+About Cigna
+
+Cigna Corporation (NYSE: CI) is a global health service company dedicated to improving the health, well-being and peace of mind of those we serve. We offer an integrated suite of health services through Cigna, Express Scripts, and our affiliates including medical, dental, behavioral health, pharmacy, vision, supplemental benefits, and other related products. Together, with our 74,000 employees worldwide, we aspire to transform health services, making them more affordable and accessible to millions. Through our unmatched expertise, bold action, fresh ideas and an unwavering commitment to patient-centered care, we are a force of health services innovation.
+
+When you work with Cigna, you’ll enjoy meaningful career experiences that enrich people’s lives while working together to make the world a healthier place. What difference will you make?  To see our culture in action, search #TeamCigna on Instagram.
+
+Qualified applicants will be considered without regard to race, color, age, disability, sex, childbirth (including pregnancy) or related medical conditions including but not limited to lactation, sexual orientation, gender identity or expression, veteran or military status, religion, national origin, ancestry, marital or familial status, genetic information, status with regard to public assistance, citizenship status or any other characteristic protected by applicable equal employment opportunity laws.
+
+If you require an accommodation based on your physical or mental disability please email: SeeYourself@cigna.com.  Do not email SeeYourself@cigna.com for an update on your application or to provide your resume as you will not receive a response.

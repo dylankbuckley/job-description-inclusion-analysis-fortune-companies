@@ -1,0 +1,45 @@
+Description
+
+SHIFT: Day Job
+
+SCHEDULE: Full-time
+
+
+
+Your Talent. Our Vision. At Anthem, Inc., it’s a powerful combination, and the foundation upon which we’re creating greater access to care for our members, greater value for our customers, and greater health for our communities. Join us and together we will drive the future of health care.
+
+
+
+This is an exceptional opportunity to do innovative work that means more to you and those we serve at one of America's leading health benefits companies and a Fortune Top 50 Company.
+
+
+
+
+
+Developer Sr is responsible for participating in all phases of the development and maintenance life cycle, typically for an assigned business unit, client program, or corporate department and utilizing various customer technology platforms.
+
+
+
+Primary duties may include, but are not limited to:
+
+Develop applications using TFS, ASP.NET, C#, VB.NET, IIS, WCF, Web API, Web Services, MVC 5/Core 2.x, LINQ, Telerik Kendo UI Controls, Entity Framework and Design Patterns
+Build and update websites using Razor, HTML5, Drupal, PHP, Bootstrap, JavaScript, jQuery, JSON, Angular JS, CSS, and other front-end technologies
+Develop applications using ASP.NET, C#, VB.NET, SQL Server and Oracle
+Create data transformation and reporting jobs using SSIS, SSRS, and Crystal Reports
+Maintains active relationships with customers to determine business requirements.
+Collaborates with engineers and graphic designers, analyzes and classifies complex change request and reviews and evaluates possible enhancements.
+Works with development team to develop and define application scope and objectives and prepare functional and/or technical specifications.
+Analyzes and evaluates detailed business and technical requirements.
+Codes and maintains complex components of information systems.
+Mentors others on coding standards and performs code reviews.
+Develops and performs system testing and fixes defects identified during testing and re-executes unit tests to validate results.
+Aids in integrating activities with other IT departments for successful implementation and support of project efforts.
+Provides on call support and monitors the system and identifies system deficiencies.
+
+Qualifications
+
+Requires BA/BS degree or technical institute training; 3+ years experience on one platform, multi database, multi language or multi business application, or any combination of education and experience, which would provide an equivalent background. Incumbent should also have the ability to mentor others, lead small projects and provide troubleshooting support.
+
+
+
+Anthem, Inc. is ranked as one of America’s Most Admired Companies among health insurers by Fortune magazine and is a 2018 DiversityInc magazine Top 50 Company for Diversity. To learn more about our company and apply, please visit us at careers.antheminc.com. An Equal Opportunity Employer/Disability/Veteran.
